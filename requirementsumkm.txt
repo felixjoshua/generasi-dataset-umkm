@@ -1,0 +1,4 @@
+pandas==2.3.3
+numpy==2.4.0
+holidays==0.98
+openmeteo-requests==1.7.5
