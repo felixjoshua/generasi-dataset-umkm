@@ -14,15 +14,14 @@ qty = round( base_produk × f_akhir_pekan × f_holiday_window × f_curah_hujan �
 | Komponen         | Nilai / aturan                                             |
 |------------------|------------------------------------------------------------|
 | base_produk      | P001=41, P002=15, P003=81 (unit/hari, kondisi dasar)       |
-| f_akhir_pekan    | 1.6 pada Sabtu/Minggu, selain itu 1.0                      |
+| f_akhir_pekan    | 1.8 pada Sabtu 1.5 pada Minggu, selain itu 1.0                      |
 | f_holiday_window | H-1=2.2, H=3.5, H+1=2.0, H+2=1.6, di luar window=1.0       |
 | f_curah_hujan    | <10 mm → 1.0 ; 10–20 mm → 0.85 ; >20 mm → 0.70            |
 | noise            | lognormal multiplikatif, σ≈0.11 (~11%)                    |
 
 - **Hari libur** diambil dari pustaka `holidays` (kalender Indonesia). Setiap
   hari libur nasional membentuk *window* H-1, H, H+1, H+2.
-- **Curah hujan** dibangkitkan sintetis mengikuti rata-rata musiman (basah
-  Nov–Mar, kering Jun–Sep); dapat diganti dengan arsip harian Open-Meteo.
+- **Curah hujan** dibangkitkan dengan arsip harian Open-Meteo.
 - Seed acak tetap (`SEED = 42`) → hasil reproducible.
 
 ## Menjalankan
