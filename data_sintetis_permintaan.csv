@@ -1,0 +1,3289 @@
+date,product_id,product_name,qty_sold,is_weekend,is_holiday,holiday_window,rainfall_mm
+2023-01-01,P001,Selai Stroberi (250g),155,1,1,H,10.4
+2023-01-01,P002,Strawberry Cake (loyang),56,1,1,H,10.4
+2023-01-01,P003,Jus Stroberi Segar (cup),314,1,1,H,10.4
+2023-01-02,P001,Selai Stroberi (250g),84,0,0,H+1,2.8
+2023-01-02,P002,Strawberry Cake (loyang),27,0,0,H+1,2.8
+2023-01-02,P003,Jus Stroberi Segar (cup),150,0,0,H+1,2.8
+2023-01-03,P001,Selai Stroberi (250g),61,0,0,H+2,8.5
+2023-01-03,P002,Strawberry Cake (loyang),22,0,0,H+2,8.5
+2023-01-03,P003,Jus Stroberi Segar (cup),120,0,0,H+2,8.5
+2023-01-04,P001,Selai Stroberi (250g),37,0,0,---,9.7
+2023-01-04,P002,Strawberry Cake (loyang),16,0,0,---,9.7
+2023-01-04,P003,Jus Stroberi Segar (cup),86,0,0,---,9.7
+2023-01-05,P001,Selai Stroberi (250g),40,0,0,---,3.7
+2023-01-05,P002,Strawberry Cake (loyang),17,0,0,---,3.7
+2023-01-05,P003,Jus Stroberi Segar (cup),84,0,0,---,3.7
+2023-01-06,P001,Selai Stroberi (250g),41,0,0,---,1.0
+2023-01-06,P002,Strawberry Cake (loyang),17,0,0,---,1.0
+2023-01-06,P003,Jus Stroberi Segar (cup),80,0,0,---,1.0
+2023-01-07,P001,Selai Stroberi (250g),76,1,0,---,2.0
+2023-01-07,P002,Strawberry Cake (loyang),27,1,0,---,2.0
+2023-01-07,P003,Jus Stroberi Segar (cup),143,1,0,---,2.0
+2023-01-08,P001,Selai Stroberi (250g),57,1,0,---,3.3
+2023-01-08,P002,Strawberry Cake (loyang),24,1,0,---,3.3
+2023-01-08,P003,Jus Stroberi Segar (cup),119,1,0,---,3.3
+2023-01-09,P001,Selai Stroberi (250g),38,0,0,---,2.3
+2023-01-09,P002,Strawberry Cake (loyang),14,0,0,---,2.3
+2023-01-09,P003,Jus Stroberi Segar (cup),84,0,0,---,2.3
+2023-01-10,P001,Selai Stroberi (250g),41,0,0,---,1.8
+2023-01-10,P002,Strawberry Cake (loyang),16,0,0,---,1.8
+2023-01-10,P003,Jus Stroberi Segar (cup),83,0,0,---,1.8
+2023-01-11,P001,Selai Stroberi (250g),49,0,0,---,1.5
+2023-01-11,P002,Strawberry Cake (loyang),14,0,0,---,1.5
+2023-01-11,P003,Jus Stroberi Segar (cup),76,0,0,---,1.5
+2023-01-12,P001,Selai Stroberi (250g),37,0,0,---,2.0
+2023-01-12,P002,Strawberry Cake (loyang),16,0,0,---,2.0
+2023-01-12,P003,Jus Stroberi Segar (cup),89,0,0,---,2.0
+2023-01-13,P001,Selai Stroberi (250g),44,0,0,---,1.5
+2023-01-13,P002,Strawberry Cake (loyang),15,0,0,---,1.5
+2023-01-13,P003,Jus Stroberi Segar (cup),81,0,0,---,1.5
+2023-01-14,P001,Selai Stroberi (250g),75,1,0,---,2.2
+2023-01-14,P002,Strawberry Cake (loyang),28,1,0,---,2.2
+2023-01-14,P003,Jus Stroberi Segar (cup),148,1,0,---,2.2
+2023-01-15,P001,Selai Stroberi (250g),57,1,0,---,2.6
+2023-01-15,P002,Strawberry Cake (loyang),23,1,0,---,2.6
+2023-01-15,P003,Jus Stroberi Segar (cup),121,1,0,---,2.6
+2023-01-16,P001,Selai Stroberi (250g),41,0,0,---,6.2
+2023-01-16,P002,Strawberry Cake (loyang),16,0,0,---,6.2
+2023-01-16,P003,Jus Stroberi Segar (cup),82,0,0,---,6.2
+2023-01-17,P001,Selai Stroberi (250g),43,0,0,---,1.7
+2023-01-17,P002,Strawberry Cake (loyang),15,0,0,---,1.7
+2023-01-17,P003,Jus Stroberi Segar (cup),82,0,0,---,1.7
+2023-01-18,P001,Selai Stroberi (250g),43,0,0,---,2.6
+2023-01-18,P002,Strawberry Cake (loyang),13,0,0,---,2.6
+2023-01-18,P003,Jus Stroberi Segar (cup),77,0,0,---,2.6
+2023-01-19,P001,Selai Stroberi (250g),38,0,0,---,1.6
+2023-01-19,P002,Strawberry Cake (loyang),14,0,0,---,1.6
+2023-01-19,P003,Jus Stroberi Segar (cup),78,0,0,---,1.6
+2023-01-20,P001,Selai Stroberi (250g),50,0,0,---,5.4
+2023-01-20,P002,Strawberry Cake (loyang),15,0,0,---,5.4
+2023-01-20,P003,Jus Stroberi Segar (cup),96,0,0,---,5.4
+2023-01-21,P001,Selai Stroberi (250g),107,1,0,H-1,14.6
+2023-01-21,P002,Strawberry Cake (loyang),42,1,0,H-1,14.6
+2023-01-21,P003,Jus Stroberi Segar (cup),229,1,0,H-1,14.6
+2023-01-22,P001,Selai Stroberi (250g),156,1,1,H,10.8
+2023-01-22,P002,Strawberry Cake (loyang),59,1,1,H,10.8
+2023-01-22,P003,Jus Stroberi Segar (cup),314,1,1,H,10.8
+2023-01-23,P001,Selai Stroberi (250g),79,0,0,H+1,1.4
+2023-01-23,P002,Strawberry Cake (loyang),29,0,0,H+1,1.4
+2023-01-23,P003,Jus Stroberi Segar (cup),167,0,0,H+1,1.4
+2023-01-24,P001,Selai Stroberi (250g),59,0,0,H+2,3.4
+2023-01-24,P002,Strawberry Cake (loyang),21,0,0,H+2,3.4
+2023-01-24,P003,Jus Stroberi Segar (cup),111,0,0,H+2,3.4
+2023-01-25,P001,Selai Stroberi (250g),22,0,0,---,22.1
+2023-01-25,P002,Strawberry Cake (loyang),10,0,0,---,22.1
+2023-01-25,P003,Jus Stroberi Segar (cup),53,0,0,---,22.1
+2023-01-26,P001,Selai Stroberi (250g),43,0,0,---,8.9
+2023-01-26,P002,Strawberry Cake (loyang),14,0,0,---,8.9
+2023-01-26,P003,Jus Stroberi Segar (cup),81,0,0,---,8.9
+2023-01-27,P001,Selai Stroberi (250g),47,0,0,---,7.4
+2023-01-27,P002,Strawberry Cake (loyang),16,0,0,---,7.4
+2023-01-27,P003,Jus Stroberi Segar (cup),92,0,0,---,7.4
+2023-01-28,P001,Selai Stroberi (250g),63,1,0,---,10.6
+2023-01-28,P002,Strawberry Cake (loyang),24,1,0,---,10.6
+2023-01-28,P003,Jus Stroberi Segar (cup),129,1,0,---,10.6
+2023-01-29,P001,Selai Stroberi (250g),55,1,0,---,4.4
+2023-01-29,P002,Strawberry Cake (loyang),23,1,0,---,4.4
+2023-01-29,P003,Jus Stroberi Segar (cup),116,1,0,---,4.4
+2023-01-30,P001,Selai Stroberi (250g),40,0,0,---,0.5
+2023-01-30,P002,Strawberry Cake (loyang),16,0,0,---,0.5
+2023-01-30,P003,Jus Stroberi Segar (cup),84,0,0,---,0.5
+2023-01-31,P001,Selai Stroberi (250g),43,0,0,---,1.0
+2023-01-31,P002,Strawberry Cake (loyang),15,0,0,---,1.0
+2023-01-31,P003,Jus Stroberi Segar (cup),77,0,0,---,1.0
+2023-02-01,P001,Selai Stroberi (250g),40,0,0,---,9.0
+2023-02-01,P002,Strawberry Cake (loyang),12,0,0,---,9.0
+2023-02-01,P003,Jus Stroberi Segar (cup),68,0,0,---,9.0
+2023-02-02,P001,Selai Stroberi (250g),35,0,0,---,7.2
+2023-02-02,P002,Strawberry Cake (loyang),14,0,0,---,7.2
+2023-02-02,P003,Jus Stroberi Segar (cup),83,0,0,---,7.2
+2023-02-03,P001,Selai Stroberi (250g),40,0,0,---,4.3
+2023-02-03,P002,Strawberry Cake (loyang),16,0,0,---,4.3
+2023-02-03,P003,Jus Stroberi Segar (cup),98,0,0,---,4.3
+2023-02-04,P001,Selai Stroberi (250g),71,1,0,---,2.6
+2023-02-04,P002,Strawberry Cake (loyang),28,1,0,---,2.6
+2023-02-04,P003,Jus Stroberi Segar (cup),137,1,0,---,2.6
+2023-02-05,P001,Selai Stroberi (250g),59,1,0,---,0.4
+2023-02-05,P002,Strawberry Cake (loyang),21,1,0,---,0.4
+2023-02-05,P003,Jus Stroberi Segar (cup),117,1,0,---,0.4
+2023-02-06,P001,Selai Stroberi (250g),43,0,0,---,1.9
+2023-02-06,P002,Strawberry Cake (loyang),12,0,0,---,1.9
+2023-02-06,P003,Jus Stroberi Segar (cup),83,0,0,---,1.9
+2023-02-07,P001,Selai Stroberi (250g),41,0,0,---,4.6
+2023-02-07,P002,Strawberry Cake (loyang),14,0,0,---,4.6
+2023-02-07,P003,Jus Stroberi Segar (cup),68,0,0,---,4.6
+2023-02-08,P001,Selai Stroberi (250g),40,0,0,---,6.1
+2023-02-08,P002,Strawberry Cake (loyang),14,0,0,---,6.1
+2023-02-08,P003,Jus Stroberi Segar (cup),82,0,0,---,6.1
+2023-02-09,P001,Selai Stroberi (250g),26,0,0,---,20.8
+2023-02-09,P002,Strawberry Cake (loyang),12,0,0,---,20.8
+2023-02-09,P003,Jus Stroberi Segar (cup),50,0,0,---,20.8
+2023-02-10,P001,Selai Stroberi (250g),34,0,0,---,14.6
+2023-02-10,P002,Strawberry Cake (loyang),15,0,0,---,14.6
+2023-02-10,P003,Jus Stroberi Segar (cup),78,0,0,---,14.6
+2023-02-11,P001,Selai Stroberi (250g),77,1,0,---,5.0
+2023-02-11,P002,Strawberry Cake (loyang),28,1,0,---,5.0
+2023-02-11,P003,Jus Stroberi Segar (cup),147,1,0,---,5.0
+2023-02-12,P001,Selai Stroberi (250g),52,1,0,---,29.9
+2023-02-12,P002,Strawberry Cake (loyang),15,1,0,---,29.9
+2023-02-12,P003,Jus Stroberi Segar (cup),87,1,0,---,29.9
+2023-02-13,P001,Selai Stroberi (250g),36,0,0,---,8.6
+2023-02-13,P002,Strawberry Cake (loyang),14,0,0,---,8.6
+2023-02-13,P003,Jus Stroberi Segar (cup),69,0,0,---,8.6
+2023-02-14,P001,Selai Stroberi (250g),43,0,0,---,4.4
+2023-02-14,P002,Strawberry Cake (loyang),15,0,0,---,4.4
+2023-02-14,P003,Jus Stroberi Segar (cup),68,0,0,---,4.4
+2023-02-15,P001,Selai Stroberi (250g),36,0,0,---,7.1
+2023-02-15,P002,Strawberry Cake (loyang),15,0,0,---,7.1
+2023-02-15,P003,Jus Stroberi Segar (cup),87,0,0,---,7.1
+2023-02-16,P001,Selai Stroberi (250g),48,0,0,---,4.1
+2023-02-16,P002,Strawberry Cake (loyang),19,0,0,---,4.1
+2023-02-16,P003,Jus Stroberi Segar (cup),83,0,0,---,4.1
+2023-02-17,P001,Selai Stroberi (250g),82,0,0,H-1,16.0
+2023-02-17,P002,Strawberry Cake (loyang),29,0,0,H-1,16.0
+2023-02-17,P003,Jus Stroberi Segar (cup),174,0,0,H-1,16.0
+2023-02-18,P001,Selai Stroberi (250g),169,1,1,H,2.4
+2023-02-18,P002,Strawberry Cake (loyang),64,1,1,H,2.4
+2023-02-18,P003,Jus Stroberi Segar (cup),339,1,1,H,2.4
+2023-02-19,P001,Selai Stroberi (250g),99,1,0,H+1,3.5
+2023-02-19,P002,Strawberry Cake (loyang),39,1,0,H+1,3.5
+2023-02-19,P003,Jus Stroberi Segar (cup),201,1,0,H+1,3.5
+2023-02-20,P001,Selai Stroberi (250g),59,0,0,H+2,4.9
+2023-02-20,P002,Strawberry Cake (loyang),21,0,0,H+2,4.9
+2023-02-20,P003,Jus Stroberi Segar (cup),107,0,0,H+2,4.9
+2023-02-21,P001,Selai Stroberi (250g),38,0,0,---,5.9
+2023-02-21,P002,Strawberry Cake (loyang),15,0,0,---,5.9
+2023-02-21,P003,Jus Stroberi Segar (cup),94,0,0,---,5.9
+2023-02-22,P001,Selai Stroberi (250g),35,0,0,---,16.6
+2023-02-22,P002,Strawberry Cake (loyang),14,0,0,---,16.6
+2023-02-22,P003,Jus Stroberi Segar (cup),64,0,0,---,16.6
+2023-02-23,P001,Selai Stroberi (250g),35,0,0,---,7.4
+2023-02-23,P002,Strawberry Cake (loyang),14,0,0,---,7.4
+2023-02-23,P003,Jus Stroberi Segar (cup),74,0,0,---,7.4
+2023-02-24,P001,Selai Stroberi (250g),47,0,0,---,16.2
+2023-02-24,P002,Strawberry Cake (loyang),13,0,0,---,16.2
+2023-02-24,P003,Jus Stroberi Segar (cup),83,0,0,---,16.2
+2023-02-25,P001,Selai Stroberi (250g),62,1,0,---,11.0
+2023-02-25,P002,Strawberry Cake (loyang),26,1,0,---,11.0
+2023-02-25,P003,Jus Stroberi Segar (cup),135,1,0,---,11.0
+2023-02-26,P001,Selai Stroberi (250g),59,1,0,---,9.1
+2023-02-26,P002,Strawberry Cake (loyang),22,1,0,---,9.1
+2023-02-26,P003,Jus Stroberi Segar (cup),115,1,0,---,9.1
+2023-02-27,P001,Selai Stroberi (250g),36,0,0,---,10.2
+2023-02-27,P002,Strawberry Cake (loyang),12,0,0,---,10.2
+2023-02-27,P003,Jus Stroberi Segar (cup),58,0,0,---,10.2
+2023-02-28,P001,Selai Stroberi (250g),29,0,0,---,15.6
+2023-02-28,P002,Strawberry Cake (loyang),13,0,0,---,15.6
+2023-02-28,P003,Jus Stroberi Segar (cup),81,0,0,---,15.6
+2023-03-01,P001,Selai Stroberi (250g),41,0,0,---,7.5
+2023-03-01,P002,Strawberry Cake (loyang),15,0,0,---,7.5
+2023-03-01,P003,Jus Stroberi Segar (cup),82,0,0,---,7.5
+2023-03-02,P001,Selai Stroberi (250g),31,0,0,---,31.3
+2023-03-02,P002,Strawberry Cake (loyang),10,0,0,---,31.3
+2023-03-02,P003,Jus Stroberi Segar (cup),49,0,0,---,31.3
+2023-03-03,P001,Selai Stroberi (250g),48,0,0,---,1.4
+2023-03-03,P002,Strawberry Cake (loyang),17,0,0,---,1.4
+2023-03-03,P003,Jus Stroberi Segar (cup),100,0,0,---,1.4
+2023-03-04,P001,Selai Stroberi (250g),73,1,0,---,4.3
+2023-03-04,P002,Strawberry Cake (loyang),25,1,0,---,4.3
+2023-03-04,P003,Jus Stroberi Segar (cup),133,1,0,---,4.3
+2023-03-05,P001,Selai Stroberi (250g),67,1,0,---,3.0
+2023-03-05,P002,Strawberry Cake (loyang),25,1,0,---,3.0
+2023-03-05,P003,Jus Stroberi Segar (cup),119,1,0,---,3.0
+2023-03-06,P001,Selai Stroberi (250g),38,0,0,---,2.2
+2023-03-06,P002,Strawberry Cake (loyang),17,0,0,---,2.2
+2023-03-06,P003,Jus Stroberi Segar (cup),71,0,0,---,2.2
+2023-03-07,P001,Selai Stroberi (250g),36,0,0,---,1.8
+2023-03-07,P002,Strawberry Cake (loyang),16,0,0,---,1.8
+2023-03-07,P003,Jus Stroberi Segar (cup),77,0,0,---,1.8
+2023-03-08,P001,Selai Stroberi (250g),34,0,0,---,15.3
+2023-03-08,P002,Strawberry Cake (loyang),13,0,0,---,15.3
+2023-03-08,P003,Jus Stroberi Segar (cup),71,0,0,---,15.3
+2023-03-09,P001,Selai Stroberi (250g),46,0,0,---,9.8
+2023-03-09,P002,Strawberry Cake (loyang),15,0,0,---,9.8
+2023-03-09,P003,Jus Stroberi Segar (cup),85,0,0,---,9.8
+2023-03-10,P001,Selai Stroberi (250g),22,0,0,---,23.8
+2023-03-10,P002,Strawberry Cake (loyang),11,0,0,---,23.8
+2023-03-10,P003,Jus Stroberi Segar (cup),53,0,0,---,23.8
+2023-03-11,P001,Selai Stroberi (250g),67,1,0,---,1.8
+2023-03-11,P002,Strawberry Cake (loyang),26,1,0,---,1.8
+2023-03-11,P003,Jus Stroberi Segar (cup),141,1,0,---,1.8
+2023-03-12,P001,Selai Stroberi (250g),64,1,0,---,2.7
+2023-03-12,P002,Strawberry Cake (loyang),21,1,0,---,2.7
+2023-03-12,P003,Jus Stroberi Segar (cup),120,1,0,---,2.7
+2023-03-13,P001,Selai Stroberi (250g),38,0,0,---,0.8
+2023-03-13,P002,Strawberry Cake (loyang),15,0,0,---,0.8
+2023-03-13,P003,Jus Stroberi Segar (cup),88,0,0,---,0.8
+2023-03-14,P001,Selai Stroberi (250g),42,0,0,---,1.7
+2023-03-14,P002,Strawberry Cake (loyang),17,0,0,---,1.7
+2023-03-14,P003,Jus Stroberi Segar (cup),79,0,0,---,1.7
+2023-03-15,P001,Selai Stroberi (250g),37,0,0,---,6.7
+2023-03-15,P002,Strawberry Cake (loyang),15,0,0,---,6.7
+2023-03-15,P003,Jus Stroberi Segar (cup),82,0,0,---,6.7
+2023-03-16,P001,Selai Stroberi (250g),41,0,0,---,5.3
+2023-03-16,P002,Strawberry Cake (loyang),13,0,0,---,5.3
+2023-03-16,P003,Jus Stroberi Segar (cup),81,0,0,---,5.3
+2023-03-17,P001,Selai Stroberi (250g),39,0,0,---,17.6
+2023-03-17,P002,Strawberry Cake (loyang),18,0,0,---,17.6
+2023-03-17,P003,Jus Stroberi Segar (cup),91,0,0,---,17.6
+2023-03-18,P001,Selai Stroberi (250g),69,1,0,---,4.3
+2023-03-18,P002,Strawberry Cake (loyang),27,1,0,---,4.3
+2023-03-18,P003,Jus Stroberi Segar (cup),132,1,0,---,4.3
+2023-03-19,P001,Selai Stroberi (250g),58,1,0,---,6.5
+2023-03-19,P002,Strawberry Cake (loyang),23,1,0,---,6.5
+2023-03-19,P003,Jus Stroberi Segar (cup),130,1,0,---,6.5
+2023-03-20,P001,Selai Stroberi (250g),37,0,0,---,6.8
+2023-03-20,P002,Strawberry Cake (loyang),14,0,0,---,6.8
+2023-03-20,P003,Jus Stroberi Segar (cup),63,0,0,---,6.8
+2023-03-21,P001,Selai Stroberi (250g),87,0,0,H-1,5.0
+2023-03-21,P002,Strawberry Cake (loyang),31,0,0,H-1,5.0
+2023-03-21,P003,Jus Stroberi Segar (cup),172,0,0,H-1,5.0
+2023-03-22,P001,Selai Stroberi (250g),136,0,1,H,2.8
+2023-03-22,P002,Strawberry Cake (loyang),52,0,1,H,2.8
+2023-03-22,P003,Jus Stroberi Segar (cup),266,0,1,H,2.8
+2023-03-23,P001,Selai Stroberi (250g),74,0,0,H+1,3.8
+2023-03-23,P002,Strawberry Cake (loyang),33,0,0,H+1,3.8
+2023-03-23,P003,Jus Stroberi Segar (cup),150,0,0,H+1,3.8
+2023-03-24,P001,Selai Stroberi (250g),60,0,0,H+2,4.5
+2023-03-24,P002,Strawberry Cake (loyang),27,0,0,H+2,4.5
+2023-03-24,P003,Jus Stroberi Segar (cup),151,0,0,H+2,4.5
+2023-03-25,P001,Selai Stroberi (250g),67,1,0,---,3.9
+2023-03-25,P002,Strawberry Cake (loyang),26,1,0,---,3.9
+2023-03-25,P003,Jus Stroberi Segar (cup),147,1,0,---,3.9
+2023-03-26,P001,Selai Stroberi (250g),53,1,0,---,37.0
+2023-03-26,P002,Strawberry Cake (loyang),16,1,0,---,37.0
+2023-03-26,P003,Jus Stroberi Segar (cup),90,1,0,---,37.0
+2023-03-27,P001,Selai Stroberi (250g),37,0,0,---,10.4
+2023-03-27,P002,Strawberry Cake (loyang),13,0,0,---,10.4
+2023-03-27,P003,Jus Stroberi Segar (cup),65,0,0,---,10.4
+2023-03-28,P001,Selai Stroberi (250g),39,0,0,---,2.5
+2023-03-28,P002,Strawberry Cake (loyang),13,0,0,---,2.5
+2023-03-28,P003,Jus Stroberi Segar (cup),78,0,0,---,2.5
+2023-03-29,P001,Selai Stroberi (250g),33,0,0,---,15.3
+2023-03-29,P002,Strawberry Cake (loyang),13,0,0,---,15.3
+2023-03-29,P003,Jus Stroberi Segar (cup),64,0,0,---,15.3
+2023-03-30,P001,Selai Stroberi (250g),28,0,0,---,25.8
+2023-03-30,P002,Strawberry Cake (loyang),11,0,0,---,25.8
+2023-03-30,P003,Jus Stroberi Segar (cup),53,0,0,---,25.8
+2023-03-31,P001,Selai Stroberi (250g),45,0,0,---,0.9
+2023-03-31,P002,Strawberry Cake (loyang),17,0,0,---,0.9
+2023-03-31,P003,Jus Stroberi Segar (cup),88,0,0,---,0.9
+2023-04-01,P001,Selai Stroberi (250g),69,1,0,---,3.7
+2023-04-01,P002,Strawberry Cake (loyang),27,1,0,---,3.7
+2023-04-01,P003,Jus Stroberi Segar (cup),143,1,0,---,3.7
+2023-04-02,P001,Selai Stroberi (250g),68,1,0,---,1.8
+2023-04-02,P002,Strawberry Cake (loyang),25,1,0,---,1.8
+2023-04-02,P003,Jus Stroberi Segar (cup),123,1,0,---,1.8
+2023-04-03,P001,Selai Stroberi (250g),37,0,0,---,4.0
+2023-04-03,P002,Strawberry Cake (loyang),13,0,0,---,4.0
+2023-04-03,P003,Jus Stroberi Segar (cup),90,0,0,---,4.0
+2023-04-04,P001,Selai Stroberi (250g),41,0,0,---,1.7
+2023-04-04,P002,Strawberry Cake (loyang),16,0,0,---,1.7
+2023-04-04,P003,Jus Stroberi Segar (cup),66,0,0,---,1.7
+2023-04-05,P001,Selai Stroberi (250g),44,0,0,---,1.1
+2023-04-05,P002,Strawberry Cake (loyang),16,0,0,---,1.1
+2023-04-05,P003,Jus Stroberi Segar (cup),71,0,0,---,1.1
+2023-04-06,P001,Selai Stroberi (250g),86,0,0,H-1,0.0
+2023-04-06,P002,Strawberry Cake (loyang),33,0,0,H-1,0.0
+2023-04-06,P003,Jus Stroberi Segar (cup),176,0,0,H-1,0.0
+2023-04-07,P001,Selai Stroberi (250g),143,0,1,H,1.9
+2023-04-07,P002,Strawberry Cake (loyang),54,0,1,H,1.9
+2023-04-07,P003,Jus Stroberi Segar (cup),286,0,1,H,1.9
+2023-04-08,P001,Selai Stroberi (250g),113,1,0,H+1,0.4
+2023-04-08,P002,Strawberry Cake (loyang),44,1,0,H+1,0.4
+2023-04-08,P003,Jus Stroberi Segar (cup),203,1,0,H+1,0.4
+2023-04-09,P001,Selai Stroberi (250g),79,1,0,H+2,4.3
+2023-04-09,P002,Strawberry Cake (loyang),30,1,0,H+2,4.3
+2023-04-09,P003,Jus Stroberi Segar (cup),162,1,0,H+2,4.3
+2023-04-10,P001,Selai Stroberi (250g),39,0,0,---,2.6
+2023-04-10,P002,Strawberry Cake (loyang),12,0,0,---,2.6
+2023-04-10,P003,Jus Stroberi Segar (cup),83,0,0,---,2.6
+2023-04-11,P001,Selai Stroberi (250g),47,0,0,---,2.0
+2023-04-11,P002,Strawberry Cake (loyang),13,0,0,---,2.0
+2023-04-11,P003,Jus Stroberi Segar (cup),87,0,0,---,2.0
+2023-04-12,P001,Selai Stroberi (250g),25,0,0,---,24.0
+2023-04-12,P002,Strawberry Cake (loyang),10,0,0,---,24.0
+2023-04-12,P003,Jus Stroberi Segar (cup),44,0,0,---,24.0
+2023-04-13,P001,Selai Stroberi (250g),39,0,0,---,9.5
+2023-04-13,P002,Strawberry Cake (loyang),17,0,0,---,9.5
+2023-04-13,P003,Jus Stroberi Segar (cup),85,0,0,---,9.5
+2023-04-14,P001,Selai Stroberi (250g),51,0,0,---,5.7
+2023-04-14,P002,Strawberry Cake (loyang),18,0,0,---,5.7
+2023-04-14,P003,Jus Stroberi Segar (cup),92,0,0,---,5.7
+2023-04-15,P001,Selai Stroberi (250g),79,1,0,---,3.0
+2023-04-15,P002,Strawberry Cake (loyang),28,1,0,---,3.0
+2023-04-15,P003,Jus Stroberi Segar (cup),151,1,0,---,3.0
+2023-04-16,P001,Selai Stroberi (250g),59,1,0,---,0.9
+2023-04-16,P002,Strawberry Cake (loyang),23,1,0,---,0.9
+2023-04-16,P003,Jus Stroberi Segar (cup),114,1,0,---,0.9
+2023-04-17,P001,Selai Stroberi (250g),44,0,0,---,1.6
+2023-04-17,P002,Strawberry Cake (loyang),13,0,0,---,1.6
+2023-04-17,P003,Jus Stroberi Segar (cup),86,0,0,---,1.6
+2023-04-18,P001,Selai Stroberi (250g),39,0,0,---,4.6
+2023-04-18,P002,Strawberry Cake (loyang),17,0,0,---,4.6
+2023-04-18,P003,Jus Stroberi Segar (cup),86,0,0,---,4.6
+2023-04-19,P001,Selai Stroberi (250g),47,0,0,---,7.1
+2023-04-19,P002,Strawberry Cake (loyang),16,0,0,---,7.1
+2023-04-19,P003,Jus Stroberi Segar (cup),67,0,0,---,7.1
+2023-04-20,P001,Selai Stroberi (250g),34,0,0,---,10.6
+2023-04-20,P002,Strawberry Cake (loyang),11,0,0,---,10.6
+2023-04-20,P003,Jus Stroberi Segar (cup),64,0,0,---,10.6
+2023-04-21,P001,Selai Stroberi (250g),98,0,0,H-1,4.2
+2023-04-21,P002,Strawberry Cake (loyang),35,0,0,H-1,4.2
+2023-04-21,P003,Jus Stroberi Segar (cup),178,0,0,H-1,4.2
+2023-04-22,P001,Selai Stroberi (250g),168,1,1,H,1.5
+2023-04-22,P002,Strawberry Cake (loyang),65,1,1,H,1.5
+2023-04-22,P003,Jus Stroberi Segar (cup),334,1,1,H,1.5
+2023-04-23,P001,Selai Stroberi (250g),157,1,1,H,2.1
+2023-04-23,P002,Strawberry Cake (loyang),60,1,1,H,2.1
+2023-04-23,P003,Jus Stroberi Segar (cup),329,1,1,H,2.1
+2023-04-24,P001,Selai Stroberi (250g),82,0,0,H+1,4.0
+2023-04-24,P002,Strawberry Cake (loyang),27,0,0,H+1,4.0
+2023-04-24,P003,Jus Stroberi Segar (cup),162,0,0,H+1,4.0
+2023-04-25,P001,Selai Stroberi (250g),60,0,0,H+2,4.7
+2023-04-25,P002,Strawberry Cake (loyang),23,0,0,H+2,4.7
+2023-04-25,P003,Jus Stroberi Segar (cup),133,0,0,H+2,4.7
+2023-04-26,P001,Selai Stroberi (250g),32,0,0,---,3.7
+2023-04-26,P002,Strawberry Cake (loyang),14,0,0,---,3.7
+2023-04-26,P003,Jus Stroberi Segar (cup),85,0,0,---,3.7
+2023-04-27,P001,Selai Stroberi (250g),34,0,0,---,7.0
+2023-04-27,P002,Strawberry Cake (loyang),17,0,0,---,7.0
+2023-04-27,P003,Jus Stroberi Segar (cup),83,0,0,---,7.0
+2023-04-28,P001,Selai Stroberi (250g),47,0,0,---,9.7
+2023-04-28,P002,Strawberry Cake (loyang),16,0,0,---,9.7
+2023-04-28,P003,Jus Stroberi Segar (cup),95,0,0,---,9.7
+2023-04-29,P001,Selai Stroberi (250g),76,1,0,---,0.9
+2023-04-29,P002,Strawberry Cake (loyang),27,1,0,---,0.9
+2023-04-29,P003,Jus Stroberi Segar (cup),146,1,0,---,0.9
+2023-04-30,P001,Selai Stroberi (250g),109,1,0,H-1,6.9
+2023-04-30,P002,Strawberry Cake (loyang),39,1,0,H-1,6.9
+2023-04-30,P003,Jus Stroberi Segar (cup),215,1,0,H-1,6.9
+2023-05-01,P001,Selai Stroberi (250g),139,0,1,H,3.5
+2023-05-01,P002,Strawberry Cake (loyang),53,0,1,H,3.5
+2023-05-01,P003,Jus Stroberi Segar (cup),288,0,1,H,3.5
+2023-05-02,P001,Selai Stroberi (250g),76,0,0,H+1,1.2
+2023-05-02,P002,Strawberry Cake (loyang),30,0,0,H+1,1.2
+2023-05-02,P003,Jus Stroberi Segar (cup),172,0,0,H+1,1.2
+2023-05-03,P001,Selai Stroberi (250g),57,0,0,H+2,8.6
+2023-05-03,P002,Strawberry Cake (loyang),21,0,0,H+2,8.6
+2023-05-03,P003,Jus Stroberi Segar (cup),122,0,0,H+2,8.6
+2023-05-04,P001,Selai Stroberi (250g),29,0,0,---,21.0
+2023-05-04,P002,Strawberry Cake (loyang),10,0,0,---,21.0
+2023-05-04,P003,Jus Stroberi Segar (cup),63,0,0,---,21.0
+2023-05-05,P001,Selai Stroberi (250g),33,0,0,---,41.1
+2023-05-05,P002,Strawberry Cake (loyang),13,0,0,---,41.1
+2023-05-05,P003,Jus Stroberi Segar (cup),64,0,0,---,41.1
+2023-05-06,P001,Selai Stroberi (250g),67,1,0,---,27.8
+2023-05-06,P002,Strawberry Cake (loyang),21,1,0,---,27.8
+2023-05-06,P003,Jus Stroberi Segar (cup),100,1,0,---,27.8
+2023-05-07,P001,Selai Stroberi (250g),52,1,0,---,34.2
+2023-05-07,P002,Strawberry Cake (loyang),17,1,0,---,34.2
+2023-05-07,P003,Jus Stroberi Segar (cup),93,1,0,---,34.2
+2023-05-08,P001,Selai Stroberi (250g),31,0,0,---,39.0
+2023-05-08,P002,Strawberry Cake (loyang),7,0,0,---,39.0
+2023-05-08,P003,Jus Stroberi Segar (cup),42,0,0,---,39.0
+2023-05-09,P001,Selai Stroberi (250g),34,0,0,---,0.5
+2023-05-09,P002,Strawberry Cake (loyang),14,0,0,---,0.5
+2023-05-09,P003,Jus Stroberi Segar (cup),84,0,0,---,0.5
+2023-05-10,P001,Selai Stroberi (250g),42,0,0,---,2.5
+2023-05-10,P002,Strawberry Cake (loyang),15,0,0,---,2.5
+2023-05-10,P003,Jus Stroberi Segar (cup),69,0,0,---,2.5
+2023-05-11,P001,Selai Stroberi (250g),31,0,0,---,4.4
+2023-05-11,P002,Strawberry Cake (loyang),15,0,0,---,4.4
+2023-05-11,P003,Jus Stroberi Segar (cup),76,0,0,---,4.4
+2023-05-12,P001,Selai Stroberi (250g),46,0,0,---,0.5
+2023-05-12,P002,Strawberry Cake (loyang),18,0,0,---,0.5
+2023-05-12,P003,Jus Stroberi Segar (cup),89,0,0,---,0.5
+2023-05-13,P001,Selai Stroberi (250g),75,1,0,---,4.6
+2023-05-13,P002,Strawberry Cake (loyang),27,1,0,---,4.6
+2023-05-13,P003,Jus Stroberi Segar (cup),148,1,0,---,4.6
+2023-05-14,P001,Selai Stroberi (250g),57,1,0,---,0.0
+2023-05-14,P002,Strawberry Cake (loyang),22,1,0,---,0.0
+2023-05-14,P003,Jus Stroberi Segar (cup),122,1,0,---,0.0
+2023-05-15,P001,Selai Stroberi (250g),43,0,0,---,2.4
+2023-05-15,P002,Strawberry Cake (loyang),14,0,0,---,2.4
+2023-05-15,P003,Jus Stroberi Segar (cup),84,0,0,---,2.4
+2023-05-16,P001,Selai Stroberi (250g),39,0,0,---,1.2
+2023-05-16,P002,Strawberry Cake (loyang),15,0,0,---,1.2
+2023-05-16,P003,Jus Stroberi Segar (cup),87,0,0,---,1.2
+2023-05-17,P001,Selai Stroberi (250g),80,0,0,H-1,4.5
+2023-05-17,P002,Strawberry Cake (loyang),31,0,0,H-1,4.5
+2023-05-17,P003,Jus Stroberi Segar (cup),164,0,0,H-1,4.5
+2023-05-18,P001,Selai Stroberi (250g),131,0,1,H,1.2
+2023-05-18,P002,Strawberry Cake (loyang),51,0,1,H,1.2
+2023-05-18,P003,Jus Stroberi Segar (cup),286,0,1,H,1.2
+2023-05-19,P001,Selai Stroberi (250g),83,0,0,H+1,5.0
+2023-05-19,P002,Strawberry Cake (loyang),32,0,0,H+1,5.0
+2023-05-19,P003,Jus Stroberi Segar (cup),177,0,0,H+1,5.0
+2023-05-20,P001,Selai Stroberi (250g),97,1,0,H+2,2.2
+2023-05-20,P002,Strawberry Cake (loyang),34,1,0,H+2,2.2
+2023-05-20,P003,Jus Stroberi Segar (cup),195,1,0,H+2,2.2
+2023-05-21,P001,Selai Stroberi (250g),60,1,0,---,0.5
+2023-05-21,P002,Strawberry Cake (loyang),21,1,0,---,0.5
+2023-05-21,P003,Jus Stroberi Segar (cup),115,1,0,---,0.5
+2023-05-22,P001,Selai Stroberi (250g),34,0,0,---,2.4
+2023-05-22,P002,Strawberry Cake (loyang),14,0,0,---,2.4
+2023-05-22,P003,Jus Stroberi Segar (cup),77,0,0,---,2.4
+2023-05-23,P001,Selai Stroberi (250g),43,0,0,---,1.1
+2023-05-23,P002,Strawberry Cake (loyang),18,0,0,---,1.1
+2023-05-23,P003,Jus Stroberi Segar (cup),69,0,0,---,1.1
+2023-05-24,P001,Selai Stroberi (250g),42,0,0,---,2.4
+2023-05-24,P002,Strawberry Cake (loyang),13,0,0,---,2.4
+2023-05-24,P003,Jus Stroberi Segar (cup),84,0,0,---,2.4
+2023-05-25,P001,Selai Stroberi (250g),39,0,0,---,2.2
+2023-05-25,P002,Strawberry Cake (loyang),12,0,0,---,2.2
+2023-05-25,P003,Jus Stroberi Segar (cup),87,0,0,---,2.2
+2023-05-26,P001,Selai Stroberi (250g),42,0,0,---,0.3
+2023-05-26,P002,Strawberry Cake (loyang),16,0,0,---,0.3
+2023-05-26,P003,Jus Stroberi Segar (cup),79,0,0,---,0.3
+2023-05-27,P001,Selai Stroberi (250g),69,1,0,---,1.8
+2023-05-27,P002,Strawberry Cake (loyang),28,1,0,---,1.8
+2023-05-27,P003,Jus Stroberi Segar (cup),142,1,0,---,1.8
+2023-05-28,P001,Selai Stroberi (250g),61,1,0,---,3.8
+2023-05-28,P002,Strawberry Cake (loyang),23,1,0,---,3.8
+2023-05-28,P003,Jus Stroberi Segar (cup),131,1,0,---,3.8
+2023-05-29,P001,Selai Stroberi (250g),39,0,0,---,1.4
+2023-05-29,P002,Strawberry Cake (loyang),13,0,0,---,1.4
+2023-05-29,P003,Jus Stroberi Segar (cup),89,0,0,---,1.4
+2023-05-30,P001,Selai Stroberi (250g),39,0,0,---,3.0
+2023-05-30,P002,Strawberry Cake (loyang),17,0,0,---,3.0
+2023-05-30,P003,Jus Stroberi Segar (cup),83,0,0,---,3.0
+2023-05-31,P001,Selai Stroberi (250g),87,0,0,H-1,0.9
+2023-05-31,P002,Strawberry Cake (loyang),34,0,0,H-1,0.9
+2023-05-31,P003,Jus Stroberi Segar (cup),192,0,0,H-1,0.9
+2023-06-01,P001,Selai Stroberi (250g),148,0,1,H,1.9
+2023-06-01,P002,Strawberry Cake (loyang),53,0,1,H,1.9
+2023-06-01,P003,Jus Stroberi Segar (cup),281,0,1,H,1.9
+2023-06-02,P001,Selai Stroberi (250g),88,0,0,H+1,0.0
+2023-06-02,P002,Strawberry Cake (loyang),30,0,0,H+1,0.0
+2023-06-02,P003,Jus Stroberi Segar (cup),171,0,0,H+1,0.0
+2023-06-03,P001,Selai Stroberi (250g),120,1,0,H-1,0.6
+2023-06-03,P002,Strawberry Cake (loyang),45,1,0,H-1,0.6
+2023-06-03,P003,Jus Stroberi Segar (cup),233,1,0,H-1,0.6
+2023-06-04,P001,Selai Stroberi (250g),154,1,1,H,1.2
+2023-06-04,P002,Strawberry Cake (loyang),57,1,1,H,1.2
+2023-06-04,P003,Jus Stroberi Segar (cup),311,1,1,H,1.2
+2023-06-05,P001,Selai Stroberi (250g),78,0,0,H+1,2.4
+2023-06-05,P002,Strawberry Cake (loyang),30,0,0,H+1,2.4
+2023-06-05,P003,Jus Stroberi Segar (cup),175,0,0,H+1,2.4
+2023-06-06,P001,Selai Stroberi (250g),58,0,0,H+2,17.4
+2023-06-06,P002,Strawberry Cake (loyang),19,0,0,H+2,17.4
+2023-06-06,P003,Jus Stroberi Segar (cup),111,0,0,H+2,17.4
+2023-06-07,P001,Selai Stroberi (250g),32,0,0,---,16.6
+2023-06-07,P002,Strawberry Cake (loyang),12,0,0,---,16.6
+2023-06-07,P003,Jus Stroberi Segar (cup),69,0,0,---,16.6
+2023-06-08,P001,Selai Stroberi (250g),42,0,0,---,3.8
+2023-06-08,P002,Strawberry Cake (loyang),14,0,0,---,3.8
+2023-06-08,P003,Jus Stroberi Segar (cup),89,0,0,---,3.8
+2023-06-09,P001,Selai Stroberi (250g),39,0,0,---,1.1
+2023-06-09,P002,Strawberry Cake (loyang),17,0,0,---,1.1
+2023-06-09,P003,Jus Stroberi Segar (cup),109,0,0,---,1.1
+2023-06-10,P001,Selai Stroberi (250g),73,1,0,---,0.2
+2023-06-10,P002,Strawberry Cake (loyang),29,1,0,---,0.2
+2023-06-10,P003,Jus Stroberi Segar (cup),145,1,0,---,0.2
+2023-06-11,P001,Selai Stroberi (250g),62,1,0,---,0.0
+2023-06-11,P002,Strawberry Cake (loyang),22,1,0,---,0.0
+2023-06-11,P003,Jus Stroberi Segar (cup),119,1,0,---,0.0
+2023-06-12,P001,Selai Stroberi (250g),37,0,0,---,2.6
+2023-06-12,P002,Strawberry Cake (loyang),16,0,0,---,2.6
+2023-06-12,P003,Jus Stroberi Segar (cup),73,0,0,---,2.6
+2023-06-13,P001,Selai Stroberi (250g),43,0,0,---,3.2
+2023-06-13,P002,Strawberry Cake (loyang),17,0,0,---,3.2
+2023-06-13,P003,Jus Stroberi Segar (cup),83,0,0,---,3.2
+2023-06-14,P001,Selai Stroberi (250g),39,0,0,---,4.1
+2023-06-14,P002,Strawberry Cake (loyang),16,0,0,---,4.1
+2023-06-14,P003,Jus Stroberi Segar (cup),78,0,0,---,4.1
+2023-06-15,P001,Selai Stroberi (250g),44,0,0,---,2.5
+2023-06-15,P002,Strawberry Cake (loyang),12,0,0,---,2.5
+2023-06-15,P003,Jus Stroberi Segar (cup),77,0,0,---,2.5
+2023-06-16,P001,Selai Stroberi (250g),36,0,0,---,9.5
+2023-06-16,P002,Strawberry Cake (loyang),14,0,0,---,9.5
+2023-06-16,P003,Jus Stroberi Segar (cup),99,0,0,---,9.5
+2023-06-17,P001,Selai Stroberi (250g),76,1,0,---,1.6
+2023-06-17,P002,Strawberry Cake (loyang),26,1,0,---,1.6
+2023-06-17,P003,Jus Stroberi Segar (cup),132,1,0,---,1.6
+2023-06-18,P001,Selai Stroberi (250g),48,1,0,---,2.1
+2023-06-18,P002,Strawberry Cake (loyang),22,1,0,---,2.1
+2023-06-18,P003,Jus Stroberi Segar (cup),139,1,0,---,2.1
+2023-06-19,P001,Selai Stroberi (250g),42,0,0,---,2.4
+2023-06-19,P002,Strawberry Cake (loyang),14,0,0,---,2.4
+2023-06-19,P003,Jus Stroberi Segar (cup),84,0,0,---,2.4
+2023-06-20,P001,Selai Stroberi (250g),34,0,0,---,3.1
+2023-06-20,P002,Strawberry Cake (loyang),15,0,0,---,3.1
+2023-06-20,P003,Jus Stroberi Segar (cup),81,0,0,---,3.1
+2023-06-21,P001,Selai Stroberi (250g),40,0,0,---,1.6
+2023-06-21,P002,Strawberry Cake (loyang),16,0,0,---,1.6
+2023-06-21,P003,Jus Stroberi Segar (cup),83,0,0,---,1.6
+2023-06-22,P001,Selai Stroberi (250g),43,0,0,---,2.4
+2023-06-22,P002,Strawberry Cake (loyang),14,0,0,---,2.4
+2023-06-22,P003,Jus Stroberi Segar (cup),87,0,0,---,2.4
+2023-06-23,P001,Selai Stroberi (250g),51,0,0,---,3.6
+2023-06-23,P002,Strawberry Cake (loyang),15,0,0,---,3.6
+2023-06-23,P003,Jus Stroberi Segar (cup),81,0,0,---,3.6
+2023-06-24,P001,Selai Stroberi (250g),77,1,0,---,0.8
+2023-06-24,P002,Strawberry Cake (loyang),27,1,0,---,0.8
+2023-06-24,P003,Jus Stroberi Segar (cup),155,1,0,---,0.8
+2023-06-25,P001,Selai Stroberi (250g),58,1,0,---,0.5
+2023-06-25,P002,Strawberry Cake (loyang),25,1,0,---,0.5
+2023-06-25,P003,Jus Stroberi Segar (cup),121,1,0,---,0.5
+2023-06-26,P001,Selai Stroberi (250g),41,0,0,---,0.9
+2023-06-26,P002,Strawberry Cake (loyang),17,0,0,---,0.9
+2023-06-26,P003,Jus Stroberi Segar (cup),77,0,0,---,0.9
+2023-06-27,P001,Selai Stroberi (250g),36,0,0,---,1.7
+2023-06-27,P002,Strawberry Cake (loyang),14,0,0,---,1.7
+2023-06-27,P003,Jus Stroberi Segar (cup),84,0,0,---,1.7
+2023-06-28,P001,Selai Stroberi (250g),82,0,0,H-1,2.9
+2023-06-28,P002,Strawberry Cake (loyang),34,0,0,H-1,2.9
+2023-06-28,P003,Jus Stroberi Segar (cup),172,0,0,H-1,2.9
+2023-06-29,P001,Selai Stroberi (250g),145,0,1,H,3.0
+2023-06-29,P002,Strawberry Cake (loyang),49,0,1,H,3.0
+2023-06-29,P003,Jus Stroberi Segar (cup),274,0,1,H,3.0
+2023-06-30,P001,Selai Stroberi (250g),77,0,0,H+1,1.9
+2023-06-30,P002,Strawberry Cake (loyang),30,0,0,H+1,1.9
+2023-06-30,P003,Jus Stroberi Segar (cup),170,0,0,H+1,1.9
+2023-07-01,P001,Selai Stroberi (250g),91,1,0,H+2,2.8
+2023-07-01,P002,Strawberry Cake (loyang),34,1,0,H+2,2.8
+2023-07-01,P003,Jus Stroberi Segar (cup),183,1,0,H+2,2.8
+2023-07-02,P001,Selai Stroberi (250g),61,1,0,---,0.5
+2023-07-02,P002,Strawberry Cake (loyang),21,1,0,---,0.5
+2023-07-02,P003,Jus Stroberi Segar (cup),126,1,0,---,0.5
+2023-07-03,P001,Selai Stroberi (250g),43,0,0,---,0.8
+2023-07-03,P002,Strawberry Cake (loyang),16,0,0,---,0.8
+2023-07-03,P003,Jus Stroberi Segar (cup),84,0,0,---,0.8
+2023-07-04,P001,Selai Stroberi (250g),41,0,0,---,3.8
+2023-07-04,P002,Strawberry Cake (loyang),18,0,0,---,3.8
+2023-07-04,P003,Jus Stroberi Segar (cup),79,0,0,---,3.8
+2023-07-05,P001,Selai Stroberi (250g),39,0,0,---,1.5
+2023-07-05,P002,Strawberry Cake (loyang),14,0,0,---,1.5
+2023-07-05,P003,Jus Stroberi Segar (cup),72,0,0,---,1.5
+2023-07-06,P001,Selai Stroberi (250g),35,0,0,---,4.5
+2023-07-06,P002,Strawberry Cake (loyang),14,0,0,---,4.5
+2023-07-06,P003,Jus Stroberi Segar (cup),79,0,0,---,4.5
+2023-07-07,P001,Selai Stroberi (250g),31,0,0,---,27.3
+2023-07-07,P002,Strawberry Cake (loyang),11,0,0,---,27.3
+2023-07-07,P003,Jus Stroberi Segar (cup),54,0,0,---,27.3
+2023-07-08,P001,Selai Stroberi (250g),76,1,0,---,8.8
+2023-07-08,P002,Strawberry Cake (loyang),28,1,0,---,8.8
+2023-07-08,P003,Jus Stroberi Segar (cup),143,1,0,---,8.8
+2023-07-09,P001,Selai Stroberi (250g),57,1,0,---,4.1
+2023-07-09,P002,Strawberry Cake (loyang),23,1,0,---,4.1
+2023-07-09,P003,Jus Stroberi Segar (cup),122,1,0,---,4.1
+2023-07-10,P001,Selai Stroberi (250g),34,0,0,---,5.4
+2023-07-10,P002,Strawberry Cake (loyang),15,0,0,---,5.4
+2023-07-10,P003,Jus Stroberi Segar (cup),82,0,0,---,5.4
+2023-07-11,P001,Selai Stroberi (250g),36,0,0,---,1.7
+2023-07-11,P002,Strawberry Cake (loyang),15,0,0,---,1.7
+2023-07-11,P003,Jus Stroberi Segar (cup),68,0,0,---,1.7
+2023-07-12,P001,Selai Stroberi (250g),45,0,0,---,0.1
+2023-07-12,P002,Strawberry Cake (loyang),17,0,0,---,0.1
+2023-07-12,P003,Jus Stroberi Segar (cup),78,0,0,---,0.1
+2023-07-13,P001,Selai Stroberi (250g),41,0,0,---,0.2
+2023-07-13,P002,Strawberry Cake (loyang),11,0,0,---,0.2
+2023-07-13,P003,Jus Stroberi Segar (cup),71,0,0,---,0.2
+2023-07-14,P001,Selai Stroberi (250g),43,0,0,---,2.5
+2023-07-14,P002,Strawberry Cake (loyang),15,0,0,---,2.5
+2023-07-14,P003,Jus Stroberi Segar (cup),94,0,0,---,2.5
+2023-07-15,P001,Selai Stroberi (250g),80,1,0,---,1.5
+2023-07-15,P002,Strawberry Cake (loyang),25,1,0,---,1.5
+2023-07-15,P003,Jus Stroberi Segar (cup),137,1,0,---,1.5
+2023-07-16,P001,Selai Stroberi (250g),61,1,0,---,0.0
+2023-07-16,P002,Strawberry Cake (loyang),25,1,0,---,0.0
+2023-07-16,P003,Jus Stroberi Segar (cup),110,1,0,---,0.0
+2023-07-17,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2023-07-17,P002,Strawberry Cake (loyang),18,0,0,---,0.0
+2023-07-17,P003,Jus Stroberi Segar (cup),67,0,0,---,0.0
+2023-07-18,P001,Selai Stroberi (250g),83,0,0,H-1,0.0
+2023-07-18,P002,Strawberry Cake (loyang),32,0,0,H-1,0.0
+2023-07-18,P003,Jus Stroberi Segar (cup),172,0,0,H-1,0.0
+2023-07-19,P001,Selai Stroberi (250g),143,0,1,H,1.0
+2023-07-19,P002,Strawberry Cake (loyang),53,0,1,H,1.0
+2023-07-19,P003,Jus Stroberi Segar (cup),266,0,1,H,1.0
+2023-07-20,P001,Selai Stroberi (250g),82,0,0,H+1,0.0
+2023-07-20,P002,Strawberry Cake (loyang),29,0,0,H+1,0.0
+2023-07-20,P003,Jus Stroberi Segar (cup),170,0,0,H+1,0.0
+2023-07-21,P001,Selai Stroberi (250g),61,0,0,H+2,1.5
+2023-07-21,P002,Strawberry Cake (loyang),23,0,0,H+2,1.5
+2023-07-21,P003,Jus Stroberi Segar (cup),132,0,0,H+2,1.5
+2023-07-22,P001,Selai Stroberi (250g),75,1,0,---,4.7
+2023-07-22,P002,Strawberry Cake (loyang),28,1,0,---,4.7
+2023-07-22,P003,Jus Stroberi Segar (cup),131,1,0,---,4.7
+2023-07-23,P001,Selai Stroberi (250g),62,1,0,---,0.8
+2023-07-23,P002,Strawberry Cake (loyang),21,1,0,---,0.8
+2023-07-23,P003,Jus Stroberi Segar (cup),122,1,0,---,0.8
+2023-07-24,P001,Selai Stroberi (250g),34,0,0,---,1.0
+2023-07-24,P002,Strawberry Cake (loyang),16,0,0,---,1.0
+2023-07-24,P003,Jus Stroberi Segar (cup),74,0,0,---,1.0
+2023-07-25,P001,Selai Stroberi (250g),35,0,0,---,2.2
+2023-07-25,P002,Strawberry Cake (loyang),16,0,0,---,2.2
+2023-07-25,P003,Jus Stroberi Segar (cup),82,0,0,---,2.2
+2023-07-26,P001,Selai Stroberi (250g),38,0,0,---,1.7
+2023-07-26,P002,Strawberry Cake (loyang),17,0,0,---,1.7
+2023-07-26,P003,Jus Stroberi Segar (cup),76,0,0,---,1.7
+2023-07-27,P001,Selai Stroberi (250g),40,0,0,---,0.9
+2023-07-27,P002,Strawberry Cake (loyang),15,0,0,---,0.9
+2023-07-27,P003,Jus Stroberi Segar (cup),75,0,0,---,0.9
+2023-07-28,P001,Selai Stroberi (250g),46,0,0,---,2.7
+2023-07-28,P002,Strawberry Cake (loyang),16,0,0,---,2.7
+2023-07-28,P003,Jus Stroberi Segar (cup),85,0,0,---,2.7
+2023-07-29,P001,Selai Stroberi (250g),77,1,0,---,0.3
+2023-07-29,P002,Strawberry Cake (loyang),25,1,0,---,0.3
+2023-07-29,P003,Jus Stroberi Segar (cup),125,1,0,---,0.3
+2023-07-30,P001,Selai Stroberi (250g),66,1,0,---,1.2
+2023-07-30,P002,Strawberry Cake (loyang),26,1,0,---,1.2
+2023-07-30,P003,Jus Stroberi Segar (cup),117,1,0,---,1.2
+2023-07-31,P001,Selai Stroberi (250g),32,0,0,---,0.0
+2023-07-31,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2023-07-31,P003,Jus Stroberi Segar (cup),78,0,0,---,0.0
+2023-08-01,P001,Selai Stroberi (250g),39,0,0,---,0.1
+2023-08-01,P002,Strawberry Cake (loyang),13,0,0,---,0.1
+2023-08-01,P003,Jus Stroberi Segar (cup),85,0,0,---,0.1
+2023-08-02,P001,Selai Stroberi (250g),42,0,0,---,2.4
+2023-08-02,P002,Strawberry Cake (loyang),13,0,0,---,2.4
+2023-08-02,P003,Jus Stroberi Segar (cup),86,0,0,---,2.4
+2023-08-03,P001,Selai Stroberi (250g),48,0,0,---,3.4
+2023-08-03,P002,Strawberry Cake (loyang),15,0,0,---,3.4
+2023-08-03,P003,Jus Stroberi Segar (cup),77,0,0,---,3.4
+2023-08-04,P001,Selai Stroberi (250g),43,0,0,---,1.3
+2023-08-04,P002,Strawberry Cake (loyang),17,0,0,---,1.3
+2023-08-04,P003,Jus Stroberi Segar (cup),74,0,0,---,1.3
+2023-08-05,P001,Selai Stroberi (250g),73,1,0,---,0.0
+2023-08-05,P002,Strawberry Cake (loyang),26,1,0,---,0.0
+2023-08-05,P003,Jus Stroberi Segar (cup),159,1,0,---,0.0
+2023-08-06,P001,Selai Stroberi (250g),59,1,0,---,0.5
+2023-08-06,P002,Strawberry Cake (loyang),25,1,0,---,0.5
+2023-08-06,P003,Jus Stroberi Segar (cup),111,1,0,---,0.5
+2023-08-07,P001,Selai Stroberi (250g),42,0,0,---,0.2
+2023-08-07,P002,Strawberry Cake (loyang),15,0,0,---,0.2
+2023-08-07,P003,Jus Stroberi Segar (cup),73,0,0,---,0.2
+2023-08-08,P001,Selai Stroberi (250g),41,0,0,---,1.2
+2023-08-08,P002,Strawberry Cake (loyang),17,0,0,---,1.2
+2023-08-08,P003,Jus Stroberi Segar (cup),77,0,0,---,1.2
+2023-08-09,P001,Selai Stroberi (250g),33,0,0,---,0.0
+2023-08-09,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2023-08-09,P003,Jus Stroberi Segar (cup),73,0,0,---,0.0
+2023-08-10,P001,Selai Stroberi (250g),39,0,0,---,1.3
+2023-08-10,P002,Strawberry Cake (loyang),15,0,0,---,1.3
+2023-08-10,P003,Jus Stroberi Segar (cup),66,0,0,---,1.3
+2023-08-11,P001,Selai Stroberi (250g),38,0,0,---,0.0
+2023-08-11,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2023-08-11,P003,Jus Stroberi Segar (cup),84,0,0,---,0.0
+2023-08-12,P001,Selai Stroberi (250g),62,1,0,---,0.0
+2023-08-12,P002,Strawberry Cake (loyang),28,1,0,---,0.0
+2023-08-12,P003,Jus Stroberi Segar (cup),146,1,0,---,0.0
+2023-08-13,P001,Selai Stroberi (250g),57,1,0,---,0.0
+2023-08-13,P002,Strawberry Cake (loyang),21,1,0,---,0.0
+2023-08-13,P003,Jus Stroberi Segar (cup),127,1,0,---,0.0
+2023-08-14,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2023-08-14,P002,Strawberry Cake (loyang),19,0,0,---,0.0
+2023-08-14,P003,Jus Stroberi Segar (cup),83,0,0,---,0.0
+2023-08-15,P001,Selai Stroberi (250g),42,0,0,---,0.2
+2023-08-15,P002,Strawberry Cake (loyang),15,0,0,---,0.2
+2023-08-15,P003,Jus Stroberi Segar (cup),87,0,0,---,0.2
+2023-08-16,P001,Selai Stroberi (250g),91,0,0,H-1,0.4
+2023-08-16,P002,Strawberry Cake (loyang),35,0,0,H-1,0.4
+2023-08-16,P003,Jus Stroberi Segar (cup),172,0,0,H-1,0.4
+2023-08-17,P001,Selai Stroberi (250g),138,0,1,H,0.5
+2023-08-17,P002,Strawberry Cake (loyang),52,0,1,H,0.5
+2023-08-17,P003,Jus Stroberi Segar (cup),286,0,1,H,0.5
+2023-08-18,P001,Selai Stroberi (250g),90,0,0,H+1,0.0
+2023-08-18,P002,Strawberry Cake (loyang),31,0,0,H+1,0.0
+2023-08-18,P003,Jus Stroberi Segar (cup),165,0,0,H+1,0.0
+2023-08-19,P001,Selai Stroberi (250g),93,1,0,H+2,0.1
+2023-08-19,P002,Strawberry Cake (loyang),34,1,0,H+2,0.1
+2023-08-19,P003,Jus Stroberi Segar (cup),192,1,0,H+2,0.1
+2023-08-20,P001,Selai Stroberi (250g),51,1,0,---,1.0
+2023-08-20,P002,Strawberry Cake (loyang),21,1,0,---,1.0
+2023-08-20,P003,Jus Stroberi Segar (cup),114,1,0,---,1.0
+2023-08-21,P001,Selai Stroberi (250g),31,0,0,---,0.0
+2023-08-21,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2023-08-21,P003,Jus Stroberi Segar (cup),73,0,0,---,0.0
+2023-08-22,P001,Selai Stroberi (250g),39,0,0,---,1.2
+2023-08-22,P002,Strawberry Cake (loyang),17,0,0,---,1.2
+2023-08-22,P003,Jus Stroberi Segar (cup),78,0,0,---,1.2
+2023-08-23,P001,Selai Stroberi (250g),36,0,0,---,1.3
+2023-08-23,P002,Strawberry Cake (loyang),15,0,0,---,1.3
+2023-08-23,P003,Jus Stroberi Segar (cup),88,0,0,---,1.3
+2023-08-24,P001,Selai Stroberi (250g),36,0,0,---,0.1
+2023-08-24,P002,Strawberry Cake (loyang),14,0,0,---,0.1
+2023-08-24,P003,Jus Stroberi Segar (cup),84,0,0,---,0.1
+2023-08-25,P001,Selai Stroberi (250g),43,0,0,---,2.1
+2023-08-25,P002,Strawberry Cake (loyang),17,0,0,---,2.1
+2023-08-25,P003,Jus Stroberi Segar (cup),88,0,0,---,2.1
+2023-08-26,P001,Selai Stroberi (250g),75,1,0,---,0.1
+2023-08-26,P002,Strawberry Cake (loyang),25,1,0,---,0.1
+2023-08-26,P003,Jus Stroberi Segar (cup),144,1,0,---,0.1
+2023-08-27,P001,Selai Stroberi (250g),59,1,0,---,0.0
+2023-08-27,P002,Strawberry Cake (loyang),21,1,0,---,0.0
+2023-08-27,P003,Jus Stroberi Segar (cup),107,1,0,---,0.0
+2023-08-28,P001,Selai Stroberi (250g),43,0,0,---,3.0
+2023-08-28,P002,Strawberry Cake (loyang),14,0,0,---,3.0
+2023-08-28,P003,Jus Stroberi Segar (cup),72,0,0,---,3.0
+2023-08-29,P001,Selai Stroberi (250g),40,0,0,---,0.6
+2023-08-29,P002,Strawberry Cake (loyang),17,0,0,---,0.6
+2023-08-29,P003,Jus Stroberi Segar (cup),62,0,0,---,0.6
+2023-08-30,P001,Selai Stroberi (250g),34,0,0,---,0.1
+2023-08-30,P002,Strawberry Cake (loyang),14,0,0,---,0.1
+2023-08-30,P003,Jus Stroberi Segar (cup),92,0,0,---,0.1
+2023-08-31,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2023-08-31,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2023-08-31,P003,Jus Stroberi Segar (cup),71,0,0,---,0.0
+2023-09-01,P001,Selai Stroberi (250g),40,0,0,---,0.0
+2023-09-01,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2023-09-01,P003,Jus Stroberi Segar (cup),88,0,0,---,0.0
+2023-09-02,P001,Selai Stroberi (250g),74,1,0,---,0.1
+2023-09-02,P002,Strawberry Cake (loyang),27,1,0,---,0.1
+2023-09-02,P003,Jus Stroberi Segar (cup),146,1,0,---,0.1
+2023-09-03,P001,Selai Stroberi (250g),61,1,0,---,0.0
+2023-09-03,P002,Strawberry Cake (loyang),24,1,0,---,0.0
+2023-09-03,P003,Jus Stroberi Segar (cup),126,1,0,---,0.0
+2023-09-04,P001,Selai Stroberi (250g),34,0,0,---,0.0
+2023-09-04,P002,Strawberry Cake (loyang),12,0,0,---,0.0
+2023-09-04,P003,Jus Stroberi Segar (cup),88,0,0,---,0.0
+2023-09-05,P001,Selai Stroberi (250g),45,0,0,---,0.0
+2023-09-05,P002,Strawberry Cake (loyang),13,0,0,---,0.0
+2023-09-05,P003,Jus Stroberi Segar (cup),65,0,0,---,0.0
+2023-09-06,P001,Selai Stroberi (250g),40,0,0,---,0.0
+2023-09-06,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2023-09-06,P003,Jus Stroberi Segar (cup),94,0,0,---,0.0
+2023-09-07,P001,Selai Stroberi (250g),42,0,0,---,0.6
+2023-09-07,P002,Strawberry Cake (loyang),14,0,0,---,0.6
+2023-09-07,P003,Jus Stroberi Segar (cup),73,0,0,---,0.6
+2023-09-08,P001,Selai Stroberi (250g),44,0,0,---,2.0
+2023-09-08,P002,Strawberry Cake (loyang),16,0,0,---,2.0
+2023-09-08,P003,Jus Stroberi Segar (cup),80,0,0,---,2.0
+2023-09-09,P001,Selai Stroberi (250g),80,1,0,---,0.2
+2023-09-09,P002,Strawberry Cake (loyang),30,1,0,---,0.2
+2023-09-09,P003,Jus Stroberi Segar (cup),153,1,0,---,0.2
+2023-09-10,P001,Selai Stroberi (250g),56,1,0,---,0.0
+2023-09-10,P002,Strawberry Cake (loyang),24,1,0,---,0.0
+2023-09-10,P003,Jus Stroberi Segar (cup),125,1,0,---,0.0
+2023-09-11,P001,Selai Stroberi (250g),42,0,0,---,0.3
+2023-09-11,P002,Strawberry Cake (loyang),17,0,0,---,0.3
+2023-09-11,P003,Jus Stroberi Segar (cup),85,0,0,---,0.3
+2023-09-12,P001,Selai Stroberi (250g),43,0,0,---,1.6
+2023-09-12,P002,Strawberry Cake (loyang),16,0,0,---,1.6
+2023-09-12,P003,Jus Stroberi Segar (cup),83,0,0,---,1.6
+2023-09-13,P001,Selai Stroberi (250g),33,0,0,---,0.0
+2023-09-13,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2023-09-13,P003,Jus Stroberi Segar (cup),76,0,0,---,0.0
+2023-09-14,P001,Selai Stroberi (250g),35,0,0,---,1.4
+2023-09-14,P002,Strawberry Cake (loyang),18,0,0,---,1.4
+2023-09-14,P003,Jus Stroberi Segar (cup),94,0,0,---,1.4
+2023-09-15,P001,Selai Stroberi (250g),49,0,0,---,0.1
+2023-09-15,P002,Strawberry Cake (loyang),17,0,0,---,0.1
+2023-09-15,P003,Jus Stroberi Segar (cup),99,0,0,---,0.1
+2023-09-16,P001,Selai Stroberi (250g),72,1,0,---,6.1
+2023-09-16,P002,Strawberry Cake (loyang),27,1,0,---,6.1
+2023-09-16,P003,Jus Stroberi Segar (cup),135,1,0,---,6.1
+2023-09-17,P001,Selai Stroberi (250g),62,1,0,---,3.1
+2023-09-17,P002,Strawberry Cake (loyang),23,1,0,---,3.1
+2023-09-17,P003,Jus Stroberi Segar (cup),110,1,0,---,3.1
+2023-09-18,P001,Selai Stroberi (250g),40,0,0,---,1.1
+2023-09-18,P002,Strawberry Cake (loyang),15,0,0,---,1.1
+2023-09-18,P003,Jus Stroberi Segar (cup),94,0,0,---,1.1
+2023-09-19,P001,Selai Stroberi (250g),44,0,0,---,4.1
+2023-09-19,P002,Strawberry Cake (loyang),15,0,0,---,4.1
+2023-09-19,P003,Jus Stroberi Segar (cup),82,0,0,---,4.1
+2023-09-20,P001,Selai Stroberi (250g),40,0,0,---,7.0
+2023-09-20,P002,Strawberry Cake (loyang),15,0,0,---,7.0
+2023-09-20,P003,Jus Stroberi Segar (cup),71,0,0,---,7.0
+2023-09-21,P001,Selai Stroberi (250g),39,0,0,---,1.2
+2023-09-21,P002,Strawberry Cake (loyang),14,0,0,---,1.2
+2023-09-21,P003,Jus Stroberi Segar (cup),70,0,0,---,1.2
+2023-09-22,P001,Selai Stroberi (250g),46,0,0,---,0.2
+2023-09-22,P002,Strawberry Cake (loyang),17,0,0,---,0.2
+2023-09-22,P003,Jus Stroberi Segar (cup),74,0,0,---,0.2
+2023-09-23,P001,Selai Stroberi (250g),72,1,0,---,0.2
+2023-09-23,P002,Strawberry Cake (loyang),28,1,0,---,0.2
+2023-09-23,P003,Jus Stroberi Segar (cup),152,1,0,---,0.2
+2023-09-24,P001,Selai Stroberi (250g),64,1,0,---,0.0
+2023-09-24,P002,Strawberry Cake (loyang),23,1,0,---,0.0
+2023-09-24,P003,Jus Stroberi Segar (cup),113,1,0,---,0.0
+2023-09-25,P001,Selai Stroberi (250g),36,0,0,---,0.5
+2023-09-25,P002,Strawberry Cake (loyang),16,0,0,---,0.5
+2023-09-25,P003,Jus Stroberi Segar (cup),83,0,0,---,0.5
+2023-09-26,P001,Selai Stroberi (250g),45,0,0,---,0.0
+2023-09-26,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2023-09-26,P003,Jus Stroberi Segar (cup),79,0,0,---,0.0
+2023-09-27,P001,Selai Stroberi (250g),83,0,0,H-1,0.0
+2023-09-27,P002,Strawberry Cake (loyang),33,0,0,H-1,0.0
+2023-09-27,P003,Jus Stroberi Segar (cup),178,0,0,H-1,0.0
+2023-09-28,P001,Selai Stroberi (250g),139,0,1,H,0.0
+2023-09-28,P002,Strawberry Cake (loyang),52,0,1,H,0.0
+2023-09-28,P003,Jus Stroberi Segar (cup),282,0,1,H,0.0
+2023-09-29,P001,Selai Stroberi (250g),82,0,0,H+1,3.0
+2023-09-29,P002,Strawberry Cake (loyang),31,0,0,H+1,3.0
+2023-09-29,P003,Jus Stroberi Segar (cup),170,0,0,H+1,3.0
+2023-09-30,P001,Selai Stroberi (250g),90,1,0,H+2,0.0
+2023-09-30,P002,Strawberry Cake (loyang),35,1,0,H+2,0.0
+2023-09-30,P003,Jus Stroberi Segar (cup),186,1,0,H+2,0.0
+2023-10-01,P001,Selai Stroberi (250g),55,1,0,---,0.5
+2023-10-01,P002,Strawberry Cake (loyang),22,1,0,---,0.5
+2023-10-01,P003,Jus Stroberi Segar (cup),132,1,0,---,0.5
+2023-10-02,P001,Selai Stroberi (250g),35,0,0,---,1.0
+2023-10-02,P002,Strawberry Cake (loyang),12,0,0,---,1.0
+2023-10-02,P003,Jus Stroberi Segar (cup),65,0,0,---,1.0
+2023-10-03,P001,Selai Stroberi (250g),40,0,0,---,0.4
+2023-10-03,P002,Strawberry Cake (loyang),15,0,0,---,0.4
+2023-10-03,P003,Jus Stroberi Segar (cup),79,0,0,---,0.4
+2023-10-04,P001,Selai Stroberi (250g),45,0,0,---,0.4
+2023-10-04,P002,Strawberry Cake (loyang),11,0,0,---,0.4
+2023-10-04,P003,Jus Stroberi Segar (cup),83,0,0,---,0.4
+2023-10-05,P001,Selai Stroberi (250g),46,0,0,---,5.1
+2023-10-05,P002,Strawberry Cake (loyang),13,0,0,---,5.1
+2023-10-05,P003,Jus Stroberi Segar (cup),77,0,0,---,5.1
+2023-10-06,P001,Selai Stroberi (250g),41,0,0,---,4.5
+2023-10-06,P002,Strawberry Cake (loyang),15,0,0,---,4.5
+2023-10-06,P003,Jus Stroberi Segar (cup),85,0,0,---,4.5
+2023-10-07,P001,Selai Stroberi (250g),78,1,0,---,0.0
+2023-10-07,P002,Strawberry Cake (loyang),30,1,0,---,0.0
+2023-10-07,P003,Jus Stroberi Segar (cup),141,1,0,---,0.0
+2023-10-08,P001,Selai Stroberi (250g),68,1,0,---,5.5
+2023-10-08,P002,Strawberry Cake (loyang),23,1,0,---,5.5
+2023-10-08,P003,Jus Stroberi Segar (cup),134,1,0,---,5.5
+2023-10-09,P001,Selai Stroberi (250g),40,0,0,---,4.8
+2023-10-09,P002,Strawberry Cake (loyang),15,0,0,---,4.8
+2023-10-09,P003,Jus Stroberi Segar (cup),83,0,0,---,4.8
+2023-10-10,P001,Selai Stroberi (250g),53,0,0,---,6.5
+2023-10-10,P002,Strawberry Cake (loyang),16,0,0,---,6.5
+2023-10-10,P003,Jus Stroberi Segar (cup),74,0,0,---,6.5
+2023-10-11,P001,Selai Stroberi (250g),44,0,0,---,0.0
+2023-10-11,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2023-10-11,P003,Jus Stroberi Segar (cup),76,0,0,---,0.0
+2023-10-12,P001,Selai Stroberi (250g),44,0,0,---,0.1
+2023-10-12,P002,Strawberry Cake (loyang),15,0,0,---,0.1
+2023-10-12,P003,Jus Stroberi Segar (cup),82,0,0,---,0.1
+2023-10-13,P001,Selai Stroberi (250g),44,0,0,---,0.3
+2023-10-13,P002,Strawberry Cake (loyang),17,0,0,---,0.3
+2023-10-13,P003,Jus Stroberi Segar (cup),91,0,0,---,0.3
+2023-10-14,P001,Selai Stroberi (250g),64,1,0,---,1.2
+2023-10-14,P002,Strawberry Cake (loyang),28,1,0,---,1.2
+2023-10-14,P003,Jus Stroberi Segar (cup),136,1,0,---,1.2
+2023-10-15,P001,Selai Stroberi (250g),54,1,0,---,3.0
+2023-10-15,P002,Strawberry Cake (loyang),22,1,0,---,3.0
+2023-10-15,P003,Jus Stroberi Segar (cup),121,1,0,---,3.0
+2023-10-16,P001,Selai Stroberi (250g),37,0,0,---,7.0
+2023-10-16,P002,Strawberry Cake (loyang),16,0,0,---,7.0
+2023-10-16,P003,Jus Stroberi Segar (cup),69,0,0,---,7.0
+2023-10-17,P001,Selai Stroberi (250g),38,0,0,---,2.8
+2023-10-17,P002,Strawberry Cake (loyang),14,0,0,---,2.8
+2023-10-17,P003,Jus Stroberi Segar (cup),80,0,0,---,2.8
+2023-10-18,P001,Selai Stroberi (250g),41,0,0,---,1.0
+2023-10-18,P002,Strawberry Cake (loyang),13,0,0,---,1.0
+2023-10-18,P003,Jus Stroberi Segar (cup),86,0,0,---,1.0
+2023-10-19,P001,Selai Stroberi (250g),40,0,0,---,0.0
+2023-10-19,P002,Strawberry Cake (loyang),12,0,0,---,0.0
+2023-10-19,P003,Jus Stroberi Segar (cup),64,0,0,---,0.0
+2023-10-20,P001,Selai Stroberi (250g),44,0,0,---,5.3
+2023-10-20,P002,Strawberry Cake (loyang),16,0,0,---,5.3
+2023-10-20,P003,Jus Stroberi Segar (cup),87,0,0,---,5.3
+2023-10-21,P001,Selai Stroberi (250g),72,1,0,---,0.8
+2023-10-21,P002,Strawberry Cake (loyang),27,1,0,---,0.8
+2023-10-21,P003,Jus Stroberi Segar (cup),152,1,0,---,0.8
+2023-10-22,P001,Selai Stroberi (250g),56,1,0,---,1.6
+2023-10-22,P002,Strawberry Cake (loyang),21,1,0,---,1.6
+2023-10-22,P003,Jus Stroberi Segar (cup),111,1,0,---,1.6
+2023-10-23,P001,Selai Stroberi (250g),41,0,0,---,1.8
+2023-10-23,P002,Strawberry Cake (loyang),17,0,0,---,1.8
+2023-10-23,P003,Jus Stroberi Segar (cup),77,0,0,---,1.8
+2023-10-24,P001,Selai Stroberi (250g),30,0,0,---,2.3
+2023-10-24,P002,Strawberry Cake (loyang),12,0,0,---,2.3
+2023-10-24,P003,Jus Stroberi Segar (cup),73,0,0,---,2.3
+2023-10-25,P001,Selai Stroberi (250g),38,0,0,---,2.9
+2023-10-25,P002,Strawberry Cake (loyang),14,0,0,---,2.9
+2023-10-25,P003,Jus Stroberi Segar (cup),80,0,0,---,2.9
+2023-10-26,P001,Selai Stroberi (250g),39,0,0,---,3.0
+2023-10-26,P002,Strawberry Cake (loyang),17,0,0,---,3.0
+2023-10-26,P003,Jus Stroberi Segar (cup),75,0,0,---,3.0
+2023-10-27,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2023-10-27,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2023-10-27,P003,Jus Stroberi Segar (cup),76,0,0,---,0.0
+2023-10-28,P001,Selai Stroberi (250g),74,1,0,---,0.0
+2023-10-28,P002,Strawberry Cake (loyang),27,1,0,---,0.0
+2023-10-28,P003,Jus Stroberi Segar (cup),143,1,0,---,0.0
+2023-10-29,P001,Selai Stroberi (250g),66,1,0,---,0.0
+2023-10-29,P002,Strawberry Cake (loyang),22,1,0,---,0.0
+2023-10-29,P003,Jus Stroberi Segar (cup),136,1,0,---,0.0
+2023-10-30,P001,Selai Stroberi (250g),39,0,0,---,0.1
+2023-10-30,P002,Strawberry Cake (loyang),13,0,0,---,0.1
+2023-10-30,P003,Jus Stroberi Segar (cup),81,0,0,---,0.1
+2023-10-31,P001,Selai Stroberi (250g),36,0,0,---,2.7
+2023-10-31,P002,Strawberry Cake (loyang),14,0,0,---,2.7
+2023-10-31,P003,Jus Stroberi Segar (cup),83,0,0,---,2.7
+2023-11-01,P001,Selai Stroberi (250g),42,0,0,---,3.8
+2023-11-01,P002,Strawberry Cake (loyang),14,0,0,---,3.8
+2023-11-01,P003,Jus Stroberi Segar (cup),88,0,0,---,3.8
+2023-11-02,P001,Selai Stroberi (250g),45,0,0,---,5.6
+2023-11-02,P002,Strawberry Cake (loyang),17,0,0,---,5.6
+2023-11-02,P003,Jus Stroberi Segar (cup),84,0,0,---,5.6
+2023-11-03,P001,Selai Stroberi (250g),49,0,0,---,3.8
+2023-11-03,P002,Strawberry Cake (loyang),14,0,0,---,3.8
+2023-11-03,P003,Jus Stroberi Segar (cup),85,0,0,---,3.8
+2023-11-04,P001,Selai Stroberi (250g),69,1,0,---,8.6
+2023-11-04,P002,Strawberry Cake (loyang),27,1,0,---,8.6
+2023-11-04,P003,Jus Stroberi Segar (cup),139,1,0,---,8.6
+2023-11-05,P001,Selai Stroberi (250g),59,1,0,---,4.9
+2023-11-05,P002,Strawberry Cake (loyang),25,1,0,---,4.9
+2023-11-05,P003,Jus Stroberi Segar (cup),119,1,0,---,4.9
+2023-11-06,P001,Selai Stroberi (250g),42,0,0,---,2.9
+2023-11-06,P002,Strawberry Cake (loyang),15,0,0,---,2.9
+2023-11-06,P003,Jus Stroberi Segar (cup),81,0,0,---,2.9
+2023-11-07,P001,Selai Stroberi (250g),40,0,0,---,0.5
+2023-11-07,P002,Strawberry Cake (loyang),16,0,0,---,0.5
+2023-11-07,P003,Jus Stroberi Segar (cup),89,0,0,---,0.5
+2023-11-08,P001,Selai Stroberi (250g),47,0,0,---,2.5
+2023-11-08,P002,Strawberry Cake (loyang),15,0,0,---,2.5
+2023-11-08,P003,Jus Stroberi Segar (cup),85,0,0,---,2.5
+2023-11-09,P001,Selai Stroberi (250g),35,0,0,---,4.3
+2023-11-09,P002,Strawberry Cake (loyang),15,0,0,---,4.3
+2023-11-09,P003,Jus Stroberi Segar (cup),88,0,0,---,4.3
+2023-11-10,P001,Selai Stroberi (250g),47,0,0,---,1.4
+2023-11-10,P002,Strawberry Cake (loyang),17,0,0,---,1.4
+2023-11-10,P003,Jus Stroberi Segar (cup),95,0,0,---,1.4
+2023-11-11,P001,Selai Stroberi (250g),74,1,0,---,2.6
+2023-11-11,P002,Strawberry Cake (loyang),29,1,0,---,2.6
+2023-11-11,P003,Jus Stroberi Segar (cup),146,1,0,---,2.6
+2023-11-12,P001,Selai Stroberi (250g),53,1,0,---,12.7
+2023-11-12,P002,Strawberry Cake (loyang),21,1,0,---,12.7
+2023-11-12,P003,Jus Stroberi Segar (cup),85,1,0,---,12.7
+2023-11-13,P001,Selai Stroberi (250g),42,0,0,---,1.0
+2023-11-13,P002,Strawberry Cake (loyang),10,0,0,---,1.0
+2023-11-13,P003,Jus Stroberi Segar (cup),66,0,0,---,1.0
+2023-11-14,P001,Selai Stroberi (250g),42,0,0,---,7.6
+2023-11-14,P002,Strawberry Cake (loyang),16,0,0,---,7.6
+2023-11-14,P003,Jus Stroberi Segar (cup),71,0,0,---,7.6
+2023-11-15,P001,Selai Stroberi (250g),37,0,0,---,4.6
+2023-11-15,P002,Strawberry Cake (loyang),17,0,0,---,4.6
+2023-11-15,P003,Jus Stroberi Segar (cup),76,0,0,---,4.6
+2023-11-16,P001,Selai Stroberi (250g),49,0,0,---,5.7
+2023-11-16,P002,Strawberry Cake (loyang),15,0,0,---,5.7
+2023-11-16,P003,Jus Stroberi Segar (cup),83,0,0,---,5.7
+2023-11-17,P001,Selai Stroberi (250g),50,0,0,---,2.6
+2023-11-17,P002,Strawberry Cake (loyang),17,0,0,---,2.6
+2023-11-17,P003,Jus Stroberi Segar (cup),80,0,0,---,2.6
+2023-11-18,P001,Selai Stroberi (250g),72,1,0,---,1.4
+2023-11-18,P002,Strawberry Cake (loyang),27,1,0,---,1.4
+2023-11-18,P003,Jus Stroberi Segar (cup),133,1,0,---,1.4
+2023-11-19,P001,Selai Stroberi (250g),59,1,0,---,0.5
+2023-11-19,P002,Strawberry Cake (loyang),21,1,0,---,0.5
+2023-11-19,P003,Jus Stroberi Segar (cup),127,1,0,---,0.5
+2023-11-20,P001,Selai Stroberi (250g),40,0,0,---,1.6
+2023-11-20,P002,Strawberry Cake (loyang),15,0,0,---,1.6
+2023-11-20,P003,Jus Stroberi Segar (cup),79,0,0,---,1.6
+2023-11-21,P001,Selai Stroberi (250g),35,0,0,---,17.6
+2023-11-21,P002,Strawberry Cake (loyang),14,0,0,---,17.6
+2023-11-21,P003,Jus Stroberi Segar (cup),60,0,0,---,17.6
+2023-11-22,P001,Selai Stroberi (250g),36,0,0,---,8.8
+2023-11-22,P002,Strawberry Cake (loyang),17,0,0,---,8.8
+2023-11-22,P003,Jus Stroberi Segar (cup),77,0,0,---,8.8
+2023-11-23,P001,Selai Stroberi (250g),34,0,0,---,6.1
+2023-11-23,P002,Strawberry Cake (loyang),16,0,0,---,6.1
+2023-11-23,P003,Jus Stroberi Segar (cup),84,0,0,---,6.1
+2023-11-24,P001,Selai Stroberi (250g),38,0,0,---,9.8
+2023-11-24,P002,Strawberry Cake (loyang),17,0,0,---,9.8
+2023-11-24,P003,Jus Stroberi Segar (cup),94,0,0,---,9.8
+2023-11-25,P001,Selai Stroberi (250g),73,1,0,---,1.0
+2023-11-25,P002,Strawberry Cake (loyang),28,1,0,---,1.0
+2023-11-25,P003,Jus Stroberi Segar (cup),133,1,0,---,1.0
+2023-11-26,P001,Selai Stroberi (250g),61,1,0,---,0.4
+2023-11-26,P002,Strawberry Cake (loyang),22,1,0,---,0.4
+2023-11-26,P003,Jus Stroberi Segar (cup),116,1,0,---,0.4
+2023-11-27,P001,Selai Stroberi (250g),43,0,0,---,0.6
+2023-11-27,P002,Strawberry Cake (loyang),17,0,0,---,0.6
+2023-11-27,P003,Jus Stroberi Segar (cup),94,0,0,---,0.6
+2023-11-28,P001,Selai Stroberi (250g),45,0,0,---,1.2
+2023-11-28,P002,Strawberry Cake (loyang),15,0,0,---,1.2
+2023-11-28,P003,Jus Stroberi Segar (cup),83,0,0,---,1.2
+2023-11-29,P001,Selai Stroberi (250g),43,0,0,---,4.7
+2023-11-29,P002,Strawberry Cake (loyang),15,0,0,---,4.7
+2023-11-29,P003,Jus Stroberi Segar (cup),81,0,0,---,4.7
+2023-11-30,P001,Selai Stroberi (250g),43,0,0,---,7.5
+2023-11-30,P002,Strawberry Cake (loyang),15,0,0,---,7.5
+2023-11-30,P003,Jus Stroberi Segar (cup),74,0,0,---,7.5
+2023-12-01,P001,Selai Stroberi (250g),28,0,0,---,27.3
+2023-12-01,P002,Strawberry Cake (loyang),12,0,0,---,27.3
+2023-12-01,P003,Jus Stroberi Segar (cup),60,0,0,---,27.3
+2023-12-02,P001,Selai Stroberi (250g),73,1,0,---,6.0
+2023-12-02,P002,Strawberry Cake (loyang),28,1,0,---,6.0
+2023-12-02,P003,Jus Stroberi Segar (cup),141,1,0,---,6.0
+2023-12-03,P001,Selai Stroberi (250g),63,1,0,---,6.3
+2023-12-03,P002,Strawberry Cake (loyang),23,1,0,---,6.3
+2023-12-03,P003,Jus Stroberi Segar (cup),110,1,0,---,6.3
+2023-12-04,P001,Selai Stroberi (250g),46,0,0,---,5.3
+2023-12-04,P002,Strawberry Cake (loyang),14,0,0,---,5.3
+2023-12-04,P003,Jus Stroberi Segar (cup),67,0,0,---,5.3
+2023-12-05,P001,Selai Stroberi (250g),36,0,0,---,5.1
+2023-12-05,P002,Strawberry Cake (loyang),13,0,0,---,5.1
+2023-12-05,P003,Jus Stroberi Segar (cup),80,0,0,---,5.1
+2023-12-06,P001,Selai Stroberi (250g),33,0,0,---,13.2
+2023-12-06,P002,Strawberry Cake (loyang),12,0,0,---,13.2
+2023-12-06,P003,Jus Stroberi Segar (cup),73,0,0,---,13.2
+2023-12-07,P001,Selai Stroberi (250g),41,0,0,---,3.1
+2023-12-07,P002,Strawberry Cake (loyang),15,0,0,---,3.1
+2023-12-07,P003,Jus Stroberi Segar (cup),83,0,0,---,3.1
+2023-12-08,P001,Selai Stroberi (250g),46,0,0,---,5.8
+2023-12-08,P002,Strawberry Cake (loyang),13,0,0,---,5.8
+2023-12-08,P003,Jus Stroberi Segar (cup),85,0,0,---,5.8
+2023-12-09,P001,Selai Stroberi (250g),57,1,0,---,18.2
+2023-12-09,P002,Strawberry Cake (loyang),25,1,0,---,18.2
+2023-12-09,P003,Jus Stroberi Segar (cup),132,1,0,---,18.2
+2023-12-10,P001,Selai Stroberi (250g),64,1,0,---,3.4
+2023-12-10,P002,Strawberry Cake (loyang),24,1,0,---,3.4
+2023-12-10,P003,Jus Stroberi Segar (cup),122,1,0,---,3.4
+2023-12-11,P001,Selai Stroberi (250g),38,0,0,---,1.0
+2023-12-11,P002,Strawberry Cake (loyang),16,0,0,---,1.0
+2023-12-11,P003,Jus Stroberi Segar (cup),76,0,0,---,1.0
+2023-12-12,P001,Selai Stroberi (250g),40,0,0,---,0.8
+2023-12-12,P002,Strawberry Cake (loyang),16,0,0,---,0.8
+2023-12-12,P003,Jus Stroberi Segar (cup),76,0,0,---,0.8
+2023-12-13,P001,Selai Stroberi (250g),43,0,0,---,1.3
+2023-12-13,P002,Strawberry Cake (loyang),16,0,0,---,1.3
+2023-12-13,P003,Jus Stroberi Segar (cup),72,0,0,---,1.3
+2023-12-14,P001,Selai Stroberi (250g),44,0,0,---,1.2
+2023-12-14,P002,Strawberry Cake (loyang),16,0,0,---,1.2
+2023-12-14,P003,Jus Stroberi Segar (cup),81,0,0,---,1.2
+2023-12-15,P001,Selai Stroberi (250g),41,0,0,---,0.1
+2023-12-15,P002,Strawberry Cake (loyang),15,0,0,---,0.1
+2023-12-15,P003,Jus Stroberi Segar (cup),84,0,0,---,0.1
+2023-12-16,P001,Selai Stroberi (250g),74,1,0,---,0.8
+2023-12-16,P002,Strawberry Cake (loyang),26,1,0,---,0.8
+2023-12-16,P003,Jus Stroberi Segar (cup),148,1,0,---,0.8
+2023-12-17,P001,Selai Stroberi (250g),55,1,0,---,2.4
+2023-12-17,P002,Strawberry Cake (loyang),22,1,0,---,2.4
+2023-12-17,P003,Jus Stroberi Segar (cup),121,1,0,---,2.4
+2023-12-18,P001,Selai Stroberi (250g),50,0,0,---,2.8
+2023-12-18,P002,Strawberry Cake (loyang),13,0,0,---,2.8
+2023-12-18,P003,Jus Stroberi Segar (cup),92,0,0,---,2.8
+2023-12-19,P001,Selai Stroberi (250g),41,0,0,---,0.1
+2023-12-19,P002,Strawberry Cake (loyang),16,0,0,---,0.1
+2023-12-19,P003,Jus Stroberi Segar (cup),81,0,0,---,0.1
+2023-12-20,P001,Selai Stroberi (250g),42,0,0,---,0.4
+2023-12-20,P002,Strawberry Cake (loyang),15,0,0,---,0.4
+2023-12-20,P003,Jus Stroberi Segar (cup),92,0,0,---,0.4
+2023-12-21,P001,Selai Stroberi (250g),38,0,0,---,0.1
+2023-12-21,P002,Strawberry Cake (loyang),17,0,0,---,0.1
+2023-12-21,P003,Jus Stroberi Segar (cup),75,0,0,---,0.1
+2023-12-22,P001,Selai Stroberi (250g),44,0,0,---,0.0
+2023-12-22,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2023-12-22,P003,Jus Stroberi Segar (cup),92,0,0,---,0.0
+2023-12-23,P001,Selai Stroberi (250g),78,1,0,---,1.8
+2023-12-23,P002,Strawberry Cake (loyang),27,1,0,---,1.8
+2023-12-23,P003,Jus Stroberi Segar (cup),142,1,0,---,1.8
+2023-12-24,P001,Selai Stroberi (250g),104,1,0,H-1,2.4
+2023-12-24,P002,Strawberry Cake (loyang),40,1,0,H-1,2.4
+2023-12-24,P003,Jus Stroberi Segar (cup),203,1,0,H-1,2.4
+2023-12-25,P001,Selai Stroberi (250g),122,0,1,H,28.5
+2023-12-25,P002,Strawberry Cake (loyang),48,0,1,H,28.5
+2023-12-25,P003,Jus Stroberi Segar (cup),263,0,1,H,28.5
+2023-12-26,P001,Selai Stroberi (250g),91,0,0,H+1,8.3
+2023-12-26,P002,Strawberry Cake (loyang),29,0,0,H+1,8.3
+2023-12-26,P003,Jus Stroberi Segar (cup),171,0,0,H+1,8.3
+2023-12-27,P001,Selai Stroberi (250g),47,0,0,H+2,22.7
+2023-12-27,P002,Strawberry Cake (loyang),17,0,0,H+2,22.7
+2023-12-27,P003,Jus Stroberi Segar (cup),95,0,0,H+2,22.7
+2023-12-28,P001,Selai Stroberi (250g),40,0,0,---,3.2
+2023-12-28,P002,Strawberry Cake (loyang),15,0,0,---,3.2
+2023-12-28,P003,Jus Stroberi Segar (cup),77,0,0,---,3.2
+2023-12-29,P001,Selai Stroberi (250g),38,0,0,---,3.9
+2023-12-29,P002,Strawberry Cake (loyang),14,0,0,---,3.9
+2023-12-29,P003,Jus Stroberi Segar (cup),93,0,0,---,3.9
+2023-12-30,P001,Selai Stroberi (250g),65,1,0,---,10.4
+2023-12-30,P002,Strawberry Cake (loyang),24,1,0,---,10.4
+2023-12-30,P003,Jus Stroberi Segar (cup),132,1,0,---,10.4
+2023-12-31,P001,Selai Stroberi (250g),105,1,0,H-1,18.7
+2023-12-31,P002,Strawberry Cake (loyang),39,1,0,H-1,18.7
+2023-12-31,P003,Jus Stroberi Segar (cup),199,1,0,H-1,18.7
+2024-01-01,P001,Selai Stroberi (250g),139,0,1,H,16.5
+2024-01-01,P002,Strawberry Cake (loyang),53,0,1,H,16.5
+2024-01-01,P003,Jus Stroberi Segar (cup),272,0,1,H,16.5
+2024-01-02,P001,Selai Stroberi (250g),84,0,0,H+1,6.5
+2024-01-02,P002,Strawberry Cake (loyang),32,0,0,H+1,6.5
+2024-01-02,P003,Jus Stroberi Segar (cup),169,0,0,H+1,6.5
+2024-01-03,P001,Selai Stroberi (250g),62,0,0,H+2,3.9
+2024-01-03,P002,Strawberry Cake (loyang),23,0,0,H+2,3.9
+2024-01-03,P003,Jus Stroberi Segar (cup),124,0,0,H+2,3.9
+2024-01-04,P001,Selai Stroberi (250g),22,0,0,---,27.3
+2024-01-04,P002,Strawberry Cake (loyang),11,0,0,---,27.3
+2024-01-04,P003,Jus Stroberi Segar (cup),41,0,0,---,27.3
+2024-01-05,P001,Selai Stroberi (250g),27,0,0,---,29.0
+2024-01-05,P002,Strawberry Cake (loyang),13,0,0,---,29.0
+2024-01-05,P003,Jus Stroberi Segar (cup),67,0,0,---,29.0
+2024-01-06,P001,Selai Stroberi (250g),64,1,0,---,27.7
+2024-01-06,P002,Strawberry Cake (loyang),21,1,0,---,27.7
+2024-01-06,P003,Jus Stroberi Segar (cup),107,1,0,---,27.7
+2024-01-07,P001,Selai Stroberi (250g),53,1,0,---,12.7
+2024-01-07,P002,Strawberry Cake (loyang),20,1,0,---,12.7
+2024-01-07,P003,Jus Stroberi Segar (cup),109,1,0,---,12.7
+2024-01-08,P001,Selai Stroberi (250g),45,0,0,---,5.5
+2024-01-08,P002,Strawberry Cake (loyang),14,0,0,---,5.5
+2024-01-08,P003,Jus Stroberi Segar (cup),83,0,0,---,5.5
+2024-01-09,P001,Selai Stroberi (250g),36,0,0,---,3.9
+2024-01-09,P002,Strawberry Cake (loyang),16,0,0,---,3.9
+2024-01-09,P003,Jus Stroberi Segar (cup),80,0,0,---,3.9
+2024-01-10,P001,Selai Stroberi (250g),31,0,0,---,19.2
+2024-01-10,P002,Strawberry Cake (loyang),12,0,0,---,19.2
+2024-01-10,P003,Jus Stroberi Segar (cup),67,0,0,---,19.2
+2024-01-11,P001,Selai Stroberi (250g),25,0,0,---,27.9
+2024-01-11,P002,Strawberry Cake (loyang),12,0,0,---,27.9
+2024-01-11,P003,Jus Stroberi Segar (cup),51,0,0,---,27.9
+2024-01-12,P001,Selai Stroberi (250g),43,0,0,---,5.5
+2024-01-12,P002,Strawberry Cake (loyang),13,0,0,---,5.5
+2024-01-12,P003,Jus Stroberi Segar (cup),81,0,0,---,5.5
+2024-01-13,P001,Selai Stroberi (250g),71,1,0,---,1.4
+2024-01-13,P002,Strawberry Cake (loyang),26,1,0,---,1.4
+2024-01-13,P003,Jus Stroberi Segar (cup),155,1,0,---,1.4
+2024-01-14,P001,Selai Stroberi (250g),59,1,0,---,1.9
+2024-01-14,P002,Strawberry Cake (loyang),24,1,0,---,1.9
+2024-01-14,P003,Jus Stroberi Segar (cup),120,1,0,---,1.9
+2024-01-15,P001,Selai Stroberi (250g),40,0,0,---,1.4
+2024-01-15,P002,Strawberry Cake (loyang),15,0,0,---,1.4
+2024-01-15,P003,Jus Stroberi Segar (cup),80,0,0,---,1.4
+2024-01-16,P001,Selai Stroberi (250g),47,0,0,---,4.1
+2024-01-16,P002,Strawberry Cake (loyang),12,0,0,---,4.1
+2024-01-16,P003,Jus Stroberi Segar (cup),64,0,0,---,4.1
+2024-01-17,P001,Selai Stroberi (250g),32,0,0,---,11.6
+2024-01-17,P002,Strawberry Cake (loyang),13,0,0,---,11.6
+2024-01-17,P003,Jus Stroberi Segar (cup),74,0,0,---,11.6
+2024-01-18,P001,Selai Stroberi (250g),36,0,0,---,14.4
+2024-01-18,P002,Strawberry Cake (loyang),12,0,0,---,14.4
+2024-01-18,P003,Jus Stroberi Segar (cup),76,0,0,---,14.4
+2024-01-19,P001,Selai Stroberi (250g),42,0,0,---,17.8
+2024-01-19,P002,Strawberry Cake (loyang),15,0,0,---,17.8
+2024-01-19,P003,Jus Stroberi Segar (cup),84,0,0,---,17.8
+2024-01-20,P001,Selai Stroberi (250g),73,1,0,---,3.7
+2024-01-20,P002,Strawberry Cake (loyang),26,1,0,---,3.7
+2024-01-20,P003,Jus Stroberi Segar (cup),150,1,0,---,3.7
+2024-01-21,P001,Selai Stroberi (250g),60,1,0,---,8.4
+2024-01-21,P002,Strawberry Cake (loyang),23,1,0,---,8.4
+2024-01-21,P003,Jus Stroberi Segar (cup),132,1,0,---,8.4
+2024-01-22,P001,Selai Stroberi (250g),30,0,0,---,4.6
+2024-01-22,P002,Strawberry Cake (loyang),13,0,0,---,4.6
+2024-01-22,P003,Jus Stroberi Segar (cup),71,0,0,---,4.6
+2024-01-23,P001,Selai Stroberi (250g),39,0,0,---,9.0
+2024-01-23,P002,Strawberry Cake (loyang),15,0,0,---,9.0
+2024-01-23,P003,Jus Stroberi Segar (cup),68,0,0,---,9.0
+2024-01-24,P001,Selai Stroberi (250g),36,0,0,---,2.9
+2024-01-24,P002,Strawberry Cake (loyang),14,0,0,---,2.9
+2024-01-24,P003,Jus Stroberi Segar (cup),100,0,0,---,2.9
+2024-01-25,P001,Selai Stroberi (250g),47,0,0,---,1.2
+2024-01-25,P002,Strawberry Cake (loyang),14,0,0,---,1.2
+2024-01-25,P003,Jus Stroberi Segar (cup),77,0,0,---,1.2
+2024-01-26,P001,Selai Stroberi (250g),39,0,0,---,1.9
+2024-01-26,P002,Strawberry Cake (loyang),14,0,0,---,1.9
+2024-01-26,P003,Jus Stroberi Segar (cup),87,0,0,---,1.9
+2024-01-27,P001,Selai Stroberi (250g),68,1,0,---,9.2
+2024-01-27,P002,Strawberry Cake (loyang),27,1,0,---,9.2
+2024-01-27,P003,Jus Stroberi Segar (cup),131,1,0,---,9.2
+2024-01-28,P001,Selai Stroberi (250g),51,1,0,---,15.8
+2024-01-28,P002,Strawberry Cake (loyang),20,1,0,---,15.8
+2024-01-28,P003,Jus Stroberi Segar (cup),111,1,0,---,15.8
+2024-01-29,P001,Selai Stroberi (250g),36,0,0,---,13.7
+2024-01-29,P002,Strawberry Cake (loyang),11,0,0,---,13.7
+2024-01-29,P003,Jus Stroberi Segar (cup),75,0,0,---,13.7
+2024-01-30,P001,Selai Stroberi (250g),31,0,0,---,15.6
+2024-01-30,P002,Strawberry Cake (loyang),14,0,0,---,15.6
+2024-01-30,P003,Jus Stroberi Segar (cup),68,0,0,---,15.6
+2024-01-31,P001,Selai Stroberi (250g),34,0,0,---,6.8
+2024-01-31,P002,Strawberry Cake (loyang),15,0,0,---,6.8
+2024-01-31,P003,Jus Stroberi Segar (cup),83,0,0,---,6.8
+2024-02-01,P001,Selai Stroberi (250g),42,0,0,---,9.4
+2024-02-01,P002,Strawberry Cake (loyang),15,0,0,---,9.4
+2024-02-01,P003,Jus Stroberi Segar (cup),92,0,0,---,9.4
+2024-02-02,P001,Selai Stroberi (250g),48,0,0,---,2.5
+2024-02-02,P002,Strawberry Cake (loyang),16,0,0,---,2.5
+2024-02-02,P003,Jus Stroberi Segar (cup),94,0,0,---,2.5
+2024-02-03,P001,Selai Stroberi (250g),74,1,0,---,13.3
+2024-02-03,P002,Strawberry Cake (loyang),28,1,0,---,13.3
+2024-02-03,P003,Jus Stroberi Segar (cup),122,1,0,---,13.3
+2024-02-04,P001,Selai Stroberi (250g),56,1,0,---,6.6
+2024-02-04,P002,Strawberry Cake (loyang),25,1,0,---,6.6
+2024-02-04,P003,Jus Stroberi Segar (cup),112,1,0,---,6.6
+2024-02-05,P001,Selai Stroberi (250g),35,0,0,---,4.8
+2024-02-05,P002,Strawberry Cake (loyang),14,0,0,---,4.8
+2024-02-05,P003,Jus Stroberi Segar (cup),83,0,0,---,4.8
+2024-02-06,P001,Selai Stroberi (250g),40,0,0,---,7.4
+2024-02-06,P002,Strawberry Cake (loyang),14,0,0,---,7.4
+2024-02-06,P003,Jus Stroberi Segar (cup),75,0,0,---,7.4
+2024-02-07,P001,Selai Stroberi (250g),85,0,0,H-1,0.3
+2024-02-07,P002,Strawberry Cake (loyang),32,0,0,H-1,0.3
+2024-02-07,P003,Jus Stroberi Segar (cup),194,0,0,H-1,0.3
+2024-02-08,P001,Selai Stroberi (250g),141,0,1,H,6.6
+2024-02-08,P002,Strawberry Cake (loyang),54,0,1,H,6.6
+2024-02-08,P003,Jus Stroberi Segar (cup),276,0,1,H,6.6
+2024-02-09,P001,Selai Stroberi (250g),91,0,0,H-1,3.7
+2024-02-09,P002,Strawberry Cake (loyang),33,0,0,H-1,3.7
+2024-02-09,P003,Jus Stroberi Segar (cup),163,0,0,H-1,3.7
+2024-02-10,P001,Selai Stroberi (250g),166,1,1,H,4.5
+2024-02-10,P002,Strawberry Cake (loyang),62,1,1,H,4.5
+2024-02-10,P003,Jus Stroberi Segar (cup),326,1,1,H,4.5
+2024-02-11,P001,Selai Stroberi (250g),81,1,0,H+1,28.0
+2024-02-11,P002,Strawberry Cake (loyang),34,1,0,H+1,28.0
+2024-02-11,P003,Jus Stroberi Segar (cup),172,1,0,H+1,28.0
+2024-02-12,P001,Selai Stroberi (250g),59,0,0,H+2,16.3
+2024-02-12,P002,Strawberry Cake (loyang),21,0,0,H+2,16.3
+2024-02-12,P003,Jus Stroberi Segar (cup),114,0,0,H+2,16.3
+2024-02-13,P001,Selai Stroberi (250g),84,0,0,H-1,2.5
+2024-02-13,P002,Strawberry Cake (loyang),34,0,0,H-1,2.5
+2024-02-13,P003,Jus Stroberi Segar (cup),182,0,0,H-1,2.5
+2024-02-14,P001,Selai Stroberi (250g),138,0,1,H,5.4
+2024-02-14,P002,Strawberry Cake (loyang),53,0,1,H,5.4
+2024-02-14,P003,Jus Stroberi Segar (cup),285,0,1,H,5.4
+2024-02-15,P001,Selai Stroberi (250g),78,0,0,H+1,1.5
+2024-02-15,P002,Strawberry Cake (loyang),28,0,0,H+1,1.5
+2024-02-15,P003,Jus Stroberi Segar (cup),151,0,0,H+1,1.5
+2024-02-16,P001,Selai Stroberi (250g),64,0,0,H+2,3.9
+2024-02-16,P002,Strawberry Cake (loyang),24,0,0,H+2,3.9
+2024-02-16,P003,Jus Stroberi Segar (cup),122,0,0,H+2,3.9
+2024-02-17,P001,Selai Stroberi (250g),72,1,0,---,7.6
+2024-02-17,P002,Strawberry Cake (loyang),28,1,0,---,7.6
+2024-02-17,P003,Jus Stroberi Segar (cup),149,1,0,---,7.6
+2024-02-18,P001,Selai Stroberi (250g),66,1,0,---,2.4
+2024-02-18,P002,Strawberry Cake (loyang),24,1,0,---,2.4
+2024-02-18,P003,Jus Stroberi Segar (cup),112,1,0,---,2.4
+2024-02-19,P001,Selai Stroberi (250g),47,0,0,---,6.1
+2024-02-19,P002,Strawberry Cake (loyang),14,0,0,---,6.1
+2024-02-19,P003,Jus Stroberi Segar (cup),88,0,0,---,6.1
+2024-02-20,P001,Selai Stroberi (250g),40,0,0,---,6.9
+2024-02-20,P002,Strawberry Cake (loyang),14,0,0,---,6.9
+2024-02-20,P003,Jus Stroberi Segar (cup),66,0,0,---,6.9
+2024-02-21,P001,Selai Stroberi (250g),39,0,0,---,6.5
+2024-02-21,P002,Strawberry Cake (loyang),13,0,0,---,6.5
+2024-02-21,P003,Jus Stroberi Segar (cup),88,0,0,---,6.5
+2024-02-22,P001,Selai Stroberi (250g),46,0,0,---,0.9
+2024-02-22,P002,Strawberry Cake (loyang),14,0,0,---,0.9
+2024-02-22,P003,Jus Stroberi Segar (cup),82,0,0,---,0.9
+2024-02-23,P001,Selai Stroberi (250g),41,0,0,---,1.6
+2024-02-23,P002,Strawberry Cake (loyang),16,0,0,---,1.6
+2024-02-23,P003,Jus Stroberi Segar (cup),94,0,0,---,1.6
+2024-02-24,P001,Selai Stroberi (250g),72,1,0,---,7.8
+2024-02-24,P002,Strawberry Cake (loyang),30,1,0,---,7.8
+2024-02-24,P003,Jus Stroberi Segar (cup),140,1,0,---,7.8
+2024-02-25,P001,Selai Stroberi (250g),50,1,0,---,21.4
+2024-02-25,P002,Strawberry Cake (loyang),17,1,0,---,21.4
+2024-02-25,P003,Jus Stroberi Segar (cup),98,1,0,---,21.4
+2024-02-26,P001,Selai Stroberi (250g),38,0,0,---,2.7
+2024-02-26,P002,Strawberry Cake (loyang),15,0,0,---,2.7
+2024-02-26,P003,Jus Stroberi Segar (cup),79,0,0,---,2.7
+2024-02-27,P001,Selai Stroberi (250g),31,0,0,---,16.1
+2024-02-27,P002,Strawberry Cake (loyang),14,0,0,---,16.1
+2024-02-27,P003,Jus Stroberi Segar (cup),73,0,0,---,16.1
+2024-02-28,P001,Selai Stroberi (250g),42,0,0,---,5.7
+2024-02-28,P002,Strawberry Cake (loyang),17,0,0,---,5.7
+2024-02-28,P003,Jus Stroberi Segar (cup),92,0,0,---,5.7
+2024-02-29,P001,Selai Stroberi (250g),33,0,0,---,18.7
+2024-02-29,P002,Strawberry Cake (loyang),13,0,0,---,18.7
+2024-02-29,P003,Jus Stroberi Segar (cup),63,0,0,---,18.7
+2024-03-01,P001,Selai Stroberi (250g),38,0,0,---,12.4
+2024-03-01,P002,Strawberry Cake (loyang),13,0,0,---,12.4
+2024-03-01,P003,Jus Stroberi Segar (cup),89,0,0,---,12.4
+2024-03-02,P001,Selai Stroberi (250g),59,1,0,---,21.2
+2024-03-02,P002,Strawberry Cake (loyang),21,1,0,---,21.2
+2024-03-02,P003,Jus Stroberi Segar (cup),126,1,0,---,21.2
+2024-03-03,P001,Selai Stroberi (250g),51,1,0,---,7.8
+2024-03-03,P002,Strawberry Cake (loyang),19,1,0,---,7.8
+2024-03-03,P003,Jus Stroberi Segar (cup),126,1,0,---,7.8
+2024-03-04,P001,Selai Stroberi (250g),34,0,0,---,11.2
+2024-03-04,P002,Strawberry Cake (loyang),13,0,0,---,11.2
+2024-03-04,P003,Jus Stroberi Segar (cup),57,0,0,---,11.2
+2024-03-05,P001,Selai Stroberi (250g),34,0,0,---,13.0
+2024-03-05,P002,Strawberry Cake (loyang),16,0,0,---,13.0
+2024-03-05,P003,Jus Stroberi Segar (cup),75,0,0,---,13.0
+2024-03-06,P001,Selai Stroberi (250g),41,0,0,---,5.0
+2024-03-06,P002,Strawberry Cake (loyang),14,0,0,---,5.0
+2024-03-06,P003,Jus Stroberi Segar (cup),77,0,0,---,5.0
+2024-03-07,P001,Selai Stroberi (250g),25,0,0,---,14.3
+2024-03-07,P002,Strawberry Cake (loyang),13,0,0,---,14.3
+2024-03-07,P003,Jus Stroberi Segar (cup),75,0,0,---,14.3
+2024-03-08,P001,Selai Stroberi (250g),38,0,0,---,4.8
+2024-03-08,P002,Strawberry Cake (loyang),16,0,0,---,4.8
+2024-03-08,P003,Jus Stroberi Segar (cup),79,0,0,---,4.8
+2024-03-09,P001,Selai Stroberi (250g),68,1,0,---,9.6
+2024-03-09,P002,Strawberry Cake (loyang),27,1,0,---,9.6
+2024-03-09,P003,Jus Stroberi Segar (cup),127,1,0,---,9.6
+2024-03-10,P001,Selai Stroberi (250g),110,1,0,H-1,2.4
+2024-03-10,P002,Strawberry Cake (loyang),42,1,0,H-1,2.4
+2024-03-10,P003,Jus Stroberi Segar (cup),214,1,0,H-1,2.4
+2024-03-11,P001,Selai Stroberi (250g),130,0,1,H,1.7
+2024-03-11,P002,Strawberry Cake (loyang),51,0,1,H,1.7
+2024-03-11,P003,Jus Stroberi Segar (cup),290,0,1,H,1.7
+2024-03-12,P001,Selai Stroberi (250g),69,0,0,H+1,3.2
+2024-03-12,P002,Strawberry Cake (loyang),29,0,0,H+1,3.2
+2024-03-12,P003,Jus Stroberi Segar (cup),151,0,0,H+1,3.2
+2024-03-13,P001,Selai Stroberi (250g),63,0,0,H+2,3.9
+2024-03-13,P002,Strawberry Cake (loyang),21,0,0,H+2,3.9
+2024-03-13,P003,Jus Stroberi Segar (cup),123,0,0,H+2,3.9
+2024-03-14,P001,Selai Stroberi (250g),42,0,0,---,9.2
+2024-03-14,P002,Strawberry Cake (loyang),18,0,0,---,9.2
+2024-03-14,P003,Jus Stroberi Segar (cup),78,0,0,---,9.2
+2024-03-15,P001,Selai Stroberi (250g),46,0,0,---,5.7
+2024-03-15,P002,Strawberry Cake (loyang),14,0,0,---,5.7
+2024-03-15,P003,Jus Stroberi Segar (cup),98,0,0,---,5.7
+2024-03-16,P001,Selai Stroberi (250g),63,1,0,---,11.2
+2024-03-16,P002,Strawberry Cake (loyang),24,1,0,---,11.2
+2024-03-16,P003,Jus Stroberi Segar (cup),132,1,0,---,11.2
+2024-03-17,P001,Selai Stroberi (250g),54,1,0,---,8.4
+2024-03-17,P002,Strawberry Cake (loyang),23,1,0,---,8.4
+2024-03-17,P003,Jus Stroberi Segar (cup),128,1,0,---,8.4
+2024-03-18,P001,Selai Stroberi (250g),41,0,0,---,2.5
+2024-03-18,P002,Strawberry Cake (loyang),13,0,0,---,2.5
+2024-03-18,P003,Jus Stroberi Segar (cup),79,0,0,---,2.5
+2024-03-19,P001,Selai Stroberi (250g),43,0,0,---,0.0
+2024-03-19,P002,Strawberry Cake (loyang),12,0,0,---,0.0
+2024-03-19,P003,Jus Stroberi Segar (cup),71,0,0,---,0.0
+2024-03-20,P001,Selai Stroberi (250g),44,0,0,---,0.4
+2024-03-20,P002,Strawberry Cake (loyang),15,0,0,---,0.4
+2024-03-20,P003,Jus Stroberi Segar (cup),83,0,0,---,0.4
+2024-03-21,P001,Selai Stroberi (250g),47,0,0,---,0.0
+2024-03-21,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2024-03-21,P003,Jus Stroberi Segar (cup),85,0,0,---,0.0
+2024-03-22,P001,Selai Stroberi (250g),55,0,0,---,6.4
+2024-03-22,P002,Strawberry Cake (loyang),16,0,0,---,6.4
+2024-03-22,P003,Jus Stroberi Segar (cup),82,0,0,---,6.4
+2024-03-23,P001,Selai Stroberi (250g),68,1,0,---,14.2
+2024-03-23,P002,Strawberry Cake (loyang),25,1,0,---,14.2
+2024-03-23,P003,Jus Stroberi Segar (cup),128,1,0,---,14.2
+2024-03-24,P001,Selai Stroberi (250g),56,1,0,---,3.8
+2024-03-24,P002,Strawberry Cake (loyang),26,1,0,---,3.8
+2024-03-24,P003,Jus Stroberi Segar (cup),123,1,0,---,3.8
+2024-03-25,P001,Selai Stroberi (250g),37,0,0,---,6.8
+2024-03-25,P002,Strawberry Cake (loyang),16,0,0,---,6.8
+2024-03-25,P003,Jus Stroberi Segar (cup),79,0,0,---,6.8
+2024-03-26,P001,Selai Stroberi (250g),39,0,0,---,3.4
+2024-03-26,P002,Strawberry Cake (loyang),16,0,0,---,3.4
+2024-03-26,P003,Jus Stroberi Segar (cup),70,0,0,---,3.4
+2024-03-27,P001,Selai Stroberi (250g),35,0,0,---,18.5
+2024-03-27,P002,Strawberry Cake (loyang),16,0,0,---,18.5
+2024-03-27,P003,Jus Stroberi Segar (cup),72,0,0,---,18.5
+2024-03-28,P001,Selai Stroberi (250g),86,0,0,H-1,4.0
+2024-03-28,P002,Strawberry Cake (loyang),32,0,0,H-1,4.0
+2024-03-28,P003,Jus Stroberi Segar (cup),173,0,0,H-1,4.0
+2024-03-29,P001,Selai Stroberi (250g),143,0,1,H,3.3
+2024-03-29,P002,Strawberry Cake (loyang),53,0,1,H,3.3
+2024-03-29,P003,Jus Stroberi Segar (cup),295,0,1,H,3.3
+2024-03-30,P001,Selai Stroberi (250g),113,1,0,H-1,4.0
+2024-03-30,P002,Strawberry Cake (loyang),46,1,0,H-1,4.0
+2024-03-30,P003,Jus Stroberi Segar (cup),237,1,0,H-1,4.0
+2024-03-31,P001,Selai Stroberi (250g),162,1,1,H,3.3
+2024-03-31,P002,Strawberry Cake (loyang),58,1,1,H,3.3
+2024-03-31,P003,Jus Stroberi Segar (cup),331,1,1,H,3.3
+2024-04-01,P001,Selai Stroberi (250g),85,0,0,H+1,2.8
+2024-04-01,P002,Strawberry Cake (loyang),31,0,0,H+1,2.8
+2024-04-01,P003,Jus Stroberi Segar (cup),148,0,0,H+1,2.8
+2024-04-02,P001,Selai Stroberi (250g),63,0,0,H+2,7.6
+2024-04-02,P002,Strawberry Cake (loyang),23,0,0,H+2,7.6
+2024-04-02,P003,Jus Stroberi Segar (cup),107,0,0,H+2,7.6
+2024-04-03,P001,Selai Stroberi (250g),34,0,0,---,13.4
+2024-04-03,P002,Strawberry Cake (loyang),13,0,0,---,13.4
+2024-04-03,P003,Jus Stroberi Segar (cup),72,0,0,---,13.4
+2024-04-04,P001,Selai Stroberi (250g),41,0,0,---,5.7
+2024-04-04,P002,Strawberry Cake (loyang),15,0,0,---,5.7
+2024-04-04,P003,Jus Stroberi Segar (cup),92,0,0,---,5.7
+2024-04-05,P001,Selai Stroberi (250g),49,0,0,---,5.4
+2024-04-05,P002,Strawberry Cake (loyang),12,0,0,---,5.4
+2024-04-05,P003,Jus Stroberi Segar (cup),85,0,0,---,5.4
+2024-04-06,P001,Selai Stroberi (250g),71,1,0,---,0.9
+2024-04-06,P002,Strawberry Cake (loyang),24,1,0,---,0.9
+2024-04-06,P003,Jus Stroberi Segar (cup),145,1,0,---,0.9
+2024-04-07,P001,Selai Stroberi (250g),65,1,0,---,0.0
+2024-04-07,P002,Strawberry Cake (loyang),21,1,0,---,0.0
+2024-04-07,P003,Jus Stroberi Segar (cup),123,1,0,---,0.0
+2024-04-08,P001,Selai Stroberi (250g),36,0,0,---,1.1
+2024-04-08,P002,Strawberry Cake (loyang),14,0,0,---,1.1
+2024-04-08,P003,Jus Stroberi Segar (cup),92,0,0,---,1.1
+2024-04-09,P001,Selai Stroberi (250g),80,0,0,H-1,15.1
+2024-04-09,P002,Strawberry Cake (loyang),31,0,0,H-1,15.1
+2024-04-09,P003,Jus Stroberi Segar (cup),149,0,0,H-1,15.1
+2024-04-10,P001,Selai Stroberi (250g),133,0,1,H,25.9
+2024-04-10,P002,Strawberry Cake (loyang),48,0,1,H,25.9
+2024-04-10,P003,Jus Stroberi Segar (cup),251,0,1,H,25.9
+2024-04-11,P001,Selai Stroberi (250g),142,0,1,H,5.3
+2024-04-11,P002,Strawberry Cake (loyang),50,0,1,H,5.3
+2024-04-11,P003,Jus Stroberi Segar (cup),289,0,1,H,5.3
+2024-04-12,P001,Selai Stroberi (250g),83,0,0,H+1,6.7
+2024-04-12,P002,Strawberry Cake (loyang),31,0,0,H+1,6.7
+2024-04-12,P003,Jus Stroberi Segar (cup),164,0,0,H+1,6.7
+2024-04-13,P001,Selai Stroberi (250g),90,1,0,H+2,2.6
+2024-04-13,P002,Strawberry Cake (loyang),36,1,0,H+2,2.6
+2024-04-13,P003,Jus Stroberi Segar (cup),186,1,0,H+2,2.6
+2024-04-14,P001,Selai Stroberi (250g),63,1,0,---,5.9
+2024-04-14,P002,Strawberry Cake (loyang),22,1,0,---,5.9
+2024-04-14,P003,Jus Stroberi Segar (cup),124,1,0,---,5.9
+2024-04-15,P001,Selai Stroberi (250g),38,0,0,---,2.3
+2024-04-15,P002,Strawberry Cake (loyang),18,0,0,---,2.3
+2024-04-15,P003,Jus Stroberi Segar (cup),67,0,0,---,2.3
+2024-04-16,P001,Selai Stroberi (250g),45,0,0,---,2.6
+2024-04-16,P002,Strawberry Cake (loyang),17,0,0,---,2.6
+2024-04-16,P003,Jus Stroberi Segar (cup),73,0,0,---,2.6
+2024-04-17,P001,Selai Stroberi (250g),49,0,0,---,3.6
+2024-04-17,P002,Strawberry Cake (loyang),16,0,0,---,3.6
+2024-04-17,P003,Jus Stroberi Segar (cup),88,0,0,---,3.6
+2024-04-18,P001,Selai Stroberi (250g),40,0,0,---,2.6
+2024-04-18,P002,Strawberry Cake (loyang),15,0,0,---,2.6
+2024-04-18,P003,Jus Stroberi Segar (cup),78,0,0,---,2.6
+2024-04-19,P001,Selai Stroberi (250g),46,0,0,---,3.7
+2024-04-19,P002,Strawberry Cake (loyang),19,0,0,---,3.7
+2024-04-19,P003,Jus Stroberi Segar (cup),89,0,0,---,3.7
+2024-04-20,P001,Selai Stroberi (250g),68,1,0,---,2.3
+2024-04-20,P002,Strawberry Cake (loyang),28,1,0,---,2.3
+2024-04-20,P003,Jus Stroberi Segar (cup),151,1,0,---,2.3
+2024-04-21,P001,Selai Stroberi (250g),63,1,0,---,5.2
+2024-04-21,P002,Strawberry Cake (loyang),24,1,0,---,5.2
+2024-04-21,P003,Jus Stroberi Segar (cup),118,1,0,---,5.2
+2024-04-22,P001,Selai Stroberi (250g),36,0,0,---,1.2
+2024-04-22,P002,Strawberry Cake (loyang),14,0,0,---,1.2
+2024-04-22,P003,Jus Stroberi Segar (cup),67,0,0,---,1.2
+2024-04-23,P001,Selai Stroberi (250g),35,0,0,---,15.3
+2024-04-23,P002,Strawberry Cake (loyang),13,0,0,---,15.3
+2024-04-23,P003,Jus Stroberi Segar (cup),64,0,0,---,15.3
+2024-04-24,P001,Selai Stroberi (250g),22,0,0,---,14.6
+2024-04-24,P002,Strawberry Cake (loyang),11,0,0,---,14.6
+2024-04-24,P003,Jus Stroberi Segar (cup),77,0,0,---,14.6
+2024-04-25,P001,Selai Stroberi (250g),31,0,0,---,11.2
+2024-04-25,P002,Strawberry Cake (loyang),13,0,0,---,11.2
+2024-04-25,P003,Jus Stroberi Segar (cup),57,0,0,---,11.2
+2024-04-26,P001,Selai Stroberi (250g),50,0,0,---,9.1
+2024-04-26,P002,Strawberry Cake (loyang),16,0,0,---,9.1
+2024-04-26,P003,Jus Stroberi Segar (cup),90,0,0,---,9.1
+2024-04-27,P001,Selai Stroberi (250g),81,1,0,---,3.8
+2024-04-27,P002,Strawberry Cake (loyang),29,1,0,---,3.8
+2024-04-27,P003,Jus Stroberi Segar (cup),142,1,0,---,3.8
+2024-04-28,P001,Selai Stroberi (250g),58,1,0,---,3.2
+2024-04-28,P002,Strawberry Cake (loyang),22,1,0,---,3.2
+2024-04-28,P003,Jus Stroberi Segar (cup),124,1,0,---,3.2
+2024-04-29,P001,Selai Stroberi (250g),40,0,0,---,1.7
+2024-04-29,P002,Strawberry Cake (loyang),14,0,0,---,1.7
+2024-04-29,P003,Jus Stroberi Segar (cup),92,0,0,---,1.7
+2024-04-30,P001,Selai Stroberi (250g),88,0,0,H-1,0.4
+2024-04-30,P002,Strawberry Cake (loyang),36,0,0,H-1,0.4
+2024-04-30,P003,Jus Stroberi Segar (cup),177,0,0,H-1,0.4
+2024-05-01,P001,Selai Stroberi (250g),147,0,1,H,1.4
+2024-05-01,P002,Strawberry Cake (loyang),53,0,1,H,1.4
+2024-05-01,P003,Jus Stroberi Segar (cup),288,0,1,H,1.4
+2024-05-02,P001,Selai Stroberi (250g),77,0,0,H+1,2.2
+2024-05-02,P002,Strawberry Cake (loyang),29,0,0,H+1,2.2
+2024-05-02,P003,Jus Stroberi Segar (cup),164,0,0,H+1,2.2
+2024-05-03,P001,Selai Stroberi (250g),68,0,0,H+2,1.5
+2024-05-03,P002,Strawberry Cake (loyang),24,0,0,H+2,1.5
+2024-05-03,P003,Jus Stroberi Segar (cup),118,0,0,H+2,1.5
+2024-05-04,P001,Selai Stroberi (250g),67,1,0,---,1.9
+2024-05-04,P002,Strawberry Cake (loyang),25,1,0,---,1.9
+2024-05-04,P003,Jus Stroberi Segar (cup),130,1,0,---,1.9
+2024-05-05,P001,Selai Stroberi (250g),60,1,0,---,0.9
+2024-05-05,P002,Strawberry Cake (loyang),24,1,0,---,0.9
+2024-05-05,P003,Jus Stroberi Segar (cup),120,1,0,---,0.9
+2024-05-06,P001,Selai Stroberi (250g),31,0,0,---,2.1
+2024-05-06,P002,Strawberry Cake (loyang),15,0,0,---,2.1
+2024-05-06,P003,Jus Stroberi Segar (cup),79,0,0,---,2.1
+2024-05-07,P001,Selai Stroberi (250g),48,0,0,---,0.6
+2024-05-07,P002,Strawberry Cake (loyang),13,0,0,---,0.6
+2024-05-07,P003,Jus Stroberi Segar (cup),77,0,0,---,0.6
+2024-05-08,P001,Selai Stroberi (250g),95,0,0,H-1,2.5
+2024-05-08,P002,Strawberry Cake (loyang),34,0,0,H-1,2.5
+2024-05-08,P003,Jus Stroberi Segar (cup),181,0,0,H-1,2.5
+2024-05-09,P001,Selai Stroberi (250g),140,0,1,H,2.9
+2024-05-09,P002,Strawberry Cake (loyang),53,0,1,H,2.9
+2024-05-09,P003,Jus Stroberi Segar (cup),286,0,1,H,2.9
+2024-05-10,P001,Selai Stroberi (250g),81,0,0,H+1,0.8
+2024-05-10,P002,Strawberry Cake (loyang),33,0,0,H+1,0.8
+2024-05-10,P003,Jus Stroberi Segar (cup),157,0,0,H+1,0.8
+2024-05-11,P001,Selai Stroberi (250g),87,1,0,H+2,10.1
+2024-05-11,P002,Strawberry Cake (loyang),33,1,0,H+2,10.1
+2024-05-11,P003,Jus Stroberi Segar (cup),167,1,0,H+2,10.1
+2024-05-12,P001,Selai Stroberi (250g),60,1,0,---,8.1
+2024-05-12,P002,Strawberry Cake (loyang),22,1,0,---,8.1
+2024-05-12,P003,Jus Stroberi Segar (cup),111,1,0,---,8.1
+2024-05-13,P001,Selai Stroberi (250g),25,0,0,---,22.5
+2024-05-13,P002,Strawberry Cake (loyang),8,0,0,---,22.5
+2024-05-13,P003,Jus Stroberi Segar (cup),55,0,0,---,22.5
+2024-05-14,P001,Selai Stroberi (250g),35,0,0,---,9.3
+2024-05-14,P002,Strawberry Cake (loyang),16,0,0,---,9.3
+2024-05-14,P003,Jus Stroberi Segar (cup),71,0,0,---,9.3
+2024-05-15,P001,Selai Stroberi (250g),38,0,0,---,3.0
+2024-05-15,P002,Strawberry Cake (loyang),14,0,0,---,3.0
+2024-05-15,P003,Jus Stroberi Segar (cup),91,0,0,---,3.0
+2024-05-16,P001,Selai Stroberi (250g),41,0,0,---,2.0
+2024-05-16,P002,Strawberry Cake (loyang),15,0,0,---,2.0
+2024-05-16,P003,Jus Stroberi Segar (cup),84,0,0,---,2.0
+2024-05-17,P001,Selai Stroberi (250g),36,0,0,---,0.0
+2024-05-17,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2024-05-17,P003,Jus Stroberi Segar (cup),104,0,0,---,0.0
+2024-05-18,P001,Selai Stroberi (250g),73,1,0,---,1.8
+2024-05-18,P002,Strawberry Cake (loyang),27,1,0,---,1.8
+2024-05-18,P003,Jus Stroberi Segar (cup),148,1,0,---,1.8
+2024-05-19,P001,Selai Stroberi (250g),64,1,0,---,2.3
+2024-05-19,P002,Strawberry Cake (loyang),20,1,0,---,2.3
+2024-05-19,P003,Jus Stroberi Segar (cup),107,1,0,---,2.3
+2024-05-20,P001,Selai Stroberi (250g),41,0,0,---,3.4
+2024-05-20,P002,Strawberry Cake (loyang),14,0,0,---,3.4
+2024-05-20,P003,Jus Stroberi Segar (cup),90,0,0,---,3.4
+2024-05-21,P001,Selai Stroberi (250g),39,0,0,---,4.5
+2024-05-21,P002,Strawberry Cake (loyang),12,0,0,---,4.5
+2024-05-21,P003,Jus Stroberi Segar (cup),70,0,0,---,4.5
+2024-05-22,P001,Selai Stroberi (250g),77,0,0,H-1,2.5
+2024-05-22,P002,Strawberry Cake (loyang),33,0,0,H-1,2.5
+2024-05-22,P003,Jus Stroberi Segar (cup),174,0,0,H-1,2.5
+2024-05-23,P001,Selai Stroberi (250g),138,0,1,H,6.3
+2024-05-23,P002,Strawberry Cake (loyang),54,0,1,H,6.3
+2024-05-23,P003,Jus Stroberi Segar (cup),290,0,1,H,6.3
+2024-05-24,P001,Selai Stroberi (250g),77,0,0,H+1,16.7
+2024-05-24,P002,Strawberry Cake (loyang),26,0,0,H+1,16.7
+2024-05-24,P003,Jus Stroberi Segar (cup),161,0,0,H+1,16.7
+2024-05-25,P001,Selai Stroberi (250g),88,1,0,H+2,12.3
+2024-05-25,P002,Strawberry Cake (loyang),33,1,0,H+2,12.3
+2024-05-25,P003,Jus Stroberi Segar (cup),180,1,0,H+2,12.3
+2024-05-26,P001,Selai Stroberi (250g),55,1,0,---,1.4
+2024-05-26,P002,Strawberry Cake (loyang),26,1,0,---,1.4
+2024-05-26,P003,Jus Stroberi Segar (cup),112,1,0,---,1.4
+2024-05-27,P001,Selai Stroberi (250g),43,0,0,---,0.5
+2024-05-27,P002,Strawberry Cake (loyang),12,0,0,---,0.5
+2024-05-27,P003,Jus Stroberi Segar (cup),73,0,0,---,0.5
+2024-05-28,P001,Selai Stroberi (250g),46,0,0,---,0.2
+2024-05-28,P002,Strawberry Cake (loyang),15,0,0,---,0.2
+2024-05-28,P003,Jus Stroberi Segar (cup),87,0,0,---,0.2
+2024-05-29,P001,Selai Stroberi (250g),41,0,0,---,0.6
+2024-05-29,P002,Strawberry Cake (loyang),15,0,0,---,0.6
+2024-05-29,P003,Jus Stroberi Segar (cup),91,0,0,---,0.6
+2024-05-30,P001,Selai Stroberi (250g),39,0,0,---,0.3
+2024-05-30,P002,Strawberry Cake (loyang),12,0,0,---,0.3
+2024-05-30,P003,Jus Stroberi Segar (cup),74,0,0,---,0.3
+2024-05-31,P001,Selai Stroberi (250g),94,0,0,H-1,0.9
+2024-05-31,P002,Strawberry Cake (loyang),35,0,0,H-1,0.9
+2024-05-31,P003,Jus Stroberi Segar (cup),171,0,0,H-1,0.9
+2024-06-01,P001,Selai Stroberi (250g),169,1,1,H,0.5
+2024-06-01,P002,Strawberry Cake (loyang),64,1,1,H,0.5
+2024-06-01,P003,Jus Stroberi Segar (cup),341,1,1,H,0.5
+2024-06-02,P001,Selai Stroberi (250g),94,1,0,H+1,0.8
+2024-06-02,P002,Strawberry Cake (loyang),37,1,0,H+1,0.8
+2024-06-02,P003,Jus Stroberi Segar (cup),194,1,0,H+1,0.8
+2024-06-03,P001,Selai Stroberi (250g),63,0,0,H+2,2.8
+2024-06-03,P002,Strawberry Cake (loyang),24,0,0,H+2,2.8
+2024-06-03,P003,Jus Stroberi Segar (cup),119,0,0,H+2,2.8
+2024-06-04,P001,Selai Stroberi (250g),38,0,0,---,1.1
+2024-06-04,P002,Strawberry Cake (loyang),15,0,0,---,1.1
+2024-06-04,P003,Jus Stroberi Segar (cup),73,0,0,---,1.1
+2024-06-05,P001,Selai Stroberi (250g),35,0,0,---,0.0
+2024-06-05,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2024-06-05,P003,Jus Stroberi Segar (cup),75,0,0,---,0.0
+2024-06-06,P001,Selai Stroberi (250g),35,0,0,---,4.3
+2024-06-06,P002,Strawberry Cake (loyang),15,0,0,---,4.3
+2024-06-06,P003,Jus Stroberi Segar (cup),86,0,0,---,4.3
+2024-06-07,P001,Selai Stroberi (250g),38,0,0,---,1.3
+2024-06-07,P002,Strawberry Cake (loyang),17,0,0,---,1.3
+2024-06-07,P003,Jus Stroberi Segar (cup),86,0,0,---,1.3
+2024-06-08,P001,Selai Stroberi (250g),73,1,0,---,1.2
+2024-06-08,P002,Strawberry Cake (loyang),27,1,0,---,1.2
+2024-06-08,P003,Jus Stroberi Segar (cup),132,1,0,---,1.2
+2024-06-09,P001,Selai Stroberi (250g),55,1,0,---,1.7
+2024-06-09,P002,Strawberry Cake (loyang),23,1,0,---,1.7
+2024-06-09,P003,Jus Stroberi Segar (cup),128,1,0,---,1.7
+2024-06-10,P001,Selai Stroberi (250g),31,0,0,---,1.3
+2024-06-10,P002,Strawberry Cake (loyang),16,0,0,---,1.3
+2024-06-10,P003,Jus Stroberi Segar (cup),90,0,0,---,1.3
+2024-06-11,P001,Selai Stroberi (250g),39,0,0,---,2.2
+2024-06-11,P002,Strawberry Cake (loyang),16,0,0,---,2.2
+2024-06-11,P003,Jus Stroberi Segar (cup),74,0,0,---,2.2
+2024-06-12,P001,Selai Stroberi (250g),40,0,0,---,3.3
+2024-06-12,P002,Strawberry Cake (loyang),13,0,0,---,3.3
+2024-06-12,P003,Jus Stroberi Segar (cup),61,0,0,---,3.3
+2024-06-13,P001,Selai Stroberi (250g),44,0,0,---,1.8
+2024-06-13,P002,Strawberry Cake (loyang),14,0,0,---,1.8
+2024-06-13,P003,Jus Stroberi Segar (cup),76,0,0,---,1.8
+2024-06-14,P001,Selai Stroberi (250g),38,0,0,---,1.8
+2024-06-14,P002,Strawberry Cake (loyang),14,0,0,---,1.8
+2024-06-14,P003,Jus Stroberi Segar (cup),87,0,0,---,1.8
+2024-06-15,P001,Selai Stroberi (250g),69,1,0,---,1.3
+2024-06-15,P002,Strawberry Cake (loyang),28,1,0,---,1.3
+2024-06-15,P003,Jus Stroberi Segar (cup),148,1,0,---,1.3
+2024-06-16,P001,Selai Stroberi (250g),109,1,0,H-1,0.9
+2024-06-16,P002,Strawberry Cake (loyang),41,1,0,H-1,0.9
+2024-06-16,P003,Jus Stroberi Segar (cup),229,1,0,H-1,0.9
+2024-06-17,P001,Selai Stroberi (250g),136,0,1,H,0.0
+2024-06-17,P002,Strawberry Cake (loyang),52,0,1,H,0.0
+2024-06-17,P003,Jus Stroberi Segar (cup),289,0,1,H,0.0
+2024-06-18,P001,Selai Stroberi (250g),85,0,0,H+1,3.6
+2024-06-18,P002,Strawberry Cake (loyang),28,0,0,H+1,3.6
+2024-06-18,P003,Jus Stroberi Segar (cup),158,0,0,H+1,3.6
+2024-06-19,P001,Selai Stroberi (250g),65,0,0,H+2,1.7
+2024-06-19,P002,Strawberry Cake (loyang),23,0,0,H+2,1.7
+2024-06-19,P003,Jus Stroberi Segar (cup),122,0,0,H+2,1.7
+2024-06-20,P001,Selai Stroberi (250g),39,0,0,---,0.0
+2024-06-20,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2024-06-20,P003,Jus Stroberi Segar (cup),82,0,0,---,0.0
+2024-06-21,P001,Selai Stroberi (250g),43,0,0,---,0.3
+2024-06-21,P002,Strawberry Cake (loyang),16,0,0,---,0.3
+2024-06-21,P003,Jus Stroberi Segar (cup),89,0,0,---,0.3
+2024-06-22,P001,Selai Stroberi (250g),69,1,0,---,0.1
+2024-06-22,P002,Strawberry Cake (loyang),28,1,0,---,0.1
+2024-06-22,P003,Jus Stroberi Segar (cup),167,1,0,---,0.1
+2024-06-23,P001,Selai Stroberi (250g),53,1,0,---,0.0
+2024-06-23,P002,Strawberry Cake (loyang),23,1,0,---,0.0
+2024-06-23,P003,Jus Stroberi Segar (cup),114,1,0,---,0.0
+2024-06-24,P001,Selai Stroberi (250g),42,0,0,---,2.1
+2024-06-24,P002,Strawberry Cake (loyang),15,0,0,---,2.1
+2024-06-24,P003,Jus Stroberi Segar (cup),86,0,0,---,2.1
+2024-06-25,P001,Selai Stroberi (250g),45,0,0,---,5.0
+2024-06-25,P002,Strawberry Cake (loyang),15,0,0,---,5.0
+2024-06-25,P003,Jus Stroberi Segar (cup),89,0,0,---,5.0
+2024-06-26,P001,Selai Stroberi (250g),31,0,0,---,1.0
+2024-06-26,P002,Strawberry Cake (loyang),17,0,0,---,1.0
+2024-06-26,P003,Jus Stroberi Segar (cup),83,0,0,---,1.0
+2024-06-27,P001,Selai Stroberi (250g),44,0,0,---,2.3
+2024-06-27,P002,Strawberry Cake (loyang),13,0,0,---,2.3
+2024-06-27,P003,Jus Stroberi Segar (cup),73,0,0,---,2.3
+2024-06-28,P001,Selai Stroberi (250g),45,0,0,---,2.1
+2024-06-28,P002,Strawberry Cake (loyang),16,0,0,---,2.1
+2024-06-28,P003,Jus Stroberi Segar (cup),90,0,0,---,2.1
+2024-06-29,P001,Selai Stroberi (250g),70,1,0,---,19.1
+2024-06-29,P002,Strawberry Cake (loyang),22,1,0,---,19.1
+2024-06-29,P003,Jus Stroberi Segar (cup),140,1,0,---,19.1
+2024-06-30,P001,Selai Stroberi (250g),60,1,0,---,3.3
+2024-06-30,P002,Strawberry Cake (loyang),22,1,0,---,3.3
+2024-06-30,P003,Jus Stroberi Segar (cup),108,1,0,---,3.3
+2024-07-01,P001,Selai Stroberi (250g),42,0,0,---,0.7
+2024-07-01,P002,Strawberry Cake (loyang),11,0,0,---,0.7
+2024-07-01,P003,Jus Stroberi Segar (cup),85,0,0,---,0.7
+2024-07-02,P001,Selai Stroberi (250g),34,0,0,---,3.7
+2024-07-02,P002,Strawberry Cake (loyang),15,0,0,---,3.7
+2024-07-02,P003,Jus Stroberi Segar (cup),79,0,0,---,3.7
+2024-07-03,P001,Selai Stroberi (250g),45,0,0,---,0.5
+2024-07-03,P002,Strawberry Cake (loyang),15,0,0,---,0.5
+2024-07-03,P003,Jus Stroberi Segar (cup),74,0,0,---,0.5
+2024-07-04,P001,Selai Stroberi (250g),32,0,0,---,14.0
+2024-07-04,P002,Strawberry Cake (loyang),15,0,0,---,14.0
+2024-07-04,P003,Jus Stroberi Segar (cup),72,0,0,---,14.0
+2024-07-05,P001,Selai Stroberi (250g),42,0,0,---,4.8
+2024-07-05,P002,Strawberry Cake (loyang),16,0,0,---,4.8
+2024-07-05,P003,Jus Stroberi Segar (cup),75,0,0,---,4.8
+2024-07-06,P001,Selai Stroberi (250g),122,1,0,H-1,5.0
+2024-07-06,P002,Strawberry Cake (loyang),42,1,0,H-1,5.0
+2024-07-06,P003,Jus Stroberi Segar (cup),246,1,0,H-1,5.0
+2024-07-07,P001,Selai Stroberi (250g),161,1,1,H,0.6
+2024-07-07,P002,Strawberry Cake (loyang),64,1,1,H,0.6
+2024-07-07,P003,Jus Stroberi Segar (cup),311,1,1,H,0.6
+2024-07-08,P001,Selai Stroberi (250g),80,0,0,H+1,2.6
+2024-07-08,P002,Strawberry Cake (loyang),33,0,0,H+1,2.6
+2024-07-08,P003,Jus Stroberi Segar (cup),170,0,0,H+1,2.6
+2024-07-09,P001,Selai Stroberi (250g),57,0,0,H+2,0.6
+2024-07-09,P002,Strawberry Cake (loyang),23,0,0,H+2,0.6
+2024-07-09,P003,Jus Stroberi Segar (cup),120,0,0,H+2,0.6
+2024-07-10,P001,Selai Stroberi (250g),41,0,0,---,0.4
+2024-07-10,P002,Strawberry Cake (loyang),14,0,0,---,0.4
+2024-07-10,P003,Jus Stroberi Segar (cup),79,0,0,---,0.4
+2024-07-11,P001,Selai Stroberi (250g),34,0,0,---,0.0
+2024-07-11,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-07-11,P003,Jus Stroberi Segar (cup),84,0,0,---,0.0
+2024-07-12,P001,Selai Stroberi (250g),43,0,0,---,0.1
+2024-07-12,P002,Strawberry Cake (loyang),14,0,0,---,0.1
+2024-07-12,P003,Jus Stroberi Segar (cup),96,0,0,---,0.1
+2024-07-13,P001,Selai Stroberi (250g),73,1,0,---,0.0
+2024-07-13,P002,Strawberry Cake (loyang),26,1,0,---,0.0
+2024-07-13,P003,Jus Stroberi Segar (cup),142,1,0,---,0.0
+2024-07-14,P001,Selai Stroberi (250g),54,1,0,---,0.0
+2024-07-14,P002,Strawberry Cake (loyang),21,1,0,---,0.0
+2024-07-14,P003,Jus Stroberi Segar (cup),116,1,0,---,0.0
+2024-07-15,P001,Selai Stroberi (250g),45,0,0,---,0.0
+2024-07-15,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2024-07-15,P003,Jus Stroberi Segar (cup),85,0,0,---,0.0
+2024-07-16,P001,Selai Stroberi (250g),38,0,0,---,0.0
+2024-07-16,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-07-16,P003,Jus Stroberi Segar (cup),79,0,0,---,0.0
+2024-07-17,P001,Selai Stroberi (250g),43,0,0,---,1.3
+2024-07-17,P002,Strawberry Cake (loyang),14,0,0,---,1.3
+2024-07-17,P003,Jus Stroberi Segar (cup),67,0,0,---,1.3
+2024-07-18,P001,Selai Stroberi (250g),34,0,0,---,0.8
+2024-07-18,P002,Strawberry Cake (loyang),14,0,0,---,0.8
+2024-07-18,P003,Jus Stroberi Segar (cup),70,0,0,---,0.8
+2024-07-19,P001,Selai Stroberi (250g),46,0,0,---,1.3
+2024-07-19,P002,Strawberry Cake (loyang),16,0,0,---,1.3
+2024-07-19,P003,Jus Stroberi Segar (cup),107,0,0,---,1.3
+2024-07-20,P001,Selai Stroberi (250g),65,1,0,---,0.0
+2024-07-20,P002,Strawberry Cake (loyang),27,1,0,---,0.0
+2024-07-20,P003,Jus Stroberi Segar (cup),135,1,0,---,0.0
+2024-07-21,P001,Selai Stroberi (250g),58,1,0,---,0.0
+2024-07-21,P002,Strawberry Cake (loyang),23,1,0,---,0.0
+2024-07-21,P003,Jus Stroberi Segar (cup),101,1,0,---,0.0
+2024-07-22,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2024-07-22,P002,Strawberry Cake (loyang),18,0,0,---,0.0
+2024-07-22,P003,Jus Stroberi Segar (cup),76,0,0,---,0.0
+2024-07-23,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2024-07-23,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2024-07-23,P003,Jus Stroberi Segar (cup),79,0,0,---,0.0
+2024-07-24,P001,Selai Stroberi (250g),38,0,0,---,0.7
+2024-07-24,P002,Strawberry Cake (loyang),12,0,0,---,0.7
+2024-07-24,P003,Jus Stroberi Segar (cup),85,0,0,---,0.7
+2024-07-25,P001,Selai Stroberi (250g),40,0,0,---,3.1
+2024-07-25,P002,Strawberry Cake (loyang),13,0,0,---,3.1
+2024-07-25,P003,Jus Stroberi Segar (cup),81,0,0,---,3.1
+2024-07-26,P001,Selai Stroberi (250g),42,0,0,---,0.0
+2024-07-26,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2024-07-26,P003,Jus Stroberi Segar (cup),93,0,0,---,0.0
+2024-07-27,P001,Selai Stroberi (250g),67,1,0,---,0.0
+2024-07-27,P002,Strawberry Cake (loyang),29,1,0,---,0.0
+2024-07-27,P003,Jus Stroberi Segar (cup),133,1,0,---,0.0
+2024-07-28,P001,Selai Stroberi (250g),57,1,0,---,0.3
+2024-07-28,P002,Strawberry Cake (loyang),25,1,0,---,0.3
+2024-07-28,P003,Jus Stroberi Segar (cup),129,1,0,---,0.3
+2024-07-29,P001,Selai Stroberi (250g),40,0,0,---,0.2
+2024-07-29,P002,Strawberry Cake (loyang),14,0,0,---,0.2
+2024-07-29,P003,Jus Stroberi Segar (cup),76,0,0,---,0.2
+2024-07-30,P001,Selai Stroberi (250g),40,0,0,---,0.0
+2024-07-30,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-07-30,P003,Jus Stroberi Segar (cup),79,0,0,---,0.0
+2024-07-31,P001,Selai Stroberi (250g),40,0,0,---,0.0
+2024-07-31,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-07-31,P003,Jus Stroberi Segar (cup),68,0,0,---,0.0
+2024-08-01,P001,Selai Stroberi (250g),38,0,0,---,1.4
+2024-08-01,P002,Strawberry Cake (loyang),16,0,0,---,1.4
+2024-08-01,P003,Jus Stroberi Segar (cup),69,0,0,---,1.4
+2024-08-02,P001,Selai Stroberi (250g),43,0,0,---,5.6
+2024-08-02,P002,Strawberry Cake (loyang),15,0,0,---,5.6
+2024-08-02,P003,Jus Stroberi Segar (cup),89,0,0,---,5.6
+2024-08-03,P001,Selai Stroberi (250g),70,1,0,---,1.5
+2024-08-03,P002,Strawberry Cake (loyang),29,1,0,---,1.5
+2024-08-03,P003,Jus Stroberi Segar (cup),148,1,0,---,1.5
+2024-08-04,P001,Selai Stroberi (250g),55,1,0,---,0.7
+2024-08-04,P002,Strawberry Cake (loyang),24,1,0,---,0.7
+2024-08-04,P003,Jus Stroberi Segar (cup),114,1,0,---,0.7
+2024-08-05,P001,Selai Stroberi (250g),38,0,0,---,0.0
+2024-08-05,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-08-05,P003,Jus Stroberi Segar (cup),76,0,0,---,0.0
+2024-08-06,P001,Selai Stroberi (250g),44,0,0,---,0.0
+2024-08-06,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2024-08-06,P003,Jus Stroberi Segar (cup),75,0,0,---,0.0
+2024-08-07,P001,Selai Stroberi (250g),37,0,0,---,0.0
+2024-08-07,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2024-08-07,P003,Jus Stroberi Segar (cup),89,0,0,---,0.0
+2024-08-08,P001,Selai Stroberi (250g),43,0,0,---,3.8
+2024-08-08,P002,Strawberry Cake (loyang),18,0,0,---,3.8
+2024-08-08,P003,Jus Stroberi Segar (cup),98,0,0,---,3.8
+2024-08-09,P001,Selai Stroberi (250g),40,0,0,---,0.3
+2024-08-09,P002,Strawberry Cake (loyang),17,0,0,---,0.3
+2024-08-09,P003,Jus Stroberi Segar (cup),79,0,0,---,0.3
+2024-08-10,P001,Selai Stroberi (250g),69,1,0,---,0.8
+2024-08-10,P002,Strawberry Cake (loyang),26,1,0,---,0.8
+2024-08-10,P003,Jus Stroberi Segar (cup),136,1,0,---,0.8
+2024-08-11,P001,Selai Stroberi (250g),56,1,0,---,2.0
+2024-08-11,P002,Strawberry Cake (loyang),22,1,0,---,2.0
+2024-08-11,P003,Jus Stroberi Segar (cup),110,1,0,---,2.0
+2024-08-12,P001,Selai Stroberi (250g),43,0,0,---,1.6
+2024-08-12,P002,Strawberry Cake (loyang),14,0,0,---,1.6
+2024-08-12,P003,Jus Stroberi Segar (cup),102,0,0,---,1.6
+2024-08-13,P001,Selai Stroberi (250g),38,0,0,---,0.0
+2024-08-13,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-08-13,P003,Jus Stroberi Segar (cup),70,0,0,---,0.0
+2024-08-14,P001,Selai Stroberi (250g),47,0,0,---,0.0
+2024-08-14,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2024-08-14,P003,Jus Stroberi Segar (cup),82,0,0,---,0.0
+2024-08-15,P001,Selai Stroberi (250g),35,0,0,---,0.1
+2024-08-15,P002,Strawberry Cake (loyang),15,0,0,---,0.1
+2024-08-15,P003,Jus Stroberi Segar (cup),71,0,0,---,0.1
+2024-08-16,P001,Selai Stroberi (250g),98,0,0,H-1,0.0
+2024-08-16,P002,Strawberry Cake (loyang),36,0,0,H-1,0.0
+2024-08-16,P003,Jus Stroberi Segar (cup),185,0,0,H-1,0.0
+2024-08-17,P001,Selai Stroberi (250g),162,1,1,H,0.0
+2024-08-17,P002,Strawberry Cake (loyang),63,1,1,H,0.0
+2024-08-17,P003,Jus Stroberi Segar (cup),350,1,1,H,0.0
+2024-08-18,P001,Selai Stroberi (250g),105,1,0,H+1,0.1
+2024-08-18,P002,Strawberry Cake (loyang),39,1,0,H+1,0.1
+2024-08-18,P003,Jus Stroberi Segar (cup),187,1,0,H+1,0.1
+2024-08-19,P001,Selai Stroberi (250g),61,0,0,H+2,0.0
+2024-08-19,P002,Strawberry Cake (loyang),24,0,0,H+2,0.0
+2024-08-19,P003,Jus Stroberi Segar (cup),107,0,0,H+2,0.0
+2024-08-20,P001,Selai Stroberi (250g),40,0,0,---,0.0
+2024-08-20,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-08-20,P003,Jus Stroberi Segar (cup),78,0,0,---,0.0
+2024-08-21,P001,Selai Stroberi (250g),33,0,0,---,0.0
+2024-08-21,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-08-21,P003,Jus Stroberi Segar (cup),77,0,0,---,0.0
+2024-08-22,P001,Selai Stroberi (250g),39,0,0,---,2.9
+2024-08-22,P002,Strawberry Cake (loyang),14,0,0,---,2.9
+2024-08-22,P003,Jus Stroberi Segar (cup),76,0,0,---,2.9
+2024-08-23,P001,Selai Stroberi (250g),44,0,0,---,2.2
+2024-08-23,P002,Strawberry Cake (loyang),17,0,0,---,2.2
+2024-08-23,P003,Jus Stroberi Segar (cup),86,0,0,---,2.2
+2024-08-24,P001,Selai Stroberi (250g),70,1,0,---,0.0
+2024-08-24,P002,Strawberry Cake (loyang),27,1,0,---,0.0
+2024-08-24,P003,Jus Stroberi Segar (cup),129,1,0,---,0.0
+2024-08-25,P001,Selai Stroberi (250g),62,1,0,---,0.0
+2024-08-25,P002,Strawberry Cake (loyang),22,1,0,---,0.0
+2024-08-25,P003,Jus Stroberi Segar (cup),120,1,0,---,0.0
+2024-08-26,P001,Selai Stroberi (250g),44,0,0,---,0.1
+2024-08-26,P002,Strawberry Cake (loyang),12,0,0,---,0.1
+2024-08-26,P003,Jus Stroberi Segar (cup),64,0,0,---,0.1
+2024-08-27,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2024-08-27,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-08-27,P003,Jus Stroberi Segar (cup),81,0,0,---,0.0
+2024-08-28,P001,Selai Stroberi (250g),38,0,0,---,0.0
+2024-08-28,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2024-08-28,P003,Jus Stroberi Segar (cup),87,0,0,---,0.0
+2024-08-29,P001,Selai Stroberi (250g),42,0,0,---,3.4
+2024-08-29,P002,Strawberry Cake (loyang),15,0,0,---,3.4
+2024-08-29,P003,Jus Stroberi Segar (cup),63,0,0,---,3.4
+2024-08-30,P001,Selai Stroberi (250g),47,0,0,---,0.1
+2024-08-30,P002,Strawberry Cake (loyang),18,0,0,---,0.1
+2024-08-30,P003,Jus Stroberi Segar (cup),93,0,0,---,0.1
+2024-08-31,P001,Selai Stroberi (250g),68,1,0,---,0.2
+2024-08-31,P002,Strawberry Cake (loyang),28,1,0,---,0.2
+2024-08-31,P003,Jus Stroberi Segar (cup),151,1,0,---,0.2
+2024-09-01,P001,Selai Stroberi (250g),66,1,0,---,0.8
+2024-09-01,P002,Strawberry Cake (loyang),21,1,0,---,0.8
+2024-09-01,P003,Jus Stroberi Segar (cup),118,1,0,---,0.8
+2024-09-02,P001,Selai Stroberi (250g),43,0,0,---,1.8
+2024-09-02,P002,Strawberry Cake (loyang),15,0,0,---,1.8
+2024-09-02,P003,Jus Stroberi Segar (cup),71,0,0,---,1.8
+2024-09-03,P001,Selai Stroberi (250g),42,0,0,---,0.0
+2024-09-03,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2024-09-03,P003,Jus Stroberi Segar (cup),81,0,0,---,0.0
+2024-09-04,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2024-09-04,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-09-04,P003,Jus Stroberi Segar (cup),92,0,0,---,0.0
+2024-09-05,P001,Selai Stroberi (250g),36,0,0,---,4.1
+2024-09-05,P002,Strawberry Cake (loyang),14,0,0,---,4.1
+2024-09-05,P003,Jus Stroberi Segar (cup),80,0,0,---,4.1
+2024-09-06,P001,Selai Stroberi (250g),48,0,0,---,0.0
+2024-09-06,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2024-09-06,P003,Jus Stroberi Segar (cup),78,0,0,---,0.0
+2024-09-07,P001,Selai Stroberi (250g),64,1,0,---,0.0
+2024-09-07,P002,Strawberry Cake (loyang),27,1,0,---,0.0
+2024-09-07,P003,Jus Stroberi Segar (cup),135,1,0,---,0.0
+2024-09-08,P001,Selai Stroberi (250g),58,1,0,---,3.9
+2024-09-08,P002,Strawberry Cake (loyang),23,1,0,---,3.9
+2024-09-08,P003,Jus Stroberi Segar (cup),115,1,0,---,3.9
+2024-09-09,P001,Selai Stroberi (250g),35,0,0,---,11.6
+2024-09-09,P002,Strawberry Cake (loyang),12,0,0,---,11.6
+2024-09-09,P003,Jus Stroberi Segar (cup),73,0,0,---,11.6
+2024-09-10,P001,Selai Stroberi (250g),28,0,0,---,44.8
+2024-09-10,P002,Strawberry Cake (loyang),9,0,0,---,44.8
+2024-09-10,P003,Jus Stroberi Segar (cup),51,0,0,---,44.8
+2024-09-11,P001,Selai Stroberi (250g),44,0,0,---,9.1
+2024-09-11,P002,Strawberry Cake (loyang),16,0,0,---,9.1
+2024-09-11,P003,Jus Stroberi Segar (cup),69,0,0,---,9.1
+2024-09-12,P001,Selai Stroberi (250g),43,0,0,---,2.1
+2024-09-12,P002,Strawberry Cake (loyang),13,0,0,---,2.1
+2024-09-12,P003,Jus Stroberi Segar (cup),91,0,0,---,2.1
+2024-09-13,P001,Selai Stroberi (250g),48,0,0,---,0.0
+2024-09-13,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2024-09-13,P003,Jus Stroberi Segar (cup),89,0,0,---,0.0
+2024-09-14,P001,Selai Stroberi (250g),71,1,0,---,0.0
+2024-09-14,P002,Strawberry Cake (loyang),28,1,0,---,0.0
+2024-09-14,P003,Jus Stroberi Segar (cup),141,1,0,---,0.0
+2024-09-15,P001,Selai Stroberi (250g),109,1,0,H-1,0.5
+2024-09-15,P002,Strawberry Cake (loyang),42,1,0,H-1,0.5
+2024-09-15,P003,Jus Stroberi Segar (cup),212,1,0,H-1,0.5
+2024-09-16,P001,Selai Stroberi (250g),138,0,1,H,0.3
+2024-09-16,P002,Strawberry Cake (loyang),51,0,1,H,0.3
+2024-09-16,P003,Jus Stroberi Segar (cup),271,0,1,H,0.3
+2024-09-17,P001,Selai Stroberi (250g),73,0,0,H+1,0.0
+2024-09-17,P002,Strawberry Cake (loyang),31,0,0,H+1,0.0
+2024-09-17,P003,Jus Stroberi Segar (cup),174,0,0,H+1,0.0
+2024-09-18,P001,Selai Stroberi (250g),66,0,0,H+2,0.0
+2024-09-18,P002,Strawberry Cake (loyang),20,0,0,H+2,0.0
+2024-09-18,P003,Jus Stroberi Segar (cup),126,0,0,H+2,0.0
+2024-09-19,P001,Selai Stroberi (250g),46,0,0,---,0.0
+2024-09-19,P002,Strawberry Cake (loyang),14,0,0,---,0.0
+2024-09-19,P003,Jus Stroberi Segar (cup),81,0,0,---,0.0
+2024-09-20,P001,Selai Stroberi (250g),36,0,0,---,0.0
+2024-09-20,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2024-09-20,P003,Jus Stroberi Segar (cup),79,0,0,---,0.0
+2024-09-21,P001,Selai Stroberi (250g),73,1,0,---,0.3
+2024-09-21,P002,Strawberry Cake (loyang),25,1,0,---,0.3
+2024-09-21,P003,Jus Stroberi Segar (cup),148,1,0,---,0.3
+2024-09-22,P001,Selai Stroberi (250g),64,1,0,---,3.4
+2024-09-22,P002,Strawberry Cake (loyang),21,1,0,---,3.4
+2024-09-22,P003,Jus Stroberi Segar (cup),111,1,0,---,3.4
+2024-09-23,P001,Selai Stroberi (250g),31,0,0,---,3.8
+2024-09-23,P002,Strawberry Cake (loyang),15,0,0,---,3.8
+2024-09-23,P003,Jus Stroberi Segar (cup),75,0,0,---,3.8
+2024-09-24,P001,Selai Stroberi (250g),34,0,0,---,7.6
+2024-09-24,P002,Strawberry Cake (loyang),16,0,0,---,7.6
+2024-09-24,P003,Jus Stroberi Segar (cup),76,0,0,---,7.6
+2024-09-25,P001,Selai Stroberi (250g),30,0,0,---,11.3
+2024-09-25,P002,Strawberry Cake (loyang),12,0,0,---,11.3
+2024-09-25,P003,Jus Stroberi Segar (cup),77,0,0,---,11.3
+2024-09-26,P001,Selai Stroberi (250g),42,0,0,---,2.1
+2024-09-26,P002,Strawberry Cake (loyang),15,0,0,---,2.1
+2024-09-26,P003,Jus Stroberi Segar (cup),85,0,0,---,2.1
+2024-09-27,P001,Selai Stroberi (250g),39,0,0,---,2.4
+2024-09-27,P002,Strawberry Cake (loyang),17,0,0,---,2.4
+2024-09-27,P003,Jus Stroberi Segar (cup),89,0,0,---,2.4
+2024-09-28,P001,Selai Stroberi (250g),70,1,0,---,7.1
+2024-09-28,P002,Strawberry Cake (loyang),28,1,0,---,7.1
+2024-09-28,P003,Jus Stroberi Segar (cup),138,1,0,---,7.1
+2024-09-29,P001,Selai Stroberi (250g),62,1,0,---,3.4
+2024-09-29,P002,Strawberry Cake (loyang),23,1,0,---,3.4
+2024-09-29,P003,Jus Stroberi Segar (cup),97,1,0,---,3.4
+2024-09-30,P001,Selai Stroberi (250g),45,0,0,---,1.1
+2024-09-30,P002,Strawberry Cake (loyang),10,0,0,---,1.1
+2024-09-30,P003,Jus Stroberi Segar (cup),75,0,0,---,1.1
+2024-10-01,P001,Selai Stroberi (250g),44,0,0,---,8.1
+2024-10-01,P002,Strawberry Cake (loyang),15,0,0,---,8.1
+2024-10-01,P003,Jus Stroberi Segar (cup),68,0,0,---,8.1
+2024-10-02,P001,Selai Stroberi (250g),36,0,0,---,4.1
+2024-10-02,P002,Strawberry Cake (loyang),17,0,0,---,4.1
+2024-10-02,P003,Jus Stroberi Segar (cup),65,0,0,---,4.1
+2024-10-03,P001,Selai Stroberi (250g),45,0,0,---,7.0
+2024-10-03,P002,Strawberry Cake (loyang),15,0,0,---,7.0
+2024-10-03,P003,Jus Stroberi Segar (cup),70,0,0,---,7.0
+2024-10-04,P001,Selai Stroberi (250g),42,0,0,---,2.5
+2024-10-04,P002,Strawberry Cake (loyang),15,0,0,---,2.5
+2024-10-04,P003,Jus Stroberi Segar (cup),95,0,0,---,2.5
+2024-10-05,P001,Selai Stroberi (250g),75,1,0,---,2.7
+2024-10-05,P002,Strawberry Cake (loyang),24,1,0,---,2.7
+2024-10-05,P003,Jus Stroberi Segar (cup),141,1,0,---,2.7
+2024-10-06,P001,Selai Stroberi (250g),57,1,0,---,3.8
+2024-10-06,P002,Strawberry Cake (loyang),24,1,0,---,3.8
+2024-10-06,P003,Jus Stroberi Segar (cup),109,1,0,---,3.8
+2024-10-07,P001,Selai Stroberi (250g),46,0,0,---,0.0
+2024-10-07,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-10-07,P003,Jus Stroberi Segar (cup),71,0,0,---,0.0
+2024-10-08,P001,Selai Stroberi (250g),37,0,0,---,1.4
+2024-10-08,P002,Strawberry Cake (loyang),14,0,0,---,1.4
+2024-10-08,P003,Jus Stroberi Segar (cup),70,0,0,---,1.4
+2024-10-09,P001,Selai Stroberi (250g),40,0,0,---,5.3
+2024-10-09,P002,Strawberry Cake (loyang),13,0,0,---,5.3
+2024-10-09,P003,Jus Stroberi Segar (cup),63,0,0,---,5.3
+2024-10-10,P001,Selai Stroberi (250g),38,0,0,---,3.7
+2024-10-10,P002,Strawberry Cake (loyang),12,0,0,---,3.7
+2024-10-10,P003,Jus Stroberi Segar (cup),74,0,0,---,3.7
+2024-10-11,P001,Selai Stroberi (250g),40,0,0,---,2.8
+2024-10-11,P002,Strawberry Cake (loyang),15,0,0,---,2.8
+2024-10-11,P003,Jus Stroberi Segar (cup),104,0,0,---,2.8
+2024-10-12,P001,Selai Stroberi (250g),72,1,0,---,3.9
+2024-10-12,P002,Strawberry Cake (loyang),27,1,0,---,3.9
+2024-10-12,P003,Jus Stroberi Segar (cup),130,1,0,---,3.9
+2024-10-13,P001,Selai Stroberi (250g),57,1,0,---,0.1
+2024-10-13,P002,Strawberry Cake (loyang),23,1,0,---,0.1
+2024-10-13,P003,Jus Stroberi Segar (cup),112,1,0,---,0.1
+2024-10-14,P001,Selai Stroberi (250g),44,0,0,---,4.5
+2024-10-14,P002,Strawberry Cake (loyang),13,0,0,---,4.5
+2024-10-14,P003,Jus Stroberi Segar (cup),78,0,0,---,4.5
+2024-10-15,P001,Selai Stroberi (250g),38,0,0,---,5.4
+2024-10-15,P002,Strawberry Cake (loyang),15,0,0,---,5.4
+2024-10-15,P003,Jus Stroberi Segar (cup),75,0,0,---,5.4
+2024-10-16,P001,Selai Stroberi (250g),39,0,0,---,0.0
+2024-10-16,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2024-10-16,P003,Jus Stroberi Segar (cup),74,0,0,---,0.0
+2024-10-17,P001,Selai Stroberi (250g),42,0,0,---,0.1
+2024-10-17,P002,Strawberry Cake (loyang),15,0,0,---,0.1
+2024-10-17,P003,Jus Stroberi Segar (cup),79,0,0,---,0.1
+2024-10-18,P001,Selai Stroberi (250g),42,0,0,---,0.0
+2024-10-18,P002,Strawberry Cake (loyang),18,0,0,---,0.0
+2024-10-18,P003,Jus Stroberi Segar (cup),86,0,0,---,0.0
+2024-10-19,P001,Selai Stroberi (250g),71,1,0,---,0.0
+2024-10-19,P002,Strawberry Cake (loyang),27,1,0,---,0.0
+2024-10-19,P003,Jus Stroberi Segar (cup),158,1,0,---,0.0
+2024-10-20,P001,Selai Stroberi (250g),55,1,0,---,0.2
+2024-10-20,P002,Strawberry Cake (loyang),24,1,0,---,0.2
+2024-10-20,P003,Jus Stroberi Segar (cup),105,1,0,---,0.2
+2024-10-21,P001,Selai Stroberi (250g),41,0,0,---,1.5
+2024-10-21,P002,Strawberry Cake (loyang),17,0,0,---,1.5
+2024-10-21,P003,Jus Stroberi Segar (cup),84,0,0,---,1.5
+2024-10-22,P001,Selai Stroberi (250g),35,0,0,---,10.7
+2024-10-22,P002,Strawberry Cake (loyang),12,0,0,---,10.7
+2024-10-22,P003,Jus Stroberi Segar (cup),68,0,0,---,10.7
+2024-10-23,P001,Selai Stroberi (250g),39,0,0,---,2.1
+2024-10-23,P002,Strawberry Cake (loyang),14,0,0,---,2.1
+2024-10-23,P003,Jus Stroberi Segar (cup),78,0,0,---,2.1
+2024-10-24,P001,Selai Stroberi (250g),41,0,0,---,1.8
+2024-10-24,P002,Strawberry Cake (loyang),14,0,0,---,1.8
+2024-10-24,P003,Jus Stroberi Segar (cup),74,0,0,---,1.8
+2024-10-25,P001,Selai Stroberi (250g),39,0,0,---,0.1
+2024-10-25,P002,Strawberry Cake (loyang),17,0,0,---,0.1
+2024-10-25,P003,Jus Stroberi Segar (cup),92,0,0,---,0.1
+2024-10-26,P001,Selai Stroberi (250g),73,1,0,---,0.0
+2024-10-26,P002,Strawberry Cake (loyang),28,1,0,---,0.0
+2024-10-26,P003,Jus Stroberi Segar (cup),145,1,0,---,0.0
+2024-10-27,P001,Selai Stroberi (250g),56,1,0,---,10.3
+2024-10-27,P002,Strawberry Cake (loyang),21,1,0,---,10.3
+2024-10-27,P003,Jus Stroberi Segar (cup),107,1,0,---,10.3
+2024-10-28,P001,Selai Stroberi (250g),38,0,0,---,2.7
+2024-10-28,P002,Strawberry Cake (loyang),18,0,0,---,2.7
+2024-10-28,P003,Jus Stroberi Segar (cup),76,0,0,---,2.7
+2024-10-29,P001,Selai Stroberi (250g),37,0,0,---,0.3
+2024-10-29,P002,Strawberry Cake (loyang),16,0,0,---,0.3
+2024-10-29,P003,Jus Stroberi Segar (cup),82,0,0,---,0.3
+2024-10-30,P001,Selai Stroberi (250g),34,0,0,---,1.5
+2024-10-30,P002,Strawberry Cake (loyang),17,0,0,---,1.5
+2024-10-30,P003,Jus Stroberi Segar (cup),79,0,0,---,1.5
+2024-10-31,P001,Selai Stroberi (250g),36,0,0,---,4.1
+2024-10-31,P002,Strawberry Cake (loyang),17,0,0,---,4.1
+2024-10-31,P003,Jus Stroberi Segar (cup),85,0,0,---,4.1
+2024-11-01,P001,Selai Stroberi (250g),39,0,0,---,3.1
+2024-11-01,P002,Strawberry Cake (loyang),19,0,0,---,3.1
+2024-11-01,P003,Jus Stroberi Segar (cup),93,0,0,---,3.1
+2024-11-02,P001,Selai Stroberi (250g),66,1,0,---,13.7
+2024-11-02,P002,Strawberry Cake (loyang),27,1,0,---,13.7
+2024-11-02,P003,Jus Stroberi Segar (cup),133,1,0,---,13.7
+2024-11-03,P001,Selai Stroberi (250g),46,1,0,---,23.1
+2024-11-03,P002,Strawberry Cake (loyang),16,1,0,---,23.1
+2024-11-03,P003,Jus Stroberi Segar (cup),97,1,0,---,23.1
+2024-11-04,P001,Selai Stroberi (250g),42,0,0,---,8.6
+2024-11-04,P002,Strawberry Cake (loyang),15,0,0,---,8.6
+2024-11-04,P003,Jus Stroberi Segar (cup),74,0,0,---,8.6
+2024-11-05,P001,Selai Stroberi (250g),35,0,0,---,11.3
+2024-11-05,P002,Strawberry Cake (loyang),13,0,0,---,11.3
+2024-11-05,P003,Jus Stroberi Segar (cup),57,0,0,---,11.3
+2024-11-06,P001,Selai Stroberi (250g),28,0,0,---,10.3
+2024-11-06,P002,Strawberry Cake (loyang),14,0,0,---,10.3
+2024-11-06,P003,Jus Stroberi Segar (cup),47,0,0,---,10.3
+2024-11-07,P001,Selai Stroberi (250g),41,0,0,---,7.0
+2024-11-07,P002,Strawberry Cake (loyang),14,0,0,---,7.0
+2024-11-07,P003,Jus Stroberi Segar (cup),90,0,0,---,7.0
+2024-11-08,P001,Selai Stroberi (250g),42,0,0,---,2.3
+2024-11-08,P002,Strawberry Cake (loyang),17,0,0,---,2.3
+2024-11-08,P003,Jus Stroberi Segar (cup),85,0,0,---,2.3
+2024-11-09,P001,Selai Stroberi (250g),72,1,0,---,3.7
+2024-11-09,P002,Strawberry Cake (loyang),28,1,0,---,3.7
+2024-11-09,P003,Jus Stroberi Segar (cup),140,1,0,---,3.7
+2024-11-10,P001,Selai Stroberi (250g),64,1,0,---,6.8
+2024-11-10,P002,Strawberry Cake (loyang),21,1,0,---,6.8
+2024-11-10,P003,Jus Stroberi Segar (cup),122,1,0,---,6.8
+2024-11-11,P001,Selai Stroberi (250g),38,0,0,---,12.6
+2024-11-11,P002,Strawberry Cake (loyang),14,0,0,---,12.6
+2024-11-11,P003,Jus Stroberi Segar (cup),83,0,0,---,12.6
+2024-11-12,P001,Selai Stroberi (250g),37,0,0,---,3.2
+2024-11-12,P002,Strawberry Cake (loyang),13,0,0,---,3.2
+2024-11-12,P003,Jus Stroberi Segar (cup),72,0,0,---,3.2
+2024-11-13,P001,Selai Stroberi (250g),43,0,0,---,3.6
+2024-11-13,P002,Strawberry Cake (loyang),16,0,0,---,3.6
+2024-11-13,P003,Jus Stroberi Segar (cup),81,0,0,---,3.6
+2024-11-14,P001,Selai Stroberi (250g),36,0,0,---,4.2
+2024-11-14,P002,Strawberry Cake (loyang),16,0,0,---,4.2
+2024-11-14,P003,Jus Stroberi Segar (cup),70,0,0,---,4.2
+2024-11-15,P001,Selai Stroberi (250g),49,0,0,---,6.9
+2024-11-15,P002,Strawberry Cake (loyang),21,0,0,---,6.9
+2024-11-15,P003,Jus Stroberi Segar (cup),91,0,0,---,6.9
+2024-11-16,P001,Selai Stroberi (250g),74,1,0,---,6.1
+2024-11-16,P002,Strawberry Cake (loyang),26,1,0,---,6.1
+2024-11-16,P003,Jus Stroberi Segar (cup),130,1,0,---,6.1
+2024-11-17,P001,Selai Stroberi (250g),58,1,0,---,6.7
+2024-11-17,P002,Strawberry Cake (loyang),21,1,0,---,6.7
+2024-11-17,P003,Jus Stroberi Segar (cup),108,1,0,---,6.7
+2024-11-18,P001,Selai Stroberi (250g),47,0,0,---,2.5
+2024-11-18,P002,Strawberry Cake (loyang),15,0,0,---,2.5
+2024-11-18,P003,Jus Stroberi Segar (cup),83,0,0,---,2.5
+2024-11-19,P001,Selai Stroberi (250g),33,0,0,---,12.6
+2024-11-19,P002,Strawberry Cake (loyang),12,0,0,---,12.6
+2024-11-19,P003,Jus Stroberi Segar (cup),76,0,0,---,12.6
+2024-11-20,P001,Selai Stroberi (250g),26,0,0,---,40.2
+2024-11-20,P002,Strawberry Cake (loyang),11,0,0,---,40.2
+2024-11-20,P003,Jus Stroberi Segar (cup),50,0,0,---,40.2
+2024-11-21,P001,Selai Stroberi (250g),33,0,0,---,10.2
+2024-11-21,P002,Strawberry Cake (loyang),11,0,0,---,10.2
+2024-11-21,P003,Jus Stroberi Segar (cup),52,0,0,---,10.2
+2024-11-22,P001,Selai Stroberi (250g),43,0,0,---,6.5
+2024-11-22,P002,Strawberry Cake (loyang),17,0,0,---,6.5
+2024-11-22,P003,Jus Stroberi Segar (cup),78,0,0,---,6.5
+2024-11-23,P001,Selai Stroberi (250g),66,1,0,---,19.0
+2024-11-23,P002,Strawberry Cake (loyang),25,1,0,---,19.0
+2024-11-23,P003,Jus Stroberi Segar (cup),115,1,0,---,19.0
+2024-11-24,P001,Selai Stroberi (250g),50,1,0,---,18.4
+2024-11-24,P002,Strawberry Cake (loyang),21,1,0,---,18.4
+2024-11-24,P003,Jus Stroberi Segar (cup),111,1,0,---,18.4
+2024-11-25,P001,Selai Stroberi (250g),35,0,0,---,3.2
+2024-11-25,P002,Strawberry Cake (loyang),15,0,0,---,3.2
+2024-11-25,P003,Jus Stroberi Segar (cup),88,0,0,---,3.2
+2024-11-26,P001,Selai Stroberi (250g),91,0,0,H-1,5.2
+2024-11-26,P002,Strawberry Cake (loyang),33,0,0,H-1,5.2
+2024-11-26,P003,Jus Stroberi Segar (cup),172,0,0,H-1,5.2
+2024-11-27,P001,Selai Stroberi (250g),131,0,1,H,13.4
+2024-11-27,P002,Strawberry Cake (loyang),51,0,1,H,13.4
+2024-11-27,P003,Jus Stroberi Segar (cup),270,0,1,H,13.4
+2024-11-28,P001,Selai Stroberi (250g),83,0,0,H+1,3.6
+2024-11-28,P002,Strawberry Cake (loyang),30,0,0,H+1,3.6
+2024-11-28,P003,Jus Stroberi Segar (cup),167,0,0,H+1,3.6
+2024-11-29,P001,Selai Stroberi (250g),64,0,0,H+2,4.0
+2024-11-29,P002,Strawberry Cake (loyang),25,0,0,H+2,4.0
+2024-11-29,P003,Jus Stroberi Segar (cup),135,0,0,H+2,4.0
+2024-11-30,P001,Selai Stroberi (250g),69,1,0,---,5.8
+2024-11-30,P002,Strawberry Cake (loyang),24,1,0,---,5.8
+2024-11-30,P003,Jus Stroberi Segar (cup),156,1,0,---,5.8
+2024-12-01,P001,Selai Stroberi (250g),61,1,0,---,7.2
+2024-12-01,P002,Strawberry Cake (loyang),20,1,0,---,7.2
+2024-12-01,P003,Jus Stroberi Segar (cup),114,1,0,---,7.2
+2024-12-02,P001,Selai Stroberi (250g),29,0,0,---,29.0
+2024-12-02,P002,Strawberry Cake (loyang),9,0,0,---,29.0
+2024-12-02,P003,Jus Stroberi Segar (cup),48,0,0,---,29.0
+2024-12-03,P001,Selai Stroberi (250g),32,0,0,---,40.8
+2024-12-03,P002,Strawberry Cake (loyang),8,0,0,---,40.8
+2024-12-03,P003,Jus Stroberi Segar (cup),46,0,0,---,40.8
+2024-12-04,P001,Selai Stroberi (250g),27,0,0,---,20.9
+2024-12-04,P002,Strawberry Cake (loyang),10,0,0,---,20.9
+2024-12-04,P003,Jus Stroberi Segar (cup),56,0,0,---,20.9
+2024-12-05,P001,Selai Stroberi (250g),30,0,0,---,23.2
+2024-12-05,P002,Strawberry Cake (loyang),10,0,0,---,23.2
+2024-12-05,P003,Jus Stroberi Segar (cup),56,0,0,---,23.2
+2024-12-06,P001,Selai Stroberi (250g),37,0,0,---,19.1
+2024-12-06,P002,Strawberry Cake (loyang),14,0,0,---,19.1
+2024-12-06,P003,Jus Stroberi Segar (cup),77,0,0,---,19.1
+2024-12-07,P001,Selai Stroberi (250g),67,1,0,---,12.0
+2024-12-07,P002,Strawberry Cake (loyang),26,1,0,---,12.0
+2024-12-07,P003,Jus Stroberi Segar (cup),136,1,0,---,12.0
+2024-12-08,P001,Selai Stroberi (250g),60,1,0,---,5.7
+2024-12-08,P002,Strawberry Cake (loyang),21,1,0,---,5.7
+2024-12-08,P003,Jus Stroberi Segar (cup),121,1,0,---,5.7
+2024-12-09,P001,Selai Stroberi (250g),40,0,0,---,0.9
+2024-12-09,P002,Strawberry Cake (loyang),15,0,0,---,0.9
+2024-12-09,P003,Jus Stroberi Segar (cup),98,0,0,---,0.9
+2024-12-10,P001,Selai Stroberi (250g),32,0,0,---,12.8
+2024-12-10,P002,Strawberry Cake (loyang),13,0,0,---,12.8
+2024-12-10,P003,Jus Stroberi Segar (cup),77,0,0,---,12.8
+2024-12-11,P001,Selai Stroberi (250g),34,0,0,---,11.8
+2024-12-11,P002,Strawberry Cake (loyang),16,0,0,---,11.8
+2024-12-11,P003,Jus Stroberi Segar (cup),65,0,0,---,11.8
+2024-12-12,P001,Selai Stroberi (250g),41,0,0,---,2.1
+2024-12-12,P002,Strawberry Cake (loyang),14,0,0,---,2.1
+2024-12-12,P003,Jus Stroberi Segar (cup),77,0,0,---,2.1
+2024-12-13,P001,Selai Stroberi (250g),39,0,0,---,10.2
+2024-12-13,P002,Strawberry Cake (loyang),16,0,0,---,10.2
+2024-12-13,P003,Jus Stroberi Segar (cup),79,0,0,---,10.2
+2024-12-14,P001,Selai Stroberi (250g),71,1,0,---,16.6
+2024-12-14,P002,Strawberry Cake (loyang),25,1,0,---,16.6
+2024-12-14,P003,Jus Stroberi Segar (cup),129,1,0,---,16.6
+2024-12-15,P001,Selai Stroberi (250g),57,1,0,---,24.9
+2024-12-15,P002,Strawberry Cake (loyang),18,1,0,---,24.9
+2024-12-15,P003,Jus Stroberi Segar (cup),86,1,0,---,24.9
+2024-12-16,P001,Selai Stroberi (250g),23,0,0,---,20.7
+2024-12-16,P002,Strawberry Cake (loyang),8,0,0,---,20.7
+2024-12-16,P003,Jus Stroberi Segar (cup),59,0,0,---,20.7
+2024-12-17,P001,Selai Stroberi (250g),39,0,0,---,6.9
+2024-12-17,P002,Strawberry Cake (loyang),15,0,0,---,6.9
+2024-12-17,P003,Jus Stroberi Segar (cup),79,0,0,---,6.9
+2024-12-18,P001,Selai Stroberi (250g),37,0,0,---,11.9
+2024-12-18,P002,Strawberry Cake (loyang),11,0,0,---,11.9
+2024-12-18,P003,Jus Stroberi Segar (cup),59,0,0,---,11.9
+2024-12-19,P001,Selai Stroberi (250g),41,0,0,---,4.2
+2024-12-19,P002,Strawberry Cake (loyang),16,0,0,---,4.2
+2024-12-19,P003,Jus Stroberi Segar (cup),83,0,0,---,4.2
+2024-12-20,P001,Selai Stroberi (250g),35,0,0,---,12.1
+2024-12-20,P002,Strawberry Cake (loyang),15,0,0,---,12.1
+2024-12-20,P003,Jus Stroberi Segar (cup),70,0,0,---,12.1
+2024-12-21,P001,Selai Stroberi (250g),70,1,0,---,8.6
+2024-12-21,P002,Strawberry Cake (loyang),26,1,0,---,8.6
+2024-12-21,P003,Jus Stroberi Segar (cup),154,1,0,---,8.6
+2024-12-22,P001,Selai Stroberi (250g),57,1,0,---,13.8
+2024-12-22,P002,Strawberry Cake (loyang),21,1,0,---,13.8
+2024-12-22,P003,Jus Stroberi Segar (cup),118,1,0,---,13.8
+2024-12-23,P001,Selai Stroberi (250g),51,0,0,---,8.4
+2024-12-23,P002,Strawberry Cake (loyang),12,0,0,---,8.4
+2024-12-23,P003,Jus Stroberi Segar (cup),74,0,0,---,8.4
+2024-12-24,P001,Selai Stroberi (250g),80,0,0,H-1,17.2
+2024-12-24,P002,Strawberry Cake (loyang),29,0,0,H-1,17.2
+2024-12-24,P003,Jus Stroberi Segar (cup),155,0,0,H-1,17.2
+2024-12-25,P001,Selai Stroberi (250g),133,0,1,H,12.4
+2024-12-25,P002,Strawberry Cake (loyang),48,0,1,H,12.4
+2024-12-25,P003,Jus Stroberi Segar (cup),271,0,1,H,12.4
+2024-12-26,P001,Selai Stroberi (250g),80,0,0,H+1,1.4
+2024-12-26,P002,Strawberry Cake (loyang),31,0,0,H+1,1.4
+2024-12-26,P003,Jus Stroberi Segar (cup),164,0,0,H+1,1.4
+2024-12-27,P001,Selai Stroberi (250g),66,0,0,H+2,3.3
+2024-12-27,P002,Strawberry Cake (loyang),23,0,0,H+2,3.3
+2024-12-27,P003,Jus Stroberi Segar (cup),145,0,0,H+2,3.3
+2024-12-28,P001,Selai Stroberi (250g),73,1,0,---,7.6
+2024-12-28,P002,Strawberry Cake (loyang),24,1,0,---,7.6
+2024-12-28,P003,Jus Stroberi Segar (cup),136,1,0,---,7.6
+2024-12-29,P001,Selai Stroberi (250g),53,1,0,---,1.5
+2024-12-29,P002,Strawberry Cake (loyang),23,1,0,---,1.5
+2024-12-29,P003,Jus Stroberi Segar (cup),119,1,0,---,1.5
+2024-12-30,P001,Selai Stroberi (250g),38,0,0,---,6.1
+2024-12-30,P002,Strawberry Cake (loyang),18,0,0,---,6.1
+2024-12-30,P003,Jus Stroberi Segar (cup),84,0,0,---,6.1
+2024-12-31,P001,Selai Stroberi (250g),91,0,0,H-1,7.2
+2024-12-31,P002,Strawberry Cake (loyang),32,0,0,H-1,7.2
+2024-12-31,P003,Jus Stroberi Segar (cup),168,0,0,H-1,7.2
+2025-01-01,P001,Selai Stroberi (250g),140,0,1,H,8.3
+2025-01-01,P002,Strawberry Cake (loyang),53,0,1,H,8.3
+2025-01-01,P003,Jus Stroberi Segar (cup),265,0,1,H,8.3
+2025-01-02,P001,Selai Stroberi (250g),79,0,0,H+1,0.0
+2025-01-02,P002,Strawberry Cake (loyang),30,0,0,H+1,0.0
+2025-01-02,P003,Jus Stroberi Segar (cup),158,0,0,H+1,0.0
+2025-01-03,P001,Selai Stroberi (250g),61,0,0,H+2,2.7
+2025-01-03,P002,Strawberry Cake (loyang),23,0,0,H+2,2.7
+2025-01-03,P003,Jus Stroberi Segar (cup),127,0,0,H+2,2.7
+2025-01-04,P001,Selai Stroberi (250g),72,1,0,---,9.5
+2025-01-04,P002,Strawberry Cake (loyang),28,1,0,---,9.5
+2025-01-04,P003,Jus Stroberi Segar (cup),153,1,0,---,9.5
+2025-01-05,P001,Selai Stroberi (250g),59,1,0,---,1.2
+2025-01-05,P002,Strawberry Cake (loyang),22,1,0,---,1.2
+2025-01-05,P003,Jus Stroberi Segar (cup),124,1,0,---,1.2
+2025-01-06,P001,Selai Stroberi (250g),42,0,0,---,3.9
+2025-01-06,P002,Strawberry Cake (loyang),14,0,0,---,3.9
+2025-01-06,P003,Jus Stroberi Segar (cup),86,0,0,---,3.9
+2025-01-07,P001,Selai Stroberi (250g),30,0,0,---,22.4
+2025-01-07,P002,Strawberry Cake (loyang),12,0,0,---,22.4
+2025-01-07,P003,Jus Stroberi Segar (cup),66,0,0,---,22.4
+2025-01-08,P001,Selai Stroberi (250g),37,0,0,---,3.7
+2025-01-08,P002,Strawberry Cake (loyang),15,0,0,---,3.7
+2025-01-08,P003,Jus Stroberi Segar (cup),80,0,0,---,3.7
+2025-01-09,P001,Selai Stroberi (250g),40,0,0,---,3.2
+2025-01-09,P002,Strawberry Cake (loyang),14,0,0,---,3.2
+2025-01-09,P003,Jus Stroberi Segar (cup),68,0,0,---,3.2
+2025-01-10,P001,Selai Stroberi (250g),38,0,0,---,13.9
+2025-01-10,P002,Strawberry Cake (loyang),13,0,0,---,13.9
+2025-01-10,P003,Jus Stroberi Segar (cup),77,0,0,---,13.9
+2025-01-11,P001,Selai Stroberi (250g),69,1,0,---,5.6
+2025-01-11,P002,Strawberry Cake (loyang),25,1,0,---,5.6
+2025-01-11,P003,Jus Stroberi Segar (cup),146,1,0,---,5.6
+2025-01-12,P001,Selai Stroberi (250g),61,1,0,---,6.8
+2025-01-12,P002,Strawberry Cake (loyang),23,1,0,---,6.8
+2025-01-12,P003,Jus Stroberi Segar (cup),137,1,0,---,6.8
+2025-01-13,P001,Selai Stroberi (250g),41,0,0,---,7.2
+2025-01-13,P002,Strawberry Cake (loyang),16,0,0,---,7.2
+2025-01-13,P003,Jus Stroberi Segar (cup),71,0,0,---,7.2
+2025-01-14,P001,Selai Stroberi (250g),29,0,0,---,12.6
+2025-01-14,P002,Strawberry Cake (loyang),15,0,0,---,12.6
+2025-01-14,P003,Jus Stroberi Segar (cup),61,0,0,---,12.6
+2025-01-15,P001,Selai Stroberi (250g),36,0,0,---,4.1
+2025-01-15,P002,Strawberry Cake (loyang),15,0,0,---,4.1
+2025-01-15,P003,Jus Stroberi Segar (cup),79,0,0,---,4.1
+2025-01-16,P001,Selai Stroberi (250g),30,0,0,---,10.2
+2025-01-16,P002,Strawberry Cake (loyang),12,0,0,---,10.2
+2025-01-16,P003,Jus Stroberi Segar (cup),78,0,0,---,10.2
+2025-01-17,P001,Selai Stroberi (250g),35,0,0,---,13.8
+2025-01-17,P002,Strawberry Cake (loyang),12,0,0,---,13.8
+2025-01-17,P003,Jus Stroberi Segar (cup),84,0,0,---,13.8
+2025-01-18,P001,Selai Stroberi (250g),74,1,0,---,8.6
+2025-01-18,P002,Strawberry Cake (loyang),26,1,0,---,8.6
+2025-01-18,P003,Jus Stroberi Segar (cup),131,1,0,---,8.6
+2025-01-19,P001,Selai Stroberi (250g),57,1,0,---,9.2
+2025-01-19,P002,Strawberry Cake (loyang),22,1,0,---,9.2
+2025-01-19,P003,Jus Stroberi Segar (cup),129,1,0,---,9.2
+2025-01-20,P001,Selai Stroberi (250g),36,0,0,---,8.0
+2025-01-20,P002,Strawberry Cake (loyang),15,0,0,---,8.0
+2025-01-20,P003,Jus Stroberi Segar (cup),85,0,0,---,8.0
+2025-01-21,P001,Selai Stroberi (250g),24,0,0,---,15.3
+2025-01-21,P002,Strawberry Cake (loyang),14,0,0,---,15.3
+2025-01-21,P003,Jus Stroberi Segar (cup),59,0,0,---,15.3
+2025-01-22,P001,Selai Stroberi (250g),41,0,0,---,9.0
+2025-01-22,P002,Strawberry Cake (loyang),15,0,0,---,9.0
+2025-01-22,P003,Jus Stroberi Segar (cup),89,0,0,---,9.0
+2025-01-23,P001,Selai Stroberi (250g),42,0,0,---,4.1
+2025-01-23,P002,Strawberry Cake (loyang),11,0,0,---,4.1
+2025-01-23,P003,Jus Stroberi Segar (cup),74,0,0,---,4.1
+2025-01-24,P001,Selai Stroberi (250g),39,0,0,---,12.3
+2025-01-24,P002,Strawberry Cake (loyang),14,0,0,---,12.3
+2025-01-24,P003,Jus Stroberi Segar (cup),80,0,0,---,12.3
+2025-01-25,P001,Selai Stroberi (250g),69,1,0,---,13.3
+2025-01-25,P002,Strawberry Cake (loyang),26,1,0,---,13.3
+2025-01-25,P003,Jus Stroberi Segar (cup),130,1,0,---,13.3
+2025-01-26,P001,Selai Stroberi (250g),101,1,0,H-1,7.1
+2025-01-26,P002,Strawberry Cake (loyang),40,1,0,H-1,7.1
+2025-01-26,P003,Jus Stroberi Segar (cup),219,1,0,H-1,7.1
+2025-01-27,P001,Selai Stroberi (250g),136,0,1,H,1.8
+2025-01-27,P002,Strawberry Cake (loyang),53,0,1,H,1.8
+2025-01-27,P003,Jus Stroberi Segar (cup),287,0,1,H,1.8
+2025-01-28,P001,Selai Stroberi (250g),75,0,0,H-1,22.8
+2025-01-28,P002,Strawberry Cake (loyang),23,0,0,H-1,22.8
+2025-01-28,P003,Jus Stroberi Segar (cup),138,0,0,H-1,22.8
+2025-01-29,P001,Selai Stroberi (250g),148,0,1,H,5.4
+2025-01-29,P002,Strawberry Cake (loyang),52,0,1,H,5.4
+2025-01-29,P003,Jus Stroberi Segar (cup),264,0,1,H,5.4
+2025-01-30,P001,Selai Stroberi (250g),85,0,0,H+1,3.6
+2025-01-30,P002,Strawberry Cake (loyang),30,0,0,H+1,3.6
+2025-01-30,P003,Jus Stroberi Segar (cup),169,0,0,H+1,3.6
+2025-01-31,P001,Selai Stroberi (250g),65,0,0,H+2,1.0
+2025-01-31,P002,Strawberry Cake (loyang),25,0,0,H+2,1.0
+2025-01-31,P003,Jus Stroberi Segar (cup),131,0,0,H+2,1.0
+2025-02-01,P001,Selai Stroberi (250g),75,1,0,---,0.5
+2025-02-01,P002,Strawberry Cake (loyang),30,1,0,---,0.5
+2025-02-01,P003,Jus Stroberi Segar (cup),152,1,0,---,0.5
+2025-02-02,P001,Selai Stroberi (250g),54,1,0,---,1.4
+2025-02-02,P002,Strawberry Cake (loyang),23,1,0,---,1.4
+2025-02-02,P003,Jus Stroberi Segar (cup),129,1,0,---,1.4
+2025-02-03,P001,Selai Stroberi (250g),45,0,0,---,0.2
+2025-02-03,P002,Strawberry Cake (loyang),14,0,0,---,0.2
+2025-02-03,P003,Jus Stroberi Segar (cup),89,0,0,---,0.2
+2025-02-04,P001,Selai Stroberi (250g),44,0,0,---,1.9
+2025-02-04,P002,Strawberry Cake (loyang),19,0,0,---,1.9
+2025-02-04,P003,Jus Stroberi Segar (cup),74,0,0,---,1.9
+2025-02-05,P001,Selai Stroberi (250g),38,0,0,---,5.0
+2025-02-05,P002,Strawberry Cake (loyang),15,0,0,---,5.0
+2025-02-05,P003,Jus Stroberi Segar (cup),76,0,0,---,5.0
+2025-02-06,P001,Selai Stroberi (250g),36,0,0,---,3.2
+2025-02-06,P002,Strawberry Cake (loyang),11,0,0,---,3.2
+2025-02-06,P003,Jus Stroberi Segar (cup),77,0,0,---,3.2
+2025-02-07,P001,Selai Stroberi (250g),45,0,0,---,4.7
+2025-02-07,P002,Strawberry Cake (loyang),16,0,0,---,4.7
+2025-02-07,P003,Jus Stroberi Segar (cup),103,0,0,---,4.7
+2025-02-08,P001,Selai Stroberi (250g),72,1,0,---,5.2
+2025-02-08,P002,Strawberry Cake (loyang),29,1,0,---,5.2
+2025-02-08,P003,Jus Stroberi Segar (cup),146,1,0,---,5.2
+2025-02-09,P001,Selai Stroberi (250g),63,1,0,---,2.5
+2025-02-09,P002,Strawberry Cake (loyang),23,1,0,---,2.5
+2025-02-09,P003,Jus Stroberi Segar (cup),131,1,0,---,2.5
+2025-02-10,P001,Selai Stroberi (250g),40,0,0,---,3.8
+2025-02-10,P002,Strawberry Cake (loyang),16,0,0,---,3.8
+2025-02-10,P003,Jus Stroberi Segar (cup),83,0,0,---,3.8
+2025-02-11,P001,Selai Stroberi (250g),39,0,0,---,0.2
+2025-02-11,P002,Strawberry Cake (loyang),16,0,0,---,0.2
+2025-02-11,P003,Jus Stroberi Segar (cup),98,0,0,---,0.2
+2025-02-12,P001,Selai Stroberi (250g),39,0,0,---,1.4
+2025-02-12,P002,Strawberry Cake (loyang),16,0,0,---,1.4
+2025-02-12,P003,Jus Stroberi Segar (cup),90,0,0,---,1.4
+2025-02-13,P001,Selai Stroberi (250g),45,0,0,---,3.6
+2025-02-13,P002,Strawberry Cake (loyang),15,0,0,---,3.6
+2025-02-13,P003,Jus Stroberi Segar (cup),61,0,0,---,3.6
+2025-02-14,P001,Selai Stroberi (250g),46,0,0,---,4.6
+2025-02-14,P002,Strawberry Cake (loyang),13,0,0,---,4.6
+2025-02-14,P003,Jus Stroberi Segar (cup),100,0,0,---,4.6
+2025-02-15,P001,Selai Stroberi (250g),73,1,0,---,7.4
+2025-02-15,P002,Strawberry Cake (loyang),28,1,0,---,7.4
+2025-02-15,P003,Jus Stroberi Segar (cup),137,1,0,---,7.4
+2025-02-16,P001,Selai Stroberi (250g),54,1,0,---,2.1
+2025-02-16,P002,Strawberry Cake (loyang),23,1,0,---,2.1
+2025-02-16,P003,Jus Stroberi Segar (cup),120,1,0,---,2.1
+2025-02-17,P001,Selai Stroberi (250g),38,0,0,---,5.3
+2025-02-17,P002,Strawberry Cake (loyang),15,0,0,---,5.3
+2025-02-17,P003,Jus Stroberi Segar (cup),102,0,0,---,5.3
+2025-02-18,P001,Selai Stroberi (250g),37,0,0,---,12.9
+2025-02-18,P002,Strawberry Cake (loyang),14,0,0,---,12.9
+2025-02-18,P003,Jus Stroberi Segar (cup),75,0,0,---,12.9
+2025-02-19,P001,Selai Stroberi (250g),46,0,0,---,8.7
+2025-02-19,P002,Strawberry Cake (loyang),15,0,0,---,8.7
+2025-02-19,P003,Jus Stroberi Segar (cup),64,0,0,---,8.7
+2025-02-20,P001,Selai Stroberi (250g),39,0,0,---,3.4
+2025-02-20,P002,Strawberry Cake (loyang),16,0,0,---,3.4
+2025-02-20,P003,Jus Stroberi Segar (cup),72,0,0,---,3.4
+2025-02-21,P001,Selai Stroberi (250g),37,0,0,---,15.5
+2025-02-21,P002,Strawberry Cake (loyang),13,0,0,---,15.5
+2025-02-21,P003,Jus Stroberi Segar (cup),88,0,0,---,15.5
+2025-02-22,P001,Selai Stroberi (250g),69,1,0,---,12.6
+2025-02-22,P002,Strawberry Cake (loyang),26,1,0,---,12.6
+2025-02-22,P003,Jus Stroberi Segar (cup),137,1,0,---,12.6
+2025-02-23,P001,Selai Stroberi (250g),54,1,0,---,12.3
+2025-02-23,P002,Strawberry Cake (loyang),21,1,0,---,12.3
+2025-02-23,P003,Jus Stroberi Segar (cup),99,1,0,---,12.3
+2025-02-24,P001,Selai Stroberi (250g),25,0,0,---,17.0
+2025-02-24,P002,Strawberry Cake (loyang),13,0,0,---,17.0
+2025-02-24,P003,Jus Stroberi Segar (cup),71,0,0,---,17.0
+2025-02-25,P001,Selai Stroberi (250g),31,0,0,---,39.6
+2025-02-25,P002,Strawberry Cake (loyang),12,0,0,---,39.6
+2025-02-25,P003,Jus Stroberi Segar (cup),65,0,0,---,39.6
+2025-02-26,P001,Selai Stroberi (250g),36,0,0,---,8.7
+2025-02-26,P002,Strawberry Cake (loyang),14,0,0,---,8.7
+2025-02-26,P003,Jus Stroberi Segar (cup),84,0,0,---,8.7
+2025-02-27,P001,Selai Stroberi (250g),44,0,0,---,14.1
+2025-02-27,P002,Strawberry Cake (loyang),15,0,0,---,14.1
+2025-02-27,P003,Jus Stroberi Segar (cup),77,0,0,---,14.1
+2025-02-28,P001,Selai Stroberi (250g),36,0,0,---,19.3
+2025-02-28,P002,Strawberry Cake (loyang),13,0,0,---,19.3
+2025-02-28,P003,Jus Stroberi Segar (cup),82,0,0,---,19.3
+2025-03-01,P001,Selai Stroberi (250g),68,1,0,---,4.3
+2025-03-01,P002,Strawberry Cake (loyang),27,1,0,---,4.3
+2025-03-01,P003,Jus Stroberi Segar (cup),143,1,0,---,4.3
+2025-03-02,P001,Selai Stroberi (250g),66,1,0,---,8.4
+2025-03-02,P002,Strawberry Cake (loyang),22,1,0,---,8.4
+2025-03-02,P003,Jus Stroberi Segar (cup),100,1,0,---,8.4
+2025-03-03,P001,Selai Stroberi (250g),36,0,0,---,11.4
+2025-03-03,P002,Strawberry Cake (loyang),12,0,0,---,11.4
+2025-03-03,P003,Jus Stroberi Segar (cup),68,0,0,---,11.4
+2025-03-04,P001,Selai Stroberi (250g),34,0,0,---,11.0
+2025-03-04,P002,Strawberry Cake (loyang),12,0,0,---,11.0
+2025-03-04,P003,Jus Stroberi Segar (cup),74,0,0,---,11.0
+2025-03-05,P001,Selai Stroberi (250g),34,0,0,---,3.3
+2025-03-05,P002,Strawberry Cake (loyang),14,0,0,---,3.3
+2025-03-05,P003,Jus Stroberi Segar (cup),85,0,0,---,3.3
+2025-03-06,P001,Selai Stroberi (250g),24,0,0,---,20.4
+2025-03-06,P002,Strawberry Cake (loyang),7,0,0,---,20.4
+2025-03-06,P003,Jus Stroberi Segar (cup),57,0,0,---,20.4
+2025-03-07,P001,Selai Stroberi (250g),48,0,0,---,4.5
+2025-03-07,P002,Strawberry Cake (loyang),16,0,0,---,4.5
+2025-03-07,P003,Jus Stroberi Segar (cup),72,0,0,---,4.5
+2025-03-08,P001,Selai Stroberi (250g),69,1,0,---,11.2
+2025-03-08,P002,Strawberry Cake (loyang),22,1,0,---,11.2
+2025-03-08,P003,Jus Stroberi Segar (cup),134,1,0,---,11.2
+2025-03-09,P001,Selai Stroberi (250g),56,1,0,---,6.8
+2025-03-09,P002,Strawberry Cake (loyang),21,1,0,---,6.8
+2025-03-09,P003,Jus Stroberi Segar (cup),116,1,0,---,6.8
+2025-03-10,P001,Selai Stroberi (250g),39,0,0,---,7.4
+2025-03-10,P002,Strawberry Cake (loyang),14,0,0,---,7.4
+2025-03-10,P003,Jus Stroberi Segar (cup),85,0,0,---,7.4
+2025-03-11,P001,Selai Stroberi (250g),38,0,0,---,2.2
+2025-03-11,P002,Strawberry Cake (loyang),16,0,0,---,2.2
+2025-03-11,P003,Jus Stroberi Segar (cup),82,0,0,---,2.2
+2025-03-12,P001,Selai Stroberi (250g),37,0,0,---,3.9
+2025-03-12,P002,Strawberry Cake (loyang),14,0,0,---,3.9
+2025-03-12,P003,Jus Stroberi Segar (cup),67,0,0,---,3.9
+2025-03-13,P001,Selai Stroberi (250g),41,0,0,---,6.2
+2025-03-13,P002,Strawberry Cake (loyang),14,0,0,---,6.2
+2025-03-13,P003,Jus Stroberi Segar (cup),61,0,0,---,6.2
+2025-03-14,P001,Selai Stroberi (250g),28,0,0,---,23.1
+2025-03-14,P002,Strawberry Cake (loyang),10,0,0,---,23.1
+2025-03-14,P003,Jus Stroberi Segar (cup),73,0,0,---,23.1
+2025-03-15,P001,Selai Stroberi (250g),59,1,0,---,15.7
+2025-03-15,P002,Strawberry Cake (loyang),23,1,0,---,15.7
+2025-03-15,P003,Jus Stroberi Segar (cup),141,1,0,---,15.7
+2025-03-16,P001,Selai Stroberi (250g),65,1,0,---,8.9
+2025-03-16,P002,Strawberry Cake (loyang),21,1,0,---,8.9
+2025-03-16,P003,Jus Stroberi Segar (cup),115,1,0,---,8.9
+2025-03-17,P001,Selai Stroberi (250g),42,0,0,---,8.5
+2025-03-17,P002,Strawberry Cake (loyang),12,0,0,---,8.5
+2025-03-17,P003,Jus Stroberi Segar (cup),65,0,0,---,8.5
+2025-03-18,P001,Selai Stroberi (250g),39,0,0,---,5.6
+2025-03-18,P002,Strawberry Cake (loyang),17,0,0,---,5.6
+2025-03-18,P003,Jus Stroberi Segar (cup),77,0,0,---,5.6
+2025-03-19,P001,Selai Stroberi (250g),40,0,0,---,2.0
+2025-03-19,P002,Strawberry Cake (loyang),17,0,0,---,2.0
+2025-03-19,P003,Jus Stroberi Segar (cup),97,0,0,---,2.0
+2025-03-20,P001,Selai Stroberi (250g),38,0,0,---,0.4
+2025-03-20,P002,Strawberry Cake (loyang),15,0,0,---,0.4
+2025-03-20,P003,Jus Stroberi Segar (cup),95,0,0,---,0.4
+2025-03-21,P001,Selai Stroberi (250g),38,0,0,---,2.0
+2025-03-21,P002,Strawberry Cake (loyang),18,0,0,---,2.0
+2025-03-21,P003,Jus Stroberi Segar (cup),80,0,0,---,2.0
+2025-03-22,P001,Selai Stroberi (250g),72,1,0,---,3.0
+2025-03-22,P002,Strawberry Cake (loyang),27,1,0,---,3.0
+2025-03-22,P003,Jus Stroberi Segar (cup),136,1,0,---,3.0
+2025-03-23,P001,Selai Stroberi (250g),56,1,0,---,0.3
+2025-03-23,P002,Strawberry Cake (loyang),23,1,0,---,0.3
+2025-03-23,P003,Jus Stroberi Segar (cup),128,1,0,---,0.3
+2025-03-24,P001,Selai Stroberi (250g),39,0,0,---,1.7
+2025-03-24,P002,Strawberry Cake (loyang),15,0,0,---,1.7
+2025-03-24,P003,Jus Stroberi Segar (cup),85,0,0,---,1.7
+2025-03-25,P001,Selai Stroberi (250g),36,0,0,---,2.1
+2025-03-25,P002,Strawberry Cake (loyang),16,0,0,---,2.1
+2025-03-25,P003,Jus Stroberi Segar (cup),87,0,0,---,2.1
+2025-03-26,P001,Selai Stroberi (250g),50,0,0,---,9.9
+2025-03-26,P002,Strawberry Cake (loyang),14,0,0,---,9.9
+2025-03-26,P003,Jus Stroberi Segar (cup),76,0,0,---,9.9
+2025-03-27,P001,Selai Stroberi (250g),37,0,0,---,10.7
+2025-03-27,P002,Strawberry Cake (loyang),14,0,0,---,10.7
+2025-03-27,P003,Jus Stroberi Segar (cup),64,0,0,---,10.7
+2025-03-28,P001,Selai Stroberi (250g),90,0,0,H-1,8.7
+2025-03-28,P002,Strawberry Cake (loyang),35,0,0,H-1,8.7
+2025-03-28,P003,Jus Stroberi Segar (cup),177,0,0,H-1,8.7
+2025-03-29,P001,Selai Stroberi (250g),170,1,1,H,1.7
+2025-03-29,P002,Strawberry Cake (loyang),65,1,1,H,1.7
+2025-03-29,P003,Jus Stroberi Segar (cup),352,1,1,H,1.7
+2025-03-30,P001,Selai Stroberi (250g),106,1,0,H-1,1.1
+2025-03-30,P002,Strawberry Cake (loyang),38,1,0,H-1,1.1
+2025-03-30,P003,Jus Stroberi Segar (cup),201,1,0,H-1,1.1
+2025-03-31,P001,Selai Stroberi (250g),135,0,1,H,2.4
+2025-03-31,P002,Strawberry Cake (loyang),51,0,1,H,2.4
+2025-03-31,P003,Jus Stroberi Segar (cup),279,0,1,H,2.4
+2025-04-01,P001,Selai Stroberi (250g),135,0,1,H,8.7
+2025-04-01,P002,Strawberry Cake (loyang),51,0,1,H,8.7
+2025-04-01,P003,Jus Stroberi Segar (cup),274,0,1,H,8.7
+2025-04-02,P001,Selai Stroberi (250g),72,0,0,H+1,12.9
+2025-04-02,P002,Strawberry Cake (loyang),30,0,0,H+1,12.9
+2025-04-02,P003,Jus Stroberi Segar (cup),153,0,0,H+1,12.9
+2025-04-03,P001,Selai Stroberi (250g),54,0,0,H+2,19.6
+2025-04-03,P002,Strawberry Cake (loyang),20,0,0,H+2,19.6
+2025-04-03,P003,Jus Stroberi Segar (cup),105,0,0,H+2,19.6
+2025-04-04,P001,Selai Stroberi (250g),45,0,0,---,3.4
+2025-04-04,P002,Strawberry Cake (loyang),17,0,0,---,3.4
+2025-04-04,P003,Jus Stroberi Segar (cup),81,0,0,---,3.4
+2025-04-05,P001,Selai Stroberi (250g),72,1,0,---,9.6
+2025-04-05,P002,Strawberry Cake (loyang),24,1,0,---,9.6
+2025-04-05,P003,Jus Stroberi Segar (cup),146,1,0,---,9.6
+2025-04-06,P001,Selai Stroberi (250g),49,1,0,---,21.2
+2025-04-06,P002,Strawberry Cake (loyang),17,1,0,---,21.2
+2025-04-06,P003,Jus Stroberi Segar (cup),107,1,0,---,21.2
+2025-04-07,P001,Selai Stroberi (250g),36,0,0,---,0.1
+2025-04-07,P002,Strawberry Cake (loyang),15,0,0,---,0.1
+2025-04-07,P003,Jus Stroberi Segar (cup),80,0,0,---,0.1
+2025-04-08,P001,Selai Stroberi (250g),40,0,0,---,2.3
+2025-04-08,P002,Strawberry Cake (loyang),15,0,0,---,2.3
+2025-04-08,P003,Jus Stroberi Segar (cup),81,0,0,---,2.3
+2025-04-09,P001,Selai Stroberi (250g),43,0,0,---,6.6
+2025-04-09,P002,Strawberry Cake (loyang),17,0,0,---,6.6
+2025-04-09,P003,Jus Stroberi Segar (cup),80,0,0,---,6.6
+2025-04-10,P001,Selai Stroberi (250g),37,0,0,---,17.6
+2025-04-10,P002,Strawberry Cake (loyang),12,0,0,---,17.6
+2025-04-10,P003,Jus Stroberi Segar (cup),74,0,0,---,17.6
+2025-04-11,P001,Selai Stroberi (250g),35,0,0,---,13.3
+2025-04-11,P002,Strawberry Cake (loyang),16,0,0,---,13.3
+2025-04-11,P003,Jus Stroberi Segar (cup),94,0,0,---,13.3
+2025-04-12,P001,Selai Stroberi (250g),72,1,0,---,4.7
+2025-04-12,P002,Strawberry Cake (loyang),24,1,0,---,4.7
+2025-04-12,P003,Jus Stroberi Segar (cup),140,1,0,---,4.7
+2025-04-13,P001,Selai Stroberi (250g),51,1,0,---,24.9
+2025-04-13,P002,Strawberry Cake (loyang),18,1,0,---,24.9
+2025-04-13,P003,Jus Stroberi Segar (cup),94,1,0,---,24.9
+2025-04-14,P001,Selai Stroberi (250g),44,0,0,---,2.9
+2025-04-14,P002,Strawberry Cake (loyang),16,0,0,---,2.9
+2025-04-14,P003,Jus Stroberi Segar (cup),90,0,0,---,2.9
+2025-04-15,P001,Selai Stroberi (250g),30,0,0,---,23.7
+2025-04-15,P002,Strawberry Cake (loyang),12,0,0,---,23.7
+2025-04-15,P003,Jus Stroberi Segar (cup),55,0,0,---,23.7
+2025-04-16,P001,Selai Stroberi (250g),44,0,0,---,4.9
+2025-04-16,P002,Strawberry Cake (loyang),15,0,0,---,4.9
+2025-04-16,P003,Jus Stroberi Segar (cup),75,0,0,---,4.9
+2025-04-17,P001,Selai Stroberi (250g),95,0,0,H-1,0.0
+2025-04-17,P002,Strawberry Cake (loyang),33,0,0,H-1,0.0
+2025-04-17,P003,Jus Stroberi Segar (cup),182,0,0,H-1,0.0
+2025-04-18,P001,Selai Stroberi (250g),138,0,1,H,10.4
+2025-04-18,P002,Strawberry Cake (loyang),51,0,1,H,10.4
+2025-04-18,P003,Jus Stroberi Segar (cup),276,0,1,H,10.4
+2025-04-19,P001,Selai Stroberi (250g),126,1,0,H-1,5.4
+2025-04-19,P002,Strawberry Cake (loyang),46,1,0,H-1,5.4
+2025-04-19,P003,Jus Stroberi Segar (cup),226,1,0,H-1,5.4
+2025-04-20,P001,Selai Stroberi (250g),153,1,1,H,11.4
+2025-04-20,P002,Strawberry Cake (loyang),60,1,1,H,11.4
+2025-04-20,P003,Jus Stroberi Segar (cup),306,1,1,H,11.4
+2025-04-21,P001,Selai Stroberi (250g),73,0,0,H+1,6.1
+2025-04-21,P002,Strawberry Cake (loyang),33,0,0,H+1,6.1
+2025-04-21,P003,Jus Stroberi Segar (cup),165,0,0,H+1,6.1
+2025-04-22,P001,Selai Stroberi (250g),60,0,0,H+2,1.8
+2025-04-22,P002,Strawberry Cake (loyang),22,0,0,H+2,1.8
+2025-04-22,P003,Jus Stroberi Segar (cup),129,0,0,H+2,1.8
+2025-04-23,P001,Selai Stroberi (250g),38,0,0,---,5.6
+2025-04-23,P002,Strawberry Cake (loyang),17,0,0,---,5.6
+2025-04-23,P003,Jus Stroberi Segar (cup),84,0,0,---,5.6
+2025-04-24,P001,Selai Stroberi (250g),41,0,0,---,7.6
+2025-04-24,P002,Strawberry Cake (loyang),15,0,0,---,7.6
+2025-04-24,P003,Jus Stroberi Segar (cup),79,0,0,---,7.6
+2025-04-25,P001,Selai Stroberi (250g),42,0,0,---,11.3
+2025-04-25,P002,Strawberry Cake (loyang),13,0,0,---,11.3
+2025-04-25,P003,Jus Stroberi Segar (cup),63,0,0,---,11.3
+2025-04-26,P001,Selai Stroberi (250g),74,1,0,---,5.0
+2025-04-26,P002,Strawberry Cake (loyang),28,1,0,---,5.0
+2025-04-26,P003,Jus Stroberi Segar (cup),148,1,0,---,5.0
+2025-04-27,P001,Selai Stroberi (250g),62,1,0,---,1.5
+2025-04-27,P002,Strawberry Cake (loyang),22,1,0,---,1.5
+2025-04-27,P003,Jus Stroberi Segar (cup),126,1,0,---,1.5
+2025-04-28,P001,Selai Stroberi (250g),40,0,0,---,1.4
+2025-04-28,P002,Strawberry Cake (loyang),14,0,0,---,1.4
+2025-04-28,P003,Jus Stroberi Segar (cup),78,0,0,---,1.4
+2025-04-29,P001,Selai Stroberi (250g),48,0,0,---,0.6
+2025-04-29,P002,Strawberry Cake (loyang),12,0,0,---,0.6
+2025-04-29,P003,Jus Stroberi Segar (cup),84,0,0,---,0.6
+2025-04-30,P001,Selai Stroberi (250g),81,0,0,H-1,0.0
+2025-04-30,P002,Strawberry Cake (loyang),33,0,0,H-1,0.0
+2025-04-30,P003,Jus Stroberi Segar (cup),173,0,0,H-1,0.0
+2025-05-01,P001,Selai Stroberi (250g),132,0,1,H,1.6
+2025-05-01,P002,Strawberry Cake (loyang),53,0,1,H,1.6
+2025-05-01,P003,Jus Stroberi Segar (cup),277,0,1,H,1.6
+2025-05-02,P001,Selai Stroberi (250g),76,0,0,H+1,1.1
+2025-05-02,P002,Strawberry Cake (loyang),33,0,0,H+1,1.1
+2025-05-02,P003,Jus Stroberi Segar (cup),179,0,0,H+1,1.1
+2025-05-03,P001,Selai Stroberi (250g),98,1,0,H+2,2.8
+2025-05-03,P002,Strawberry Cake (loyang),35,1,0,H+2,2.8
+2025-05-03,P003,Jus Stroberi Segar (cup),184,1,0,H+2,2.8
+2025-05-04,P001,Selai Stroberi (250g),65,1,0,---,9.8
+2025-05-04,P002,Strawberry Cake (loyang),25,1,0,---,9.8
+2025-05-04,P003,Jus Stroberi Segar (cup),129,1,0,---,9.8
+2025-05-05,P001,Selai Stroberi (250g),36,0,0,---,2.6
+2025-05-05,P002,Strawberry Cake (loyang),15,0,0,---,2.6
+2025-05-05,P003,Jus Stroberi Segar (cup),84,0,0,---,2.6
+2025-05-06,P001,Selai Stroberi (250g),33,0,0,---,5.6
+2025-05-06,P002,Strawberry Cake (loyang),16,0,0,---,5.6
+2025-05-06,P003,Jus Stroberi Segar (cup),98,0,0,---,5.6
+2025-05-07,P001,Selai Stroberi (250g),37,0,0,---,17.7
+2025-05-07,P002,Strawberry Cake (loyang),15,0,0,---,17.7
+2025-05-07,P003,Jus Stroberi Segar (cup),69,0,0,---,17.7
+2025-05-08,P001,Selai Stroberi (250g),40,0,0,---,2.8
+2025-05-08,P002,Strawberry Cake (loyang),16,0,0,---,2.8
+2025-05-08,P003,Jus Stroberi Segar (cup),73,0,0,---,2.8
+2025-05-09,P001,Selai Stroberi (250g),40,0,0,---,7.1
+2025-05-09,P002,Strawberry Cake (loyang),18,0,0,---,7.1
+2025-05-09,P003,Jus Stroberi Segar (cup),99,0,0,---,7.1
+2025-05-10,P001,Selai Stroberi (250g),68,1,0,---,5.2
+2025-05-10,P002,Strawberry Cake (loyang),28,1,0,---,5.2
+2025-05-10,P003,Jus Stroberi Segar (cup),143,1,0,---,5.2
+2025-05-11,P001,Selai Stroberi (250g),109,1,0,H-1,7.8
+2025-05-11,P002,Strawberry Cake (loyang),41,1,0,H-1,7.8
+2025-05-11,P003,Jus Stroberi Segar (cup),224,1,0,H-1,7.8
+2025-05-12,P001,Selai Stroberi (250g),140,0,1,H,2.1
+2025-05-12,P002,Strawberry Cake (loyang),55,0,1,H,2.1
+2025-05-12,P003,Jus Stroberi Segar (cup),282,0,1,H,2.1
+2025-05-13,P001,Selai Stroberi (250g),82,0,0,H+1,3.0
+2025-05-13,P002,Strawberry Cake (loyang),29,0,0,H+1,3.0
+2025-05-13,P003,Jus Stroberi Segar (cup),177,0,0,H+1,3.0
+2025-05-14,P001,Selai Stroberi (250g),56,0,0,H+2,13.7
+2025-05-14,P002,Strawberry Cake (loyang),21,0,0,H+2,13.7
+2025-05-14,P003,Jus Stroberi Segar (cup),95,0,0,H+2,13.7
+2025-05-15,P001,Selai Stroberi (250g),37,0,0,---,3.7
+2025-05-15,P002,Strawberry Cake (loyang),17,0,0,---,3.7
+2025-05-15,P003,Jus Stroberi Segar (cup),82,0,0,---,3.7
+2025-05-16,P001,Selai Stroberi (250g),30,0,0,---,11.4
+2025-05-16,P002,Strawberry Cake (loyang),16,0,0,---,11.4
+2025-05-16,P003,Jus Stroberi Segar (cup),72,0,0,---,11.4
+2025-05-17,P001,Selai Stroberi (250g),72,1,0,---,18.4
+2025-05-17,P002,Strawberry Cake (loyang),25,1,0,---,18.4
+2025-05-17,P003,Jus Stroberi Segar (cup),134,1,0,---,18.4
+2025-05-18,P001,Selai Stroberi (250g),65,1,0,---,6.8
+2025-05-18,P002,Strawberry Cake (loyang),21,1,0,---,6.8
+2025-05-18,P003,Jus Stroberi Segar (cup),112,1,0,---,6.8
+2025-05-19,P001,Selai Stroberi (250g),39,0,0,---,0.5
+2025-05-19,P002,Strawberry Cake (loyang),16,0,0,---,0.5
+2025-05-19,P003,Jus Stroberi Segar (cup),69,0,0,---,0.5
+2025-05-20,P001,Selai Stroberi (250g),33,0,0,---,4.4
+2025-05-20,P002,Strawberry Cake (loyang),16,0,0,---,4.4
+2025-05-20,P003,Jus Stroberi Segar (cup),75,0,0,---,4.4
+2025-05-21,P001,Selai Stroberi (250g),24,0,0,---,30.7
+2025-05-21,P002,Strawberry Cake (loyang),7,0,0,---,30.7
+2025-05-21,P003,Jus Stroberi Segar (cup),47,0,0,---,30.7
+2025-05-22,P001,Selai Stroberi (250g),34,0,0,---,20.0
+2025-05-22,P002,Strawberry Cake (loyang),14,0,0,---,20.0
+2025-05-22,P003,Jus Stroberi Segar (cup),62,0,0,---,20.0
+2025-05-23,P001,Selai Stroberi (250g),45,0,0,---,10.2
+2025-05-23,P002,Strawberry Cake (loyang),13,0,0,---,10.2
+2025-05-23,P003,Jus Stroberi Segar (cup),71,0,0,---,10.2
+2025-05-24,P001,Selai Stroberi (250g),72,1,0,---,18.1
+2025-05-24,P002,Strawberry Cake (loyang),25,1,0,---,18.1
+2025-05-24,P003,Jus Stroberi Segar (cup),128,1,0,---,18.1
+2025-05-25,P001,Selai Stroberi (250g),59,1,0,---,2.9
+2025-05-25,P002,Strawberry Cake (loyang),25,1,0,---,2.9
+2025-05-25,P003,Jus Stroberi Segar (cup),132,1,0,---,2.9
+2025-05-26,P001,Selai Stroberi (250g),31,0,0,---,13.5
+2025-05-26,P002,Strawberry Cake (loyang),13,0,0,---,13.5
+2025-05-26,P003,Jus Stroberi Segar (cup),69,0,0,---,13.5
+2025-05-27,P001,Selai Stroberi (250g),36,0,0,---,1.3
+2025-05-27,P002,Strawberry Cake (loyang),15,0,0,---,1.3
+2025-05-27,P003,Jus Stroberi Segar (cup),80,0,0,---,1.3
+2025-05-28,P001,Selai Stroberi (250g),93,0,0,H-1,1.8
+2025-05-28,P002,Strawberry Cake (loyang),35,0,0,H-1,1.8
+2025-05-28,P003,Jus Stroberi Segar (cup),173,0,0,H-1,1.8
+2025-05-29,P001,Selai Stroberi (250g),139,0,1,H,1.2
+2025-05-29,P002,Strawberry Cake (loyang),53,0,1,H,1.2
+2025-05-29,P003,Jus Stroberi Segar (cup),275,0,1,H,1.2
+2025-05-30,P001,Selai Stroberi (250g),86,0,0,H+1,0.0
+2025-05-30,P002,Strawberry Cake (loyang),31,0,0,H+1,0.0
+2025-05-30,P003,Jus Stroberi Segar (cup),160,0,0,H+1,0.0
+2025-05-31,P001,Selai Stroberi (250g),116,1,0,H-1,4.1
+2025-05-31,P002,Strawberry Cake (loyang),47,1,0,H-1,4.1
+2025-05-31,P003,Jus Stroberi Segar (cup),239,1,0,H-1,4.1
+2025-06-01,P001,Selai Stroberi (250g),167,1,1,H,1.5
+2025-06-01,P002,Strawberry Cake (loyang),59,1,1,H,1.5
+2025-06-01,P003,Jus Stroberi Segar (cup),322,1,1,H,1.5
+2025-06-02,P001,Selai Stroberi (250g),90,0,0,H+1,1.3
+2025-06-02,P002,Strawberry Cake (loyang),28,0,0,H+1,1.3
+2025-06-02,P003,Jus Stroberi Segar (cup),145,0,0,H+1,1.3
+2025-06-03,P001,Selai Stroberi (250g),65,0,0,H+2,1.5
+2025-06-03,P002,Strawberry Cake (loyang),21,0,0,H+2,1.5
+2025-06-03,P003,Jus Stroberi Segar (cup),120,0,0,H+2,1.5
+2025-06-04,P001,Selai Stroberi (250g),38,0,0,---,0.8
+2025-06-04,P002,Strawberry Cake (loyang),15,0,0,---,0.8
+2025-06-04,P003,Jus Stroberi Segar (cup),72,0,0,---,0.8
+2025-06-05,P001,Selai Stroberi (250g),87,0,0,H-1,0.5
+2025-06-05,P002,Strawberry Cake (loyang),34,0,0,H-1,0.5
+2025-06-05,P003,Jus Stroberi Segar (cup),168,0,0,H-1,0.5
+2025-06-06,P001,Selai Stroberi (250g),135,0,1,H,10.9
+2025-06-06,P002,Strawberry Cake (loyang),51,0,1,H,10.9
+2025-06-06,P003,Jus Stroberi Segar (cup),265,0,1,H,10.9
+2025-06-07,P001,Selai Stroberi (250g),110,1,0,H+1,4.1
+2025-06-07,P002,Strawberry Cake (loyang),42,1,0,H+1,4.1
+2025-06-07,P003,Jus Stroberi Segar (cup),221,1,0,H+1,4.1
+2025-06-08,P001,Selai Stroberi (250g),79,1,0,H+2,0.9
+2025-06-08,P002,Strawberry Cake (loyang),30,1,0,H+2,0.9
+2025-06-08,P003,Jus Stroberi Segar (cup),155,1,0,H+2,0.9
+2025-06-09,P001,Selai Stroberi (250g),43,0,0,---,2.2
+2025-06-09,P002,Strawberry Cake (loyang),17,0,0,---,2.2
+2025-06-09,P003,Jus Stroberi Segar (cup),76,0,0,---,2.2
+2025-06-10,P001,Selai Stroberi (250g),42,0,0,---,5.9
+2025-06-10,P002,Strawberry Cake (loyang),15,0,0,---,5.9
+2025-06-10,P003,Jus Stroberi Segar (cup),83,0,0,---,5.9
+2025-06-11,P001,Selai Stroberi (250g),46,0,0,---,3.1
+2025-06-11,P002,Strawberry Cake (loyang),16,0,0,---,3.1
+2025-06-11,P003,Jus Stroberi Segar (cup),66,0,0,---,3.1
+2025-06-12,P001,Selai Stroberi (250g),42,0,0,---,4.7
+2025-06-12,P002,Strawberry Cake (loyang),17,0,0,---,4.7
+2025-06-12,P003,Jus Stroberi Segar (cup),78,0,0,---,4.7
+2025-06-13,P001,Selai Stroberi (250g),48,0,0,---,0.0
+2025-06-13,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2025-06-13,P003,Jus Stroberi Segar (cup),76,0,0,---,0.0
+2025-06-14,P001,Selai Stroberi (250g),73,1,0,---,4.7
+2025-06-14,P002,Strawberry Cake (loyang),24,1,0,---,4.7
+2025-06-14,P003,Jus Stroberi Segar (cup),142,1,0,---,4.7
+2025-06-15,P001,Selai Stroberi (250g),65,1,0,---,3.8
+2025-06-15,P002,Strawberry Cake (loyang),20,1,0,---,3.8
+2025-06-15,P003,Jus Stroberi Segar (cup),110,1,0,---,3.8
+2025-06-16,P001,Selai Stroberi (250g),36,0,0,---,0.9
+2025-06-16,P002,Strawberry Cake (loyang),15,0,0,---,0.9
+2025-06-16,P003,Jus Stroberi Segar (cup),77,0,0,---,0.9
+2025-06-17,P001,Selai Stroberi (250g),46,0,0,---,3.5
+2025-06-17,P002,Strawberry Cake (loyang),16,0,0,---,3.5
+2025-06-17,P003,Jus Stroberi Segar (cup),84,0,0,---,3.5
+2025-06-18,P001,Selai Stroberi (250g),41,0,0,---,4.5
+2025-06-18,P002,Strawberry Cake (loyang),16,0,0,---,4.5
+2025-06-18,P003,Jus Stroberi Segar (cup),73,0,0,---,4.5
+2025-06-19,P001,Selai Stroberi (250g),43,0,0,---,2.2
+2025-06-19,P002,Strawberry Cake (loyang),13,0,0,---,2.2
+2025-06-19,P003,Jus Stroberi Segar (cup),87,0,0,---,2.2
+2025-06-20,P001,Selai Stroberi (250g),43,0,0,---,13.0
+2025-06-20,P002,Strawberry Cake (loyang),15,0,0,---,13.0
+2025-06-20,P003,Jus Stroberi Segar (cup),75,0,0,---,13.0
+2025-06-21,P001,Selai Stroberi (250g),74,1,0,---,2.3
+2025-06-21,P002,Strawberry Cake (loyang),23,1,0,---,2.3
+2025-06-21,P003,Jus Stroberi Segar (cup),146,1,0,---,2.3
+2025-06-22,P001,Selai Stroberi (250g),60,1,0,---,2.0
+2025-06-22,P002,Strawberry Cake (loyang),22,1,0,---,2.0
+2025-06-22,P003,Jus Stroberi Segar (cup),126,1,0,---,2.0
+2025-06-23,P001,Selai Stroberi (250g),40,0,0,---,3.5
+2025-06-23,P002,Strawberry Cake (loyang),13,0,0,---,3.5
+2025-06-23,P003,Jus Stroberi Segar (cup),79,0,0,---,3.5
+2025-06-24,P001,Selai Stroberi (250g),40,0,0,---,5.6
+2025-06-24,P002,Strawberry Cake (loyang),15,0,0,---,5.6
+2025-06-24,P003,Jus Stroberi Segar (cup),81,0,0,---,5.6
+2025-06-25,P001,Selai Stroberi (250g),44,0,0,---,0.8
+2025-06-25,P002,Strawberry Cake (loyang),13,0,0,---,0.8
+2025-06-25,P003,Jus Stroberi Segar (cup),81,0,0,---,0.8
+2025-06-26,P001,Selai Stroberi (250g),93,0,0,H-1,0.4
+2025-06-26,P002,Strawberry Cake (loyang),30,0,0,H-1,0.4
+2025-06-26,P003,Jus Stroberi Segar (cup),177,0,0,H-1,0.4
+2025-06-27,P001,Selai Stroberi (250g),142,0,1,H,4.1
+2025-06-27,P002,Strawberry Cake (loyang),53,0,1,H,4.1
+2025-06-27,P003,Jus Stroberi Segar (cup),281,0,1,H,4.1
+2025-06-28,P001,Selai Stroberi (250g),111,1,0,H+1,5.0
+2025-06-28,P002,Strawberry Cake (loyang),45,1,0,H+1,5.0
+2025-06-28,P003,Jus Stroberi Segar (cup),214,1,0,H+1,5.0
+2025-06-29,P001,Selai Stroberi (250g),75,1,0,H+2,2.4
+2025-06-29,P002,Strawberry Cake (loyang),28,1,0,H+2,2.4
+2025-06-29,P003,Jus Stroberi Segar (cup),174,1,0,H+2,2.4
+2025-06-30,P001,Selai Stroberi (250g),38,0,0,---,3.7
+2025-06-30,P002,Strawberry Cake (loyang),15,0,0,---,3.7
+2025-06-30,P003,Jus Stroberi Segar (cup),77,0,0,---,3.7
+2025-07-01,P001,Selai Stroberi (250g),36,0,0,---,2.2
+2025-07-01,P002,Strawberry Cake (loyang),15,0,0,---,2.2
+2025-07-01,P003,Jus Stroberi Segar (cup),100,0,0,---,2.2
+2025-07-02,P001,Selai Stroberi (250g),46,0,0,---,1.0
+2025-07-02,P002,Strawberry Cake (loyang),14,0,0,---,1.0
+2025-07-02,P003,Jus Stroberi Segar (cup),85,0,0,---,1.0
+2025-07-03,P001,Selai Stroberi (250g),37,0,0,---,3.0
+2025-07-03,P002,Strawberry Cake (loyang),12,0,0,---,3.0
+2025-07-03,P003,Jus Stroberi Segar (cup),88,0,0,---,3.0
+2025-07-04,P001,Selai Stroberi (250g),49,0,0,---,2.9
+2025-07-04,P002,Strawberry Cake (loyang),18,0,0,---,2.9
+2025-07-04,P003,Jus Stroberi Segar (cup),84,0,0,---,2.9
+2025-07-05,P001,Selai Stroberi (250g),65,1,0,---,14.4
+2025-07-05,P002,Strawberry Cake (loyang),26,1,0,---,14.4
+2025-07-05,P003,Jus Stroberi Segar (cup),135,1,0,---,14.4
+2025-07-06,P001,Selai Stroberi (250g),58,1,0,---,3.6
+2025-07-06,P002,Strawberry Cake (loyang),20,1,0,---,3.6
+2025-07-06,P003,Jus Stroberi Segar (cup),121,1,0,---,3.6
+2025-07-07,P001,Selai Stroberi (250g),44,0,0,---,4.1
+2025-07-07,P002,Strawberry Cake (loyang),13,0,0,---,4.1
+2025-07-07,P003,Jus Stroberi Segar (cup),85,0,0,---,4.1
+2025-07-08,P001,Selai Stroberi (250g),41,0,0,---,2.9
+2025-07-08,P002,Strawberry Cake (loyang),16,0,0,---,2.9
+2025-07-08,P003,Jus Stroberi Segar (cup),87,0,0,---,2.9
+2025-07-09,P001,Selai Stroberi (250g),37,0,0,---,0.5
+2025-07-09,P002,Strawberry Cake (loyang),13,0,0,---,0.5
+2025-07-09,P003,Jus Stroberi Segar (cup),76,0,0,---,0.5
+2025-07-10,P001,Selai Stroberi (250g),44,0,0,---,0.4
+2025-07-10,P002,Strawberry Cake (loyang),14,0,0,---,0.4
+2025-07-10,P003,Jus Stroberi Segar (cup),74,0,0,---,0.4
+2025-07-11,P001,Selai Stroberi (250g),37,0,0,---,2.3
+2025-07-11,P002,Strawberry Cake (loyang),19,0,0,---,2.3
+2025-07-11,P003,Jus Stroberi Segar (cup),95,0,0,---,2.3
+2025-07-12,P001,Selai Stroberi (250g),75,1,0,---,0.0
+2025-07-12,P002,Strawberry Cake (loyang),28,1,0,---,0.0
+2025-07-12,P003,Jus Stroberi Segar (cup),149,1,0,---,0.0
+2025-07-13,P001,Selai Stroberi (250g),59,1,0,---,5.6
+2025-07-13,P002,Strawberry Cake (loyang),22,1,0,---,5.6
+2025-07-13,P003,Jus Stroberi Segar (cup),117,1,0,---,5.6
+2025-07-14,P001,Selai Stroberi (250g),45,0,0,---,11.4
+2025-07-14,P002,Strawberry Cake (loyang),14,0,0,---,11.4
+2025-07-14,P003,Jus Stroberi Segar (cup),64,0,0,---,11.4
+2025-07-15,P001,Selai Stroberi (250g),42,0,0,---,0.5
+2025-07-15,P002,Strawberry Cake (loyang),13,0,0,---,0.5
+2025-07-15,P003,Jus Stroberi Segar (cup),92,0,0,---,0.5
+2025-07-16,P001,Selai Stroberi (250g),37,0,0,---,3.5
+2025-07-16,P002,Strawberry Cake (loyang),16,0,0,---,3.5
+2025-07-16,P003,Jus Stroberi Segar (cup),89,0,0,---,3.5
+2025-07-17,P001,Selai Stroberi (250g),42,0,0,---,1.3
+2025-07-17,P002,Strawberry Cake (loyang),15,0,0,---,1.3
+2025-07-17,P003,Jus Stroberi Segar (cup),80,0,0,---,1.3
+2025-07-18,P001,Selai Stroberi (250g),44,0,0,---,0.4
+2025-07-18,P002,Strawberry Cake (loyang),16,0,0,---,0.4
+2025-07-18,P003,Jus Stroberi Segar (cup),84,0,0,---,0.4
+2025-07-19,P001,Selai Stroberi (250g),78,1,0,---,0.0
+2025-07-19,P002,Strawberry Cake (loyang),27,1,0,---,0.0
+2025-07-19,P003,Jus Stroberi Segar (cup),138,1,0,---,0.0
+2025-07-20,P001,Selai Stroberi (250g),58,1,0,---,0.7
+2025-07-20,P002,Strawberry Cake (loyang),24,1,0,---,0.7
+2025-07-20,P003,Jus Stroberi Segar (cup),125,1,0,---,0.7
+2025-07-21,P001,Selai Stroberi (250g),42,0,0,---,0.4
+2025-07-21,P002,Strawberry Cake (loyang),15,0,0,---,0.4
+2025-07-21,P003,Jus Stroberi Segar (cup),85,0,0,---,0.4
+2025-07-22,P001,Selai Stroberi (250g),37,0,0,---,0.0
+2025-07-22,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2025-07-22,P003,Jus Stroberi Segar (cup),88,0,0,---,0.0
+2025-07-23,P001,Selai Stroberi (250g),43,0,0,---,0.1
+2025-07-23,P002,Strawberry Cake (loyang),14,0,0,---,0.1
+2025-07-23,P003,Jus Stroberi Segar (cup),73,0,0,---,0.1
+2025-07-24,P001,Selai Stroberi (250g),40,0,0,---,0.3
+2025-07-24,P002,Strawberry Cake (loyang),18,0,0,---,0.3
+2025-07-24,P003,Jus Stroberi Segar (cup),65,0,0,---,0.3
+2025-07-25,P001,Selai Stroberi (250g),45,0,0,---,2.3
+2025-07-25,P002,Strawberry Cake (loyang),14,0,0,---,2.3
+2025-07-25,P003,Jus Stroberi Segar (cup),83,0,0,---,2.3
+2025-07-26,P001,Selai Stroberi (250g),71,1,0,---,0.5
+2025-07-26,P002,Strawberry Cake (loyang),26,1,0,---,0.5
+2025-07-26,P003,Jus Stroberi Segar (cup),140,1,0,---,0.5
+2025-07-27,P001,Selai Stroberi (250g),60,1,0,---,2.7
+2025-07-27,P002,Strawberry Cake (loyang),22,1,0,---,2.7
+2025-07-27,P003,Jus Stroberi Segar (cup),108,1,0,---,2.7
+2025-07-28,P001,Selai Stroberi (250g),43,0,0,---,3.6
+2025-07-28,P002,Strawberry Cake (loyang),16,0,0,---,3.6
+2025-07-28,P003,Jus Stroberi Segar (cup),87,0,0,---,3.6
+2025-07-29,P001,Selai Stroberi (250g),34,0,0,---,2.8
+2025-07-29,P002,Strawberry Cake (loyang),15,0,0,---,2.8
+2025-07-29,P003,Jus Stroberi Segar (cup),85,0,0,---,2.8
+2025-07-30,P001,Selai Stroberi (250g),36,0,0,---,3.6
+2025-07-30,P002,Strawberry Cake (loyang),15,0,0,---,3.6
+2025-07-30,P003,Jus Stroberi Segar (cup),79,0,0,---,3.6
+2025-07-31,P001,Selai Stroberi (250g),47,0,0,---,1.5
+2025-07-31,P002,Strawberry Cake (loyang),18,0,0,---,1.5
+2025-07-31,P003,Jus Stroberi Segar (cup),67,0,0,---,1.5
+2025-08-01,P001,Selai Stroberi (250g),54,0,0,---,0.5
+2025-08-01,P002,Strawberry Cake (loyang),15,0,0,---,0.5
+2025-08-01,P003,Jus Stroberi Segar (cup),96,0,0,---,0.5
+2025-08-02,P001,Selai Stroberi (250g),76,1,0,---,0.0
+2025-08-02,P002,Strawberry Cake (loyang),26,1,0,---,0.0
+2025-08-02,P003,Jus Stroberi Segar (cup),148,1,0,---,0.0
+2025-08-03,P001,Selai Stroberi (250g),60,1,0,---,0.8
+2025-08-03,P002,Strawberry Cake (loyang),23,1,0,---,0.8
+2025-08-03,P003,Jus Stroberi Segar (cup),122,1,0,---,0.8
+2025-08-04,P001,Selai Stroberi (250g),39,0,0,---,11.4
+2025-08-04,P002,Strawberry Cake (loyang),13,0,0,---,11.4
+2025-08-04,P003,Jus Stroberi Segar (cup),67,0,0,---,11.4
+2025-08-05,P001,Selai Stroberi (250g),44,0,0,---,2.4
+2025-08-05,P002,Strawberry Cake (loyang),16,0,0,---,2.4
+2025-08-05,P003,Jus Stroberi Segar (cup),86,0,0,---,2.4
+2025-08-06,P001,Selai Stroberi (250g),37,0,0,---,0.3
+2025-08-06,P002,Strawberry Cake (loyang),13,0,0,---,0.3
+2025-08-06,P003,Jus Stroberi Segar (cup),75,0,0,---,0.3
+2025-08-07,P001,Selai Stroberi (250g),38,0,0,---,0.9
+2025-08-07,P002,Strawberry Cake (loyang),16,0,0,---,0.9
+2025-08-07,P003,Jus Stroberi Segar (cup),88,0,0,---,0.9
+2025-08-08,P001,Selai Stroberi (250g),43,0,0,---,0.0
+2025-08-08,P002,Strawberry Cake (loyang),19,0,0,---,0.0
+2025-08-08,P003,Jus Stroberi Segar (cup),99,0,0,---,0.0
+2025-08-09,P001,Selai Stroberi (250g),73,1,0,---,7.5
+2025-08-09,P002,Strawberry Cake (loyang),26,1,0,---,7.5
+2025-08-09,P003,Jus Stroberi Segar (cup),157,1,0,---,7.5
+2025-08-10,P001,Selai Stroberi (250g),60,1,0,---,2.9
+2025-08-10,P002,Strawberry Cake (loyang),23,1,0,---,2.9
+2025-08-10,P003,Jus Stroberi Segar (cup),117,1,0,---,2.9
+2025-08-11,P001,Selai Stroberi (250g),36,0,0,---,3.3
+2025-08-11,P002,Strawberry Cake (loyang),13,0,0,---,3.3
+2025-08-11,P003,Jus Stroberi Segar (cup),85,0,0,---,3.3
+2025-08-12,P001,Selai Stroberi (250g),37,0,0,---,9.4
+2025-08-12,P002,Strawberry Cake (loyang),20,0,0,---,9.4
+2025-08-12,P003,Jus Stroberi Segar (cup),71,0,0,---,9.4
+2025-08-13,P001,Selai Stroberi (250g),29,0,0,---,17.6
+2025-08-13,P002,Strawberry Cake (loyang),14,0,0,---,17.6
+2025-08-13,P003,Jus Stroberi Segar (cup),80,0,0,---,17.6
+2025-08-14,P001,Selai Stroberi (250g),26,0,0,---,42.1
+2025-08-14,P002,Strawberry Cake (loyang),11,0,0,---,42.1
+2025-08-14,P003,Jus Stroberi Segar (cup),37,0,0,---,42.1
+2025-08-15,P001,Selai Stroberi (250g),41,0,0,---,3.2
+2025-08-15,P002,Strawberry Cake (loyang),15,0,0,---,3.2
+2025-08-15,P003,Jus Stroberi Segar (cup),73,0,0,---,3.2
+2025-08-16,P001,Selai Stroberi (250g),120,1,0,H-1,0.4
+2025-08-16,P002,Strawberry Cake (loyang),42,1,0,H-1,0.4
+2025-08-16,P003,Jus Stroberi Segar (cup),229,1,0,H-1,0.4
+2025-08-17,P001,Selai Stroberi (250g),158,1,1,H,0.6
+2025-08-17,P002,Strawberry Cake (loyang),59,1,1,H,0.6
+2025-08-17,P003,Jus Stroberi Segar (cup),323,1,1,H,0.6
+2025-08-18,P001,Selai Stroberi (250g),75,0,0,H+1,12.6
+2025-08-18,P002,Strawberry Cake (loyang),29,0,0,H+1,12.6
+2025-08-18,P003,Jus Stroberi Segar (cup),154,0,0,H+1,12.6
+2025-08-19,P001,Selai Stroberi (250g),65,0,0,H+2,2.1
+2025-08-19,P002,Strawberry Cake (loyang),22,0,0,H+2,2.1
+2025-08-19,P003,Jus Stroberi Segar (cup),122,0,0,H+2,2.1
+2025-08-20,P001,Selai Stroberi (250g),42,0,0,---,3.1
+2025-08-20,P002,Strawberry Cake (loyang),15,0,0,---,3.1
+2025-08-20,P003,Jus Stroberi Segar (cup),77,0,0,---,3.1
+2025-08-21,P001,Selai Stroberi (250g),39,0,0,---,2.7
+2025-08-21,P002,Strawberry Cake (loyang),14,0,0,---,2.7
+2025-08-21,P003,Jus Stroberi Segar (cup),83,0,0,---,2.7
+2025-08-22,P001,Selai Stroberi (250g),44,0,0,---,3.4
+2025-08-22,P002,Strawberry Cake (loyang),16,0,0,---,3.4
+2025-08-22,P003,Jus Stroberi Segar (cup),83,0,0,---,3.4
+2025-08-23,P001,Selai Stroberi (250g),67,1,0,---,0.8
+2025-08-23,P002,Strawberry Cake (loyang),28,1,0,---,0.8
+2025-08-23,P003,Jus Stroberi Segar (cup),145,1,0,---,0.8
+2025-08-24,P001,Selai Stroberi (250g),57,1,0,---,0.9
+2025-08-24,P002,Strawberry Cake (loyang),24,1,0,---,0.9
+2025-08-24,P003,Jus Stroberi Segar (cup),116,1,0,---,0.9
+2025-08-25,P001,Selai Stroberi (250g),34,0,0,---,1.9
+2025-08-25,P002,Strawberry Cake (loyang),17,0,0,---,1.9
+2025-08-25,P003,Jus Stroberi Segar (cup),76,0,0,---,1.9
+2025-08-26,P001,Selai Stroberi (250g),38,0,0,---,1.5
+2025-08-26,P002,Strawberry Cake (loyang),15,0,0,---,1.5
+2025-08-26,P003,Jus Stroberi Segar (cup),89,0,0,---,1.5
+2025-08-27,P001,Selai Stroberi (250g),40,0,0,---,1.4
+2025-08-27,P002,Strawberry Cake (loyang),13,0,0,---,1.4
+2025-08-27,P003,Jus Stroberi Segar (cup),84,0,0,---,1.4
+2025-08-28,P001,Selai Stroberi (250g),38,0,0,---,4.8
+2025-08-28,P002,Strawberry Cake (loyang),18,0,0,---,4.8
+2025-08-28,P003,Jus Stroberi Segar (cup),80,0,0,---,4.8
+2025-08-29,P001,Selai Stroberi (250g),35,0,0,---,8.9
+2025-08-29,P002,Strawberry Cake (loyang),17,0,0,---,8.9
+2025-08-29,P003,Jus Stroberi Segar (cup),104,0,0,---,8.9
+2025-08-30,P001,Selai Stroberi (250g),78,1,0,---,9.0
+2025-08-30,P002,Strawberry Cake (loyang),30,1,0,---,9.0
+2025-08-30,P003,Jus Stroberi Segar (cup),136,1,0,---,9.0
+2025-08-31,P001,Selai Stroberi (250g),58,1,0,---,11.6
+2025-08-31,P002,Strawberry Cake (loyang),19,1,0,---,11.6
+2025-08-31,P003,Jus Stroberi Segar (cup),110,1,0,---,11.6
+2025-09-01,P001,Selai Stroberi (250g),35,0,0,---,3.9
+2025-09-01,P002,Strawberry Cake (loyang),14,0,0,---,3.9
+2025-09-01,P003,Jus Stroberi Segar (cup),75,0,0,---,3.9
+2025-09-02,P001,Selai Stroberi (250g),44,0,0,---,0.1
+2025-09-02,P002,Strawberry Cake (loyang),16,0,0,---,0.1
+2025-09-02,P003,Jus Stroberi Segar (cup),82,0,0,---,0.1
+2025-09-03,P001,Selai Stroberi (250g),35,0,0,---,0.0
+2025-09-03,P002,Strawberry Cake (loyang),15,0,0,---,0.0
+2025-09-03,P003,Jus Stroberi Segar (cup),74,0,0,---,0.0
+2025-09-04,P001,Selai Stroberi (250g),91,0,0,H-1,0.1
+2025-09-04,P002,Strawberry Cake (loyang),35,0,0,H-1,0.1
+2025-09-04,P003,Jus Stroberi Segar (cup),184,0,0,H-1,0.1
+2025-09-05,P001,Selai Stroberi (250g),141,0,1,H,5.4
+2025-09-05,P002,Strawberry Cake (loyang),50,0,1,H,5.4
+2025-09-05,P003,Jus Stroberi Segar (cup),274,0,1,H,5.4
+2025-09-06,P001,Selai Stroberi (250g),118,1,0,H+1,0.3
+2025-09-06,P002,Strawberry Cake (loyang),41,1,0,H+1,0.3
+2025-09-06,P003,Jus Stroberi Segar (cup),218,1,0,H+1,0.3
+2025-09-07,P001,Selai Stroberi (250g),87,1,0,H+2,0.0
+2025-09-07,P002,Strawberry Cake (loyang),32,1,0,H+2,0.0
+2025-09-07,P003,Jus Stroberi Segar (cup),160,1,0,H+2,0.0
+2025-09-08,P001,Selai Stroberi (250g),39,0,0,---,5.1
+2025-09-08,P002,Strawberry Cake (loyang),15,0,0,---,5.1
+2025-09-08,P003,Jus Stroberi Segar (cup),82,0,0,---,5.1
+2025-09-09,P001,Selai Stroberi (250g),46,0,0,---,7.3
+2025-09-09,P002,Strawberry Cake (loyang),16,0,0,---,7.3
+2025-09-09,P003,Jus Stroberi Segar (cup),86,0,0,---,7.3
+2025-09-10,P001,Selai Stroberi (250g),45,0,0,---,6.1
+2025-09-10,P002,Strawberry Cake (loyang),13,0,0,---,6.1
+2025-09-10,P003,Jus Stroberi Segar (cup),86,0,0,---,6.1
+2025-09-11,P001,Selai Stroberi (250g),39,0,0,---,7.6
+2025-09-11,P002,Strawberry Cake (loyang),11,0,0,---,7.6
+2025-09-11,P003,Jus Stroberi Segar (cup),63,0,0,---,7.6
+2025-09-12,P001,Selai Stroberi (250g),26,0,0,---,36.4
+2025-09-12,P002,Strawberry Cake (loyang),12,0,0,---,36.4
+2025-09-12,P003,Jus Stroberi Segar (cup),61,0,0,---,36.4
+2025-09-13,P001,Selai Stroberi (250g),73,1,0,---,3.6
+2025-09-13,P002,Strawberry Cake (loyang),30,1,0,---,3.6
+2025-09-13,P003,Jus Stroberi Segar (cup),134,1,0,---,3.6
+2025-09-14,P001,Selai Stroberi (250g),60,1,0,---,0.0
+2025-09-14,P002,Strawberry Cake (loyang),23,1,0,---,0.0
+2025-09-14,P003,Jus Stroberi Segar (cup),114,1,0,---,0.0
+2025-09-15,P001,Selai Stroberi (250g),40,0,0,---,0.2
+2025-09-15,P002,Strawberry Cake (loyang),13,0,0,---,0.2
+2025-09-15,P003,Jus Stroberi Segar (cup),91,0,0,---,0.2
+2025-09-16,P001,Selai Stroberi (250g),37,0,0,---,2.9
+2025-09-16,P002,Strawberry Cake (loyang),18,0,0,---,2.9
+2025-09-16,P003,Jus Stroberi Segar (cup),80,0,0,---,2.9
+2025-09-17,P001,Selai Stroberi (250g),44,0,0,---,7.5
+2025-09-17,P002,Strawberry Cake (loyang),15,0,0,---,7.5
+2025-09-17,P003,Jus Stroberi Segar (cup),80,0,0,---,7.5
+2025-09-18,P001,Selai Stroberi (250g),38,0,0,---,2.6
+2025-09-18,P002,Strawberry Cake (loyang),15,0,0,---,2.6
+2025-09-18,P003,Jus Stroberi Segar (cup),83,0,0,---,2.6
+2025-09-19,P001,Selai Stroberi (250g),41,0,0,---,7.6
+2025-09-19,P002,Strawberry Cake (loyang),16,0,0,---,7.6
+2025-09-19,P003,Jus Stroberi Segar (cup),83,0,0,---,7.6
+2025-09-20,P001,Selai Stroberi (250g),81,1,0,---,8.9
+2025-09-20,P002,Strawberry Cake (loyang),27,1,0,---,8.9
+2025-09-20,P003,Jus Stroberi Segar (cup),156,1,0,---,8.9
+2025-09-21,P001,Selai Stroberi (250g),59,1,0,---,2.5
+2025-09-21,P002,Strawberry Cake (loyang),23,1,0,---,2.5
+2025-09-21,P003,Jus Stroberi Segar (cup),109,1,0,---,2.5
+2025-09-22,P001,Selai Stroberi (250g),38,0,0,---,1.1
+2025-09-22,P002,Strawberry Cake (loyang),15,0,0,---,1.1
+2025-09-22,P003,Jus Stroberi Segar (cup),93,0,0,---,1.1
+2025-09-23,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2025-09-23,P002,Strawberry Cake (loyang),17,0,0,---,0.0
+2025-09-23,P003,Jus Stroberi Segar (cup),85,0,0,---,0.0
+2025-09-24,P001,Selai Stroberi (250g),47,0,0,---,1.9
+2025-09-24,P002,Strawberry Cake (loyang),15,0,0,---,1.9
+2025-09-24,P003,Jus Stroberi Segar (cup),99,0,0,---,1.9
+2025-09-25,P001,Selai Stroberi (250g),38,0,0,---,0.7
+2025-09-25,P002,Strawberry Cake (loyang),14,0,0,---,0.7
+2025-09-25,P003,Jus Stroberi Segar (cup),70,0,0,---,0.7
+2025-09-26,P001,Selai Stroberi (250g),53,0,0,---,4.8
+2025-09-26,P002,Strawberry Cake (loyang),18,0,0,---,4.8
+2025-09-26,P003,Jus Stroberi Segar (cup),85,0,0,---,4.8
+2025-09-27,P001,Selai Stroberi (250g),77,1,0,---,3.7
+2025-09-27,P002,Strawberry Cake (loyang),28,1,0,---,3.7
+2025-09-27,P003,Jus Stroberi Segar (cup),160,1,0,---,3.7
+2025-09-28,P001,Selai Stroberi (250g),54,1,0,---,4.0
+2025-09-28,P002,Strawberry Cake (loyang),22,1,0,---,4.0
+2025-09-28,P003,Jus Stroberi Segar (cup),116,1,0,---,4.0
+2025-09-29,P001,Selai Stroberi (250g),32,0,0,---,8.1
+2025-09-29,P002,Strawberry Cake (loyang),17,0,0,---,8.1
+2025-09-29,P003,Jus Stroberi Segar (cup),78,0,0,---,8.1
+2025-09-30,P001,Selai Stroberi (250g),43,0,0,---,9.1
+2025-09-30,P002,Strawberry Cake (loyang),19,0,0,---,9.1
+2025-09-30,P003,Jus Stroberi Segar (cup),77,0,0,---,9.1
+2025-10-01,P001,Selai Stroberi (250g),32,0,0,---,10.3
+2025-10-01,P002,Strawberry Cake (loyang),13,0,0,---,10.3
+2025-10-01,P003,Jus Stroberi Segar (cup),76,0,0,---,10.3
+2025-10-02,P001,Selai Stroberi (250g),32,0,0,---,10.2
+2025-10-02,P002,Strawberry Cake (loyang),12,0,0,---,10.2
+2025-10-02,P003,Jus Stroberi Segar (cup),76,0,0,---,10.2
+2025-10-03,P001,Selai Stroberi (250g),46,0,0,---,0.0
+2025-10-03,P002,Strawberry Cake (loyang),13,0,0,---,0.0
+2025-10-03,P003,Jus Stroberi Segar (cup),78,0,0,---,0.0
+2025-10-04,P001,Selai Stroberi (250g),78,1,0,---,0.5
+2025-10-04,P002,Strawberry Cake (loyang),28,1,0,---,0.5
+2025-10-04,P003,Jus Stroberi Segar (cup),138,1,0,---,0.5
+2025-10-05,P001,Selai Stroberi (250g),59,1,0,---,4.3
+2025-10-05,P002,Strawberry Cake (loyang),23,1,0,---,4.3
+2025-10-05,P003,Jus Stroberi Segar (cup),126,1,0,---,4.3
+2025-10-06,P001,Selai Stroberi (250g),35,0,0,---,0.7
+2025-10-06,P002,Strawberry Cake (loyang),14,0,0,---,0.7
+2025-10-06,P003,Jus Stroberi Segar (cup),82,0,0,---,0.7
+2025-10-07,P001,Selai Stroberi (250g),40,0,0,---,2.5
+2025-10-07,P002,Strawberry Cake (loyang),16,0,0,---,2.5
+2025-10-07,P003,Jus Stroberi Segar (cup),70,0,0,---,2.5
+2025-10-08,P001,Selai Stroberi (250g),41,0,0,---,3.5
+2025-10-08,P002,Strawberry Cake (loyang),17,0,0,---,3.5
+2025-10-08,P003,Jus Stroberi Segar (cup),84,0,0,---,3.5
+2025-10-09,P001,Selai Stroberi (250g),41,0,0,---,1.2
+2025-10-09,P002,Strawberry Cake (loyang),15,0,0,---,1.2
+2025-10-09,P003,Jus Stroberi Segar (cup),73,0,0,---,1.2
+2025-10-10,P001,Selai Stroberi (250g),44,0,0,---,0.1
+2025-10-10,P002,Strawberry Cake (loyang),18,0,0,---,0.1
+2025-10-10,P003,Jus Stroberi Segar (cup),87,0,0,---,0.1
+2025-10-11,P001,Selai Stroberi (250g),68,1,0,---,7.9
+2025-10-11,P002,Strawberry Cake (loyang),26,1,0,---,7.9
+2025-10-11,P003,Jus Stroberi Segar (cup),146,1,0,---,7.9
+2025-10-12,P001,Selai Stroberi (250g),59,1,0,---,1.1
+2025-10-12,P002,Strawberry Cake (loyang),23,1,0,---,1.1
+2025-10-12,P003,Jus Stroberi Segar (cup),124,1,0,---,1.1
+2025-10-13,P001,Selai Stroberi (250g),44,0,0,---,9.4
+2025-10-13,P002,Strawberry Cake (loyang),17,0,0,---,9.4
+2025-10-13,P003,Jus Stroberi Segar (cup),88,0,0,---,9.4
+2025-10-14,P001,Selai Stroberi (250g),36,0,0,---,5.2
+2025-10-14,P002,Strawberry Cake (loyang),14,0,0,---,5.2
+2025-10-14,P003,Jus Stroberi Segar (cup),79,0,0,---,5.2
+2025-10-15,P001,Selai Stroberi (250g),38,0,0,---,0.4
+2025-10-15,P002,Strawberry Cake (loyang),13,0,0,---,0.4
+2025-10-15,P003,Jus Stroberi Segar (cup),76,0,0,---,0.4
+2025-10-16,P001,Selai Stroberi (250g),38,0,0,---,0.4
+2025-10-16,P002,Strawberry Cake (loyang),14,0,0,---,0.4
+2025-10-16,P003,Jus Stroberi Segar (cup),77,0,0,---,0.4
+2025-10-17,P001,Selai Stroberi (250g),49,0,0,---,1.9
+2025-10-17,P002,Strawberry Cake (loyang),17,0,0,---,1.9
+2025-10-17,P003,Jus Stroberi Segar (cup),108,0,0,---,1.9
+2025-10-18,P001,Selai Stroberi (250g),73,1,0,---,6.6
+2025-10-18,P002,Strawberry Cake (loyang),27,1,0,---,6.6
+2025-10-18,P003,Jus Stroberi Segar (cup),144,1,0,---,6.6
+2025-10-19,P001,Selai Stroberi (250g),61,1,0,---,5.6
+2025-10-19,P002,Strawberry Cake (loyang),23,1,0,---,5.6
+2025-10-19,P003,Jus Stroberi Segar (cup),137,1,0,---,5.6
+2025-10-20,P001,Selai Stroberi (250g),37,0,0,---,3.4
+2025-10-20,P002,Strawberry Cake (loyang),16,0,0,---,3.4
+2025-10-20,P003,Jus Stroberi Segar (cup),82,0,0,---,3.4
+2025-10-21,P001,Selai Stroberi (250g),28,0,0,---,12.3
+2025-10-21,P002,Strawberry Cake (loyang),14,0,0,---,12.3
+2025-10-21,P003,Jus Stroberi Segar (cup),78,0,0,---,12.3
+2025-10-22,P001,Selai Stroberi (250g),37,0,0,---,8.2
+2025-10-22,P002,Strawberry Cake (loyang),15,0,0,---,8.2
+2025-10-22,P003,Jus Stroberi Segar (cup),66,0,0,---,8.2
+2025-10-23,P001,Selai Stroberi (250g),29,0,0,---,11.5
+2025-10-23,P002,Strawberry Cake (loyang),14,0,0,---,11.5
+2025-10-23,P003,Jus Stroberi Segar (cup),64,0,0,---,11.5
+2025-10-24,P001,Selai Stroberi (250g),40,0,0,---,8.8
+2025-10-24,P002,Strawberry Cake (loyang),17,0,0,---,8.8
+2025-10-24,P003,Jus Stroberi Segar (cup),84,0,0,---,8.8
+2025-10-25,P001,Selai Stroberi (250g),70,1,0,---,1.9
+2025-10-25,P002,Strawberry Cake (loyang),28,1,0,---,1.9
+2025-10-25,P003,Jus Stroberi Segar (cup),135,1,0,---,1.9
+2025-10-26,P001,Selai Stroberi (250g),56,1,0,---,7.3
+2025-10-26,P002,Strawberry Cake (loyang),23,1,0,---,7.3
+2025-10-26,P003,Jus Stroberi Segar (cup),128,1,0,---,7.3
+2025-10-27,P001,Selai Stroberi (250g),39,0,0,---,18.5
+2025-10-27,P002,Strawberry Cake (loyang),12,0,0,---,18.5
+2025-10-27,P003,Jus Stroberi Segar (cup),75,0,0,---,18.5
+2025-10-28,P001,Selai Stroberi (250g),37,0,0,---,9.7
+2025-10-28,P002,Strawberry Cake (loyang),18,0,0,---,9.7
+2025-10-28,P003,Jus Stroberi Segar (cup),71,0,0,---,9.7
+2025-10-29,P001,Selai Stroberi (250g),45,0,0,---,1.6
+2025-10-29,P002,Strawberry Cake (loyang),14,0,0,---,1.6
+2025-10-29,P003,Jus Stroberi Segar (cup),96,0,0,---,1.6
+2025-10-30,P001,Selai Stroberi (250g),28,0,0,---,24.5
+2025-10-30,P002,Strawberry Cake (loyang),8,0,0,---,24.5
+2025-10-30,P003,Jus Stroberi Segar (cup),48,0,0,---,24.5
+2025-10-31,P001,Selai Stroberi (250g),47,0,0,---,4.9
+2025-10-31,P002,Strawberry Cake (loyang),18,0,0,---,4.9
+2025-10-31,P003,Jus Stroberi Segar (cup),87,0,0,---,4.9
+2025-11-01,P001,Selai Stroberi (250g),72,1,0,---,5.7
+2025-11-01,P002,Strawberry Cake (loyang),28,1,0,---,5.7
+2025-11-01,P003,Jus Stroberi Segar (cup),145,1,0,---,5.7
+2025-11-02,P001,Selai Stroberi (250g),55,1,0,---,9.9
+2025-11-02,P002,Strawberry Cake (loyang),21,1,0,---,9.9
+2025-11-02,P003,Jus Stroberi Segar (cup),122,1,0,---,9.9
+2025-11-03,P001,Selai Stroberi (250g),39,0,0,---,15.7
+2025-11-03,P002,Strawberry Cake (loyang),15,0,0,---,15.7
+2025-11-03,P003,Jus Stroberi Segar (cup),74,0,0,---,15.7
+2025-11-04,P001,Selai Stroberi (250g),41,0,0,---,6.5
+2025-11-04,P002,Strawberry Cake (loyang),16,0,0,---,6.5
+2025-11-04,P003,Jus Stroberi Segar (cup),75,0,0,---,6.5
+2025-11-05,P001,Selai Stroberi (250g),39,0,0,---,4.0
+2025-11-05,P002,Strawberry Cake (loyang),14,0,0,---,4.0
+2025-11-05,P003,Jus Stroberi Segar (cup),70,0,0,---,4.0
+2025-11-06,P001,Selai Stroberi (250g),35,0,0,---,18.2
+2025-11-06,P002,Strawberry Cake (loyang),13,0,0,---,18.2
+2025-11-06,P003,Jus Stroberi Segar (cup),74,0,0,---,18.2
+2025-11-07,P001,Selai Stroberi (250g),40,0,0,---,15.1
+2025-11-07,P002,Strawberry Cake (loyang),15,0,0,---,15.1
+2025-11-07,P003,Jus Stroberi Segar (cup),80,0,0,---,15.1
+2025-11-08,P001,Selai Stroberi (250g),58,1,0,---,39.9
+2025-11-08,P002,Strawberry Cake (loyang),22,1,0,---,39.9
+2025-11-08,P003,Jus Stroberi Segar (cup),110,1,0,---,39.9
+2025-11-09,P001,Selai Stroberi (250g),61,1,0,---,9.5
+2025-11-09,P002,Strawberry Cake (loyang),24,1,0,---,9.5
+2025-11-09,P003,Jus Stroberi Segar (cup),115,1,0,---,9.5
+2025-11-10,P001,Selai Stroberi (250g),40,0,0,---,5.7
+2025-11-10,P002,Strawberry Cake (loyang),14,0,0,---,5.7
+2025-11-10,P003,Jus Stroberi Segar (cup),76,0,0,---,5.7
+2025-11-11,P001,Selai Stroberi (250g),22,0,0,---,22.5
+2025-11-11,P002,Strawberry Cake (loyang),12,0,0,---,22.5
+2025-11-11,P003,Jus Stroberi Segar (cup),61,0,0,---,22.5
+2025-11-12,P001,Selai Stroberi (250g),42,0,0,---,9.3
+2025-11-12,P002,Strawberry Cake (loyang),18,0,0,---,9.3
+2025-11-12,P003,Jus Stroberi Segar (cup),78,0,0,---,9.3
+2025-11-13,P001,Selai Stroberi (250g),52,0,0,---,6.0
+2025-11-13,P002,Strawberry Cake (loyang),15,0,0,---,6.0
+2025-11-13,P003,Jus Stroberi Segar (cup),82,0,0,---,6.0
+2025-11-14,P001,Selai Stroberi (250g),36,0,0,---,17.7
+2025-11-14,P002,Strawberry Cake (loyang),15,0,0,---,17.7
+2025-11-14,P003,Jus Stroberi Segar (cup),83,0,0,---,17.7
+2025-11-15,P001,Selai Stroberi (250g),66,1,0,---,18.0
+2025-11-15,P002,Strawberry Cake (loyang),27,1,0,---,18.0
+2025-11-15,P003,Jus Stroberi Segar (cup),134,1,0,---,18.0
+2025-11-16,P001,Selai Stroberi (250g),61,1,0,---,4.7
+2025-11-16,P002,Strawberry Cake (loyang),21,1,0,---,4.7
+2025-11-16,P003,Jus Stroberi Segar (cup),123,1,0,---,4.7
+2025-11-17,P001,Selai Stroberi (250g),39,0,0,---,4.4
+2025-11-17,P002,Strawberry Cake (loyang),14,0,0,---,4.4
+2025-11-17,P003,Jus Stroberi Segar (cup),74,0,0,---,4.4
+2025-11-18,P001,Selai Stroberi (250g),37,0,0,---,28.9
+2025-11-18,P002,Strawberry Cake (loyang),9,0,0,---,28.9
+2025-11-18,P003,Jus Stroberi Segar (cup),40,0,0,---,28.9
+2025-11-19,P001,Selai Stroberi (250g),31,0,0,---,13.4
+2025-11-19,P002,Strawberry Cake (loyang),13,0,0,---,13.4
+2025-11-19,P003,Jus Stroberi Segar (cup),72,0,0,---,13.4
+2025-11-20,P001,Selai Stroberi (250g),28,0,0,---,28.5
+2025-11-20,P002,Strawberry Cake (loyang),11,0,0,---,28.5
+2025-11-20,P003,Jus Stroberi Segar (cup),47,0,0,---,28.5
+2025-11-21,P001,Selai Stroberi (250g),45,0,0,---,4.4
+2025-11-21,P002,Strawberry Cake (loyang),15,0,0,---,4.4
+2025-11-21,P003,Jus Stroberi Segar (cup),83,0,0,---,4.4
+2025-11-22,P001,Selai Stroberi (250g),62,1,0,---,15.3
+2025-11-22,P002,Strawberry Cake (loyang),23,1,0,---,15.3
+2025-11-22,P003,Jus Stroberi Segar (cup),141,1,0,---,15.3
+2025-11-23,P001,Selai Stroberi (250g),63,1,0,---,9.7
+2025-11-23,P002,Strawberry Cake (loyang),24,1,0,---,9.7
+2025-11-23,P003,Jus Stroberi Segar (cup),120,1,0,---,9.7
+2025-11-24,P001,Selai Stroberi (250g),43,0,0,---,0.2
+2025-11-24,P002,Strawberry Cake (loyang),12,0,0,---,0.2
+2025-11-24,P003,Jus Stroberi Segar (cup),87,0,0,---,0.2
+2025-11-25,P001,Selai Stroberi (250g),41,0,0,---,0.0
+2025-11-25,P002,Strawberry Cake (loyang),16,0,0,---,0.0
+2025-11-25,P003,Jus Stroberi Segar (cup),83,0,0,---,0.0
+2025-11-26,P001,Selai Stroberi (250g),36,0,0,---,2.1
+2025-11-26,P002,Strawberry Cake (loyang),13,0,0,---,2.1
+2025-11-26,P003,Jus Stroberi Segar (cup),74,0,0,---,2.1
+2025-11-27,P001,Selai Stroberi (250g),42,0,0,---,0.7
+2025-11-27,P002,Strawberry Cake (loyang),16,0,0,---,0.7
+2025-11-27,P003,Jus Stroberi Segar (cup),69,0,0,---,0.7
+2025-11-28,P001,Selai Stroberi (250g),40,0,0,---,0.1
+2025-11-28,P002,Strawberry Cake (loyang),15,0,0,---,0.1
+2025-11-28,P003,Jus Stroberi Segar (cup),85,0,0,---,0.1
+2025-11-29,P001,Selai Stroberi (250g),67,1,0,---,4.8
+2025-11-29,P002,Strawberry Cake (loyang),25,1,0,---,4.8
+2025-11-29,P003,Jus Stroberi Segar (cup),137,1,0,---,4.8
+2025-11-30,P001,Selai Stroberi (250g),60,1,0,---,5.4
+2025-11-30,P002,Strawberry Cake (loyang),21,1,0,---,5.4
+2025-11-30,P003,Jus Stroberi Segar (cup),119,1,0,---,5.4
+2025-12-01,P001,Selai Stroberi (250g),44,0,0,---,2.2
+2025-12-01,P002,Strawberry Cake (loyang),13,0,0,---,2.2
+2025-12-01,P003,Jus Stroberi Segar (cup),78,0,0,---,2.2
+2025-12-02,P001,Selai Stroberi (250g),44,0,0,---,2.4
+2025-12-02,P002,Strawberry Cake (loyang),14,0,0,---,2.4
+2025-12-02,P003,Jus Stroberi Segar (cup),75,0,0,---,2.4
+2025-12-03,P001,Selai Stroberi (250g),45,0,0,---,10.0
+2025-12-03,P002,Strawberry Cake (loyang),15,0,0,---,10.0
+2025-12-03,P003,Jus Stroberi Segar (cup),89,0,0,---,10.0
+2025-12-04,P001,Selai Stroberi (250g),36,0,0,---,18.8
+2025-12-04,P002,Strawberry Cake (loyang),12,0,0,---,18.8
+2025-12-04,P003,Jus Stroberi Segar (cup),72,0,0,---,18.8
+2025-12-05,P001,Selai Stroberi (250g),39,0,0,---,10.7
+2025-12-05,P002,Strawberry Cake (loyang),16,0,0,---,10.7
+2025-12-05,P003,Jus Stroberi Segar (cup),72,0,0,---,10.7
+2025-12-06,P001,Selai Stroberi (250g),66,1,0,---,10.4
+2025-12-06,P002,Strawberry Cake (loyang),25,1,0,---,10.4
+2025-12-06,P003,Jus Stroberi Segar (cup),138,1,0,---,10.4
+2025-12-07,P001,Selai Stroberi (250g),56,1,0,---,1.4
+2025-12-07,P002,Strawberry Cake (loyang),24,1,0,---,1.4
+2025-12-07,P003,Jus Stroberi Segar (cup),124,1,0,---,1.4
+2025-12-08,P001,Selai Stroberi (250g),35,0,0,---,5.4
+2025-12-08,P002,Strawberry Cake (loyang),17,0,0,---,5.4
+2025-12-08,P003,Jus Stroberi Segar (cup),98,0,0,---,5.4
+2025-12-09,P001,Selai Stroberi (250g),44,0,0,---,1.7
+2025-12-09,P002,Strawberry Cake (loyang),17,0,0,---,1.7
+2025-12-09,P003,Jus Stroberi Segar (cup),81,0,0,---,1.7
+2025-12-10,P001,Selai Stroberi (250g),27,0,0,---,11.3
+2025-12-10,P002,Strawberry Cake (loyang),10,0,0,---,11.3
+2025-12-10,P003,Jus Stroberi Segar (cup),70,0,0,---,11.3
+2025-12-11,P001,Selai Stroberi (250g),38,0,0,---,2.9
+2025-12-11,P002,Strawberry Cake (loyang),14,0,0,---,2.9
+2025-12-11,P003,Jus Stroberi Segar (cup),79,0,0,---,2.9
+2025-12-12,P001,Selai Stroberi (250g),46,0,0,---,1.4
+2025-12-12,P002,Strawberry Cake (loyang),14,0,0,---,1.4
+2025-12-12,P003,Jus Stroberi Segar (cup),84,0,0,---,1.4
+2025-12-13,P001,Selai Stroberi (250g),78,1,0,---,3.2
+2025-12-13,P002,Strawberry Cake (loyang),25,1,0,---,3.2
+2025-12-13,P003,Jus Stroberi Segar (cup),151,1,0,---,3.2
+2025-12-14,P001,Selai Stroberi (250g),44,1,0,---,26.0
+2025-12-14,P002,Strawberry Cake (loyang),18,1,0,---,26.0
+2025-12-14,P003,Jus Stroberi Segar (cup),101,1,0,---,26.0
+2025-12-15,P001,Selai Stroberi (250g),43,0,0,---,3.4
+2025-12-15,P002,Strawberry Cake (loyang),16,0,0,---,3.4
+2025-12-15,P003,Jus Stroberi Segar (cup),71,0,0,---,3.4
+2025-12-16,P001,Selai Stroberi (250g),44,0,0,---,2.6
+2025-12-16,P002,Strawberry Cake (loyang),14,0,0,---,2.6
+2025-12-16,P003,Jus Stroberi Segar (cup),82,0,0,---,2.6
+2025-12-17,P001,Selai Stroberi (250g),35,0,0,---,10.9
+2025-12-17,P002,Strawberry Cake (loyang),13,0,0,---,10.9
+2025-12-17,P003,Jus Stroberi Segar (cup),71,0,0,---,10.9
+2025-12-18,P001,Selai Stroberi (250g),37,0,0,---,8.5
+2025-12-18,P002,Strawberry Cake (loyang),13,0,0,---,8.5
+2025-12-18,P003,Jus Stroberi Segar (cup),87,0,0,---,8.5
+2025-12-19,P001,Selai Stroberi (250g),39,0,0,---,11.8
+2025-12-19,P002,Strawberry Cake (loyang),16,0,0,---,11.8
+2025-12-19,P003,Jus Stroberi Segar (cup),76,0,0,---,11.8
+2025-12-20,P001,Selai Stroberi (250g),60,1,0,---,12.2
+2025-12-20,P002,Strawberry Cake (loyang),26,1,0,---,12.2
+2025-12-20,P003,Jus Stroberi Segar (cup),129,1,0,---,12.2
+2025-12-21,P001,Selai Stroberi (250g),61,1,0,---,9.4
+2025-12-21,P002,Strawberry Cake (loyang),22,1,0,---,9.4
+2025-12-21,P003,Jus Stroberi Segar (cup),133,1,0,---,9.4
+2025-12-22,P001,Selai Stroberi (250g),36,0,0,---,6.8
+2025-12-22,P002,Strawberry Cake (loyang),14,0,0,---,6.8
+2025-12-22,P003,Jus Stroberi Segar (cup),81,0,0,---,6.8
+2025-12-23,P001,Selai Stroberi (250g),36,0,0,---,3.0
+2025-12-23,P002,Strawberry Cake (loyang),15,0,0,---,3.0
+2025-12-23,P003,Jus Stroberi Segar (cup),93,0,0,---,3.0
+2025-12-24,P001,Selai Stroberi (250g),86,0,0,H-1,2.6
+2025-12-24,P002,Strawberry Cake (loyang),34,0,0,H-1,2.6
+2025-12-24,P003,Jus Stroberi Segar (cup),154,0,0,H-1,2.6
+2025-12-25,P001,Selai Stroberi (250g),140,0,1,H,5.7
+2025-12-25,P002,Strawberry Cake (loyang),52,0,1,H,5.7
+2025-12-25,P003,Jus Stroberi Segar (cup),273,0,1,H,5.7
+2025-12-26,P001,Selai Stroberi (250g),88,0,0,H+1,5.8
+2025-12-26,P002,Strawberry Cake (loyang),31,0,0,H+1,5.8
+2025-12-26,P003,Jus Stroberi Segar (cup),167,0,0,H+1,5.8
+2025-12-27,P001,Selai Stroberi (250g),90,1,0,H+2,5.9
+2025-12-27,P002,Strawberry Cake (loyang),32,1,0,H+2,5.9
+2025-12-27,P003,Jus Stroberi Segar (cup),175,1,0,H+2,5.9
+2025-12-28,P001,Selai Stroberi (250g),58,1,0,---,14.0
+2025-12-28,P002,Strawberry Cake (loyang),17,1,0,---,14.0
+2025-12-28,P003,Jus Stroberi Segar (cup),102,1,0,---,14.0
+2025-12-29,P001,Selai Stroberi (250g),38,0,0,---,7.5
+2025-12-29,P002,Strawberry Cake (loyang),18,0,0,---,7.5
+2025-12-29,P003,Jus Stroberi Segar (cup),86,0,0,---,7.5
+2025-12-30,P001,Selai Stroberi (250g),38,0,0,---,8.9
+2025-12-30,P002,Strawberry Cake (loyang),17,0,0,---,8.9
+2025-12-30,P003,Jus Stroberi Segar (cup),74,0,0,---,8.9
+2025-12-31,P001,Selai Stroberi (250g),30,0,0,---,22.0
+2025-12-31,P002,Strawberry Cake (loyang),8,0,0,---,22.0
+2025-12-31,P003,Jus Stroberi Segar (cup),61,0,0,---,22.0
